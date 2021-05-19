@@ -85,7 +85,7 @@ clean_nhanes <- function(data){
 
 quote_all <- function(...){
   args<-rlang::ensyms(...)
-  paste(purrr::map(args,as_string),sep = "")
+  paste(purrr::map(args, as_string),sep = "")
 }
 
 clean_list <- function(data) {
