@@ -1,0 +1,2017 @@
+variable,label
+seqn,Respondent sequence number
+alq100,Had at least 12 alcohol drinks/1 yr?
+alq110,Had at least 12 alcohol drinks/lifetime?
+alq120q,How often drink alcohol over past 12 mos
+alq120u,"# days drink alcohol per wk, mo, yr"
+alq130,Avg # alcoholic drinks/day -past 12 mos
+alq140q,# days have 5 or more drinks/past 12 mos
+alq140u,"# days per week, month, year?"
+alq150,Ever have 5 or more drinks every day?
+bmaexlen,length of a MEC exam (sec)
+bmaexsts,Status of a MEC exam
+bmaexcmt,Comment code for an exam
+bmxwt,Weight (kg)
+bmiwt,Weight Comment
+bmxrecum,Recumbent Length (cm)
+bmirecum,Recumbent Length Comment
+bmxhead,Head Circumference (cm)
+bmihead,Head Circumference Comment
+bmxht,Standing Height (cm)
+bmiht,Standing Height Comment
+bmxbmi,Body Mass Index (kg/m**2)
+bmxleg,Upper Leg Length (cm)
+bmileg,Upper Leg Length Comment
+bmxcalf,Maximal Calf Circumference (cm)
+bmicalf,Maximal Calf Comment
+bmxarml,Upper Arm Length (cm)
+bmiarml,Upper Arm Length Comment
+bmxarmc,Arm Circumference (cm)
+bmiarmc,Arm Circumference Comment
+bmxwaist,Waist Circumference (cm)
+bmiwaist,Waist Circumference Comment
+bmxthicr,Thigh Circumference (cm)
+bmithicr,Thigh Circumference Comment
+bmxtri,Triceps Skinfold (mm)
+bmitri,Triceps Skinfold Comment
+bmxsub,Subscapular Skinfold (mm)
+bmisub,Subscapular Skinfold Comment
+bmaamp,Amputations?
+bmaurext,Amputations: Upper Right Extremity?
+bmauprel,Amputations: UR  Above or Below Elbow?
+bmaulext,Amputations: Upper Left Extremity?
+bmauplel,Amputations: UL  Above or Below Elbow?
+bmalorex,Amputations: Lower Right Extremity?
+bmalorkn,Amputations: LR  Above or Below Knee?
+bmallext,Amputations: Lower Left Extremity?
+bmallkne,Amputations: LL  Above or Below Knee?
+bpq010,Last blood pressure reading by doctor
+bpq020,Ever told you had high blood pressure
+bpq030,Told had high blood pressure - 2+ times
+bpq040a,Taking prescription for hypertension
+bpq040b,Told to control weight for hypertension
+bpq040c,Told to reduce sodium for hypertension
+bpq040d,Told to exercise more for hypertension
+bpq040e,Told to reduce alcohol for hypertension
+bpq040f,Told to do other things for hypertension
+bpq043a,Told to stop smoking for hypertension
+bpq043b,Told to increase potassium for hyprtnsn
+bpq043c,Told of other diet changes for hyprtnsn
+bpq043d,Told to do other things for hyprtnsn
+bpq050a,Now taking prescribed medicine
+bpq050b,Now controlling weight
+bpq050c,Now reducing salt/sodium
+bpq050d,Now exercising more
+bpq050e,Now reducing alcohol consumption
+bpq060,Ever had blood cholesterol checked
+bpq070,When blood cholesterol last checked
+bpq080,Doctor told you - high cholesterol level
+bpq090a,Told to eat less fat for cholesterol
+bpq090b,Told to reduce weight for cholesterol
+bpq090c,Told to exercise more for cholesterol
+bpq090d,Told to take prescriptn for cholesterol
+bpq100a,Now eating fewer high fat foods
+bpq100b,Now controlling weight
+bpq100c,Now increasing exercise
+bpq100d,Now taking prescribed medicine
+bpq110a,Eating fewer high fat foods on own
+bpq110b,Controlling weight on own
+bpq110c,Increasing exercise on own
+bpq120,Eating fewer high fat foods on own
+bpq130,Controlling weight on own
+bpq140,Increasing exercise on own
+peascst1,Blood Pressure Status
+peasctm1,Blood Pressure Time in Seconds
+peascct1,Blood Pressure Comment
+bpxchr,60 sec HR (30 sec HR * 2)
+bpq150a,Had food in the past 30 minutes?
+bpq150b,Had alcohol in the past 30 minutes?
+bpq150c,Had coffee in the past 30 minutes?
+bpq150d,Had cigarettes in the past 30 minutes?
+bpaarm,Arm selected:
+bpacsz,Coded cuff size
+bpxpls,60 sec. pulse (30 sec. pulse * 2):
+bpxdb,# of dropped beats in 30 seconds
+bpxpuls,Pulse regular or irregular?
+bpxpty,Pulse type:
+bpxml1,MIL: maximum inflation levels (mm Hg)
+bpxsy1,Systolic: Blood pres  (1st rdg) mm Hg
+bpxdi1,Diastolic: Blood pres  (1st rdg) mm Hg
+bpaen1,Enhancement used first reading
+bpxsy2,Systolic: Blood pres  (2nd rdg) mm Hg
+bpxdi2,Diastolic: Blood pres  (2nd rdg) mm Hg
+bpaen2,Enhancement used second reading
+bpxsy3,Systolic: Blood pres  (3rd rdg) mm Hg
+bpxdi3,Diastolic: Blood pres  (3rd rdg) mm Hg
+bpaen3,Enhancement used third reading
+bpxsy4,Systolic: Blood pres  (4th rdg) mm Hg
+bpxdi4,Diastolic: Blood pres  (4th rdg) mm Hg
+bpaen4,Enhancement used fourth reading
+bpxsar,SBP average reported to examinee
+bpxdar,DBP average reported to examinee
+dbq010,Ever breastfed or fed breastmilk
+dbd020,Age started eating other foods (days)
+dbd030,Age stopped breastfeeding(days)
+dbd040,Age fed formula daily basis(days)
+dbd050,Age when stopped receiving formula(days)
+dbd060,Age first fed milk daily basis(days)
+dbq070a,Type of milk first fed - whole milk
+dbq070b,Type of milk first fed - 2% milk
+dbq070c,Type of milk first fed - 1% milk
+dbq070d,Type of milk first fed - skim/nonfat
+dbd070j,Type of milk first fed - other
+dbd080,Age started eating solid foods(days)
+dbd090,# of times/week eat restaurant food
+dbq095,Type of salt used at table
+dbq100,How often add salt to food at table
+dbq110,Ever eat poultry
+dbq120,"When eat poultry, how often eat skin"
+dbq130,"Ever eat beef, pork, lamb or veal"
+dbq140,"When eating meat, ever eat visible fat"
+dbd195,Past 30 day milk product consumption
+dbq220a,You drink whole or regular milk
+dbq220b,You drink 2% fat milk
+dbq220c,You drink 1% fat milk
+dbq220d,"You drink skim, nonfat or .5% milk"
+dbd220j,You drank another type of milk
+dbd235a,How often drank milk age 5-12
+dbd235b,How often drank milk age 13-17
+dbd235c,How often drank milk age 18-35
+ald240,How often drink beer(per month)
+ald250,How often drink wine(per month)
+ald260,How often drink hard liquor(per month)
+dbd270a,Helping of protein food eaten/day
+dbd270b,Helping of milk/dairy foods eaten/day
+dbd270c,Helping of fruit/fruit juices eaten/day
+dbd270d,Helping of vegetables eaten/day
+dbd270e,Helping of breads/grain foods eaten/day
+dbq300,Community/Government meals delivered
+dbq330,Eat meals at community/senior center
+dbd360,Attend kindergarten thru high school
+dbd370,School serves school lunches
+dbd380,# of times/week get school lunch
+dbq390,"School lunch free, reduced or full price"
+dbd400,School serve complete breakfast each day
+dbd410,# of times/week get school breakfast
+dbq420,School breakfast free/reduced/full price
+sddsrvyr,Data Release Number
+ridstatr,Interview/Examination Status
+ridexmon,Six month time period
+riagendr,Gender
+ridageyr,Age at Screening Adjudicated - Recode
+ridagemn,Age in Months - Recode
+ridageex,Exam Age in Months - Recode
+ridreth1,Race/Ethnicity - Recode
+ridreth2,Linked NH3 Race/Ethnicity - Recode
+dmqmilit,Veteran/Military Status
+dmdborn,Country of Birth - Recode
+dmdcitzn,Citizenship Status
+dmdyrsus,Length of time in US
+dmdeduc3,Education Level - Children/Youth 6-19
+dmdeduc2,Education Level - Adults 20+
+dmdeduc,Education - Recode (old version)
+dmdschol,Now attending school?
+dmdmartl,Marital Status
+dmdhhsiz,Total number of people in the Household
+indhhinc,Annual Household Income
+indfminc,Annual Family Income
+indfmpir,Family PIR
+ridexprg,Pregnancy Status at Exam - Recode
+ridpreg,Pregnancy Status - Recode (old version)
+dmdhrgnd,HH Ref Person Gender
+dmdhrage,HH Ref Person Age
+dmdhrbrn,HH Ref Person Country of Birth
+dmdhredu,HH Ref Person Education Level
+dmdhrmar,HH Ref Person Marital Status
+dmdhsedu,HH Ref Person's Spouse Education Level
+wtint2yr,Full Sample 2 Year Interview Weight
+wtint4yr,Full Sample 4 Year Interview Weight
+wtmec2yr,Full Sample 2 Year MEC Exam Weight
+wtmec4yr,Full Sample 4 Year MEC Exam Weight
+sdmvpsu,Masked Variance Pseudo-PSU
+sdmvstra,Masked Variance Pseudo-Stratum
+sdj1repn,Jack Knife Replicate Number
+dmaethn,Logical Imputation Flag for Ethnicity
+dmarace,Logical Imputation Flag for Race Recode
+wtmrep01,MEC Exam Weight Jack Knife Replicate 01
+wtmrep02,MEC Exam Weight Jack Knife Replicate 02
+wtmrep03,MEC Exam Weight Jack Knife Replicate 03
+wtmrep04,MEC Exam Weight Jack Knife Replicate 04
+wtmrep05,MEC Exam Weight Jack Knife Replicate 05
+wtmrep06,MEC Exam Weight Jack Knife Replicate 06
+wtmrep07,MEC Exam Weight Jack Knife Replicate 07
+wtmrep08,MEC Exam Weight Jack Knife Replicate 08
+wtmrep09,MEC Exam Weight Jack Knife Replicate 09
+wtmrep10,MEC Exam Weight Jack Knife Replicate 10
+wtmrep11,MEC Exam Weight Jack Knife Replicate 11
+wtmrep12,MEC Exam Weight Jack Knife Replicate 12
+wtmrep13,MEC Exam Weight Jack Knife Replicate 13
+wtmrep14,MEC Exam Weight Jack Knife Replicate 14
+wtmrep15,MEC Exam Weight Jack Knife Replicate 15
+wtmrep16,MEC Exam Weight Jack Knife Replicate 16
+wtmrep17,MEC Exam Weight Jack Knife Replicate 17
+wtmrep18,MEC Exam Weight Jack Knife Replicate 18
+wtmrep19,MEC Exam Weight Jack Knife Replicate 19
+wtmrep20,MEC Exam Weight Jack Knife Replicate 20
+wtmrep21,MEC Exam Weight Jack Knife Replicate 21
+wtmrep22,MEC Exam Weight Jack Knife Replicate 22
+wtmrep23,MEC Exam Weight Jack Knife Replicate 23
+wtmrep24,MEC Exam Weight Jack Knife Replicate 24
+wtmrep25,MEC Exam Weight Jack Knife Replicate 25
+wtmrep26,MEC Exam Weight Jack Knife Replicate 26
+wtmrep27,MEC Exam Weight Jack Knife Replicate 27
+wtmrep28,MEC Exam Weight Jack Knife Replicate 28
+wtmrep29,MEC Exam Weight Jack Knife Replicate 29
+wtmrep30,MEC Exam Weight Jack Knife Replicate 30
+wtmrep31,MEC Exam Weight Jack Knife Replicate 31
+wtmrep32,MEC Exam Weight Jack Knife Replicate 32
+wtmrep33,MEC Exam Weight Jack Knife Replicate 33
+wtmrep34,MEC Exam Weight Jack Knife Replicate 34
+wtmrep35,MEC Exam Weight Jack Knife Replicate 35
+wtmrep36,MEC Exam Weight Jack Knife Replicate 36
+wtmrep37,MEC Exam Weight Jack Knife Replicate 37
+wtmrep38,MEC Exam Weight Jack Knife Replicate 38
+wtmrep39,MEC Exam Weight Jack Knife Replicate 39
+wtmrep40,MEC Exam Weight Jack Knife Replicate 40
+wtmrep41,MEC Exam Weight Jack Knife Replicate 41
+wtmrep42,MEC Exam Weight Jack Knife Replicate 42
+wtmrep43,MEC Exam Weight Jack Knife Replicate 43
+wtmrep44,MEC Exam Weight Jack Knife Replicate 44
+wtmrep45,MEC Exam Weight Jack Knife Replicate 45
+wtmrep46,MEC Exam Weight Jack Knife Replicate 46
+wtmrep47,MEC Exam Weight Jack Knife Replicate 47
+wtmrep48,MEC Exam Weight Jack Knife Replicate 48
+wtmrep49,MEC Exam Weight Jack Knife Replicate 49
+wtmrep50,MEC Exam Weight Jack Knife Replicate 50
+wtmrep51,MEC Exam Weight Jack Knife Replicate 51
+wtmrep52,MEC Exam Weight Jack Knife Replicate 52
+wtirep01,Interview Weight Jack Knife Replicate 01
+wtirep02,Interview Weight Jack Knife Replicate 02
+wtirep03,Interview Weight Jack Knife Replicate 03
+wtirep04,Interview Weight Jack Knife Replicate 04
+wtirep05,Interview Weight Jack Knife Replicate 05
+wtirep06,Interview Weight Jack Knife Replicate 06
+wtirep07,Interview Weight Jack Knife Replicate 07
+wtirep08,Interview Weight Jack Knife Replicate 08
+wtirep09,Interview Weight Jack Knife Replicate 09
+wtirep10,Interview Weight Jack Knife Replicate 10
+wtirep11,Interview Weight Jack Knife Replicate 11
+wtirep12,Interview Weight Jack Knife Replicate 12
+wtirep13,Interview Weight Jack Knife Replicate 13
+wtirep14,Interview Weight Jack Knife Replicate 14
+wtirep15,Interview Weight Jack Knife Replicate 15
+wtirep16,Interview Weight Jack Knife Replicate 16
+wtirep17,Interview Weight Jack Knife Replicate 17
+wtirep18,Interview Weight Jack Knife Replicate 18
+wtirep19,Interview Weight Jack Knife Replicate 19
+wtirep20,Interview Weight Jack Knife Replicate 20
+wtirep21,Interview Weight Jack Knife Replicate 21
+wtirep22,Interview Weight Jack Knife Replicate 22
+wtirep23,Interview Weight Jack Knife Replicate 23
+wtirep24,Interview Weight Jack Knife Replicate 24
+wtirep25,Interview Weight Jack Knife Replicate 25
+wtirep26,Interview Weight Jack Knife Replicate 26
+wtirep27,Interview Weight Jack Knife Replicate 27
+wtirep28,Interview Weight Jack Knife Replicate 28
+wtirep29,Interview Weight Jack Knife Replicate 29
+wtirep30,Interview Weight Jack Knife Replicate 30
+wtirep31,Interview Weight Jack Knife Replicate 31
+wtirep32,Interview Weight Jack Knife Replicate 32
+wtirep33,Interview Weight Jack Knife Replicate 33
+wtirep34,Interview Weight Jack Knife Replicate 34
+wtirep35,Interview Weight Jack Knife Replicate 35
+wtirep36,Interview Weight Jack Knife Replicate 36
+wtirep37,Interview Weight Jack Knife Replicate 37
+wtirep38,Interview Weight Jack Knife Replicate 38
+wtirep39,Interview Weight Jack Knife Replicate 39
+wtirep40,Interview Weight Jack Knife Replicate 40
+wtirep41,Interview Weight Jack Knife Replicate 41
+wtirep42,Interview Weight Jack Knife Replicate 42
+wtirep43,Interview Weight Jack Knife Replicate 43
+wtirep44,Interview Weight Jack Knife Replicate 44
+wtirep45,Interview Weight Jack Knife Replicate 45
+wtirep46,Interview Weight Jack Knife Replicate 46
+wtirep47,Interview Weight Jack Knife Replicate 47
+wtirep48,Interview Weight Jack Knife Replicate 48
+wtirep49,Interview Weight Jack Knife Replicate 49
+wtirep50,Interview Weight Jack Knife Replicate 50
+wtirep51,Interview Weight Jack Knife Replicate 51
+wtirep52,Interview Weight Jack Knife Replicate 52
+diq010,Doctor told you have diabetes
+diq040g,Age when first told you had diabetes
+diq040q,Number of years of age
+diq050,Taking insulin now
+diq060g,How long taking insulin
+diq060q,Number of mos/yrs taking insulin
+diq060u,Unit of measure (month/year)
+diq070,Take diabetic pills to lower blood sugar
+diq080,Diabetes affected eyes/had retinopathy
+diq090,Ulcer/sore not healed within 4 weeks
+diq100,Numbness in hands/feet-past 3 mos
+diq110,"Numbness in hands, feet or both"
+diq120,Pain/tingling in hands/feet - past 3 mos
+diq130,"Pain/tingling in hands,feet or both"
+diq140,Pain in either leg while walking
+diq150,Pain  in calf or calves
+wtdrd1,Dietary day one 2-Year sample weight
+wtdr4yr,Dietary day one 4-Year sample weight
+drddrsts,Dietary recall status
+drdexmer,Interviewer ID code (sequential #)
+drascst2,Post dietary recall section status
+drdainmd,Assigned mode of interview
+drdintmd,Mode of interview
+drdday,Intake day of the week
+dralang,Language SP/Proxy used mostly
+draresp,Main respondent for the interview
+drdtsodf,Salt adjustment flag
+drxtkcal,Energy (kcal)
+drxtprot,Protein (gm)
+drxtcarb,Carbohydrate (gm)
+drxttfat,Total fat (gm)
+drxtsfat,Total saturated fatty acids (gm)
+drxtmfat,Total monounsaturated fatty acids (gm)
+drxtpfat,Total polyunsaturated fatty acids (gm)
+drxtchol,Cholesterol (mg)
+drxtfibe,Dietary fiber (gm)
+drxtvaiu,Vitamin A (IU)
+drxtvare,Vitamin A (RE)
+drxtcaro,Carotene (RE)
+drxtvb1,Thiamin (Vitamin B1) (mg)
+drxtvb2,Riboflavin (Vitamin B2) (mg)
+drxtniac,Niacin (mg)
+drxtvb6,Vitamin B6 (mg)
+drxtfola,Total Folate (mcg)
+drxtvb12,Vitamin B12 (mcg)
+drxtvc,Vitamin C (mg)
+drxtve,Vitamin E (ATE) (mg)
+drxtcalc,Calcium (mg)
+drxtphos,Phosphorus (mg)
+drxtmagn,Magnesium (mg)
+drxtiron,Iron (mg)
+drxtzinc,Zinc (mg)
+drxtcopp,Copper (mg)
+drdtsodi,Sodium (mg)
+drxtpota,Potassium (mg)
+drxtsele,Selenium (mcg)
+drxtcaff,Caffeine (mg)
+drxttheo,Theobromine (mg)
+drxtalco,Alcohol (gm)
+drxtwate,Moisture (gm)
+drxts040,SFA 4:0 (Butanoic) (gm)
+drxts060,SFA 6:0 (Hexanoic) (gm)
+drxts080,SFA 8:0 (Octanoic) (gm)
+drxts100,SFA 10:0 (Decanoic) (gm)
+drxts120,SFA 12:0 (Dodecanoic) (gm)
+drxts140,SFA 14:0 (Tetradecanoic) (gm)
+drxts160,SFA 16:0 (Hexadecanoic) (gm)
+drxts180,SFA 18:0 (Octadecanoic) (gm)
+drxtm161,MFA 16:1 (Hexadecenoic) (gm)
+drxtm181,MFA 18:1 (Octadecenoic) (gm)
+drxtm201,MFA 20:1 (Eicosenoic) (gm)
+drxtm221,MFA 22:1 (Docosenoic) (gm)
+drxtp182,PFA 18:2 (Octadecadienoic) (gm)
+drxtp183,PFA 18:3 (Octadecatrienoic) (gm)
+drxtp184,PFA 18:4 (Octadecatetraenoic) (gm)
+drxtp204,PFA 20:4 (Eicosatetraenoic) (gm)
+drxtp205,PFA 20:5 (Eicosapentaenoic) (gm)
+drxtp225,PFA 22:5 (Docosapentaenoic) (gm)
+drxtp226,PFA 22:6 (Docosahexaenoic) (gm)
+drq300,Compare food consumed yesterday to usual
+drd320gw,Total plain water drank yesterday (gm)
+drd330gw,Total home tap water drank yesterday(gm)
+drq340,Shellfish eaten during past 30 days
+drd350a,Clams eaten during past 30 days
+drq350aq,Num times clams eaten in past 30 days
+drd350b,Crabs eaten during past 30 days
+drq350bq,Num times crabs eaten in past 30 days
+drd350c,Crayfish eaten during past 30 days
+drq350cq,Num times crayfish eaten in past 30 days
+drd350d,Lobsters eaten during past 30 days
+drq350dq,Num times lobsters eaten in past 30 days
+drd350e,Mussels eaten during past 30 days
+drq350eq,Num times mussels eaten in past 30 days
+drd350f,Oysters eaten during past 30 days
+drq350fq,Num times oysters eaten in past 30 days
+drd350g,Scallops eaten during past 30 days
+drq350gq,Num times scallops eaten in past 30 days
+drd350h,Shrimp eaten during past 30 days
+drq350hq,Num times shrimp eaten in past 30 days
+drd350i,Other shellfish eaten past 30 days
+drq350iq,Num times other shellfish eaten
+drd350j,Other unknown shellfish eaten past 30 d
+drq350jq,Num times other unknown shellfish eaten
+drd350k,Refused
+drq360,Fish eaten during past 30 days
+drd370a,Breaded fish products eaten past 30 days
+drq370aq,Num times breaded fish products eaten
+drd370b,Tuna eaten during past 30 days
+drq370bq,Num times tuna eaten in past 30 days
+drd370c,Bass eaten during past 30 days
+drq370cq,Num times bass eaten in past 30 days
+drd370d,Catfish eaten during past 30 days
+drq370dq,Num times catfish eaten in past 30 days
+drd370e,Cod eaten during past 30 days
+drq370eq,Num times cod eaten in past 30 days
+drd370f,Flatfish eaten during past 30 days
+drq370fq,Num times flatfish eaten in past 30 days
+drd370g,Haddock eaten during past 30 days
+drq370gq,Num times haddock eaten in past 30 days
+drd370h,Mackerel eaten during past 30 days
+drq370hq,Num times mackerel eaten in past 30 days
+drd370i,Perch eaten during past 30 days
+drq370iq,Num times perch eaten in past 30 days
+drd370j,Pike eaten during past 30 days
+drq370jq,Num times pike eaten in past 30 days
+drd370k,Pollock eaten during past 30 days
+drq370kq,Num times pollock eaten in past 30 days
+drd370l,Porgy eaten during past 30 days
+drq370lq,Num times porgy eaten in past 30 days
+drd370m,Salmon eaten during past 30 days
+drq370mq,Num times salmon eaten in past 30 days
+drd370n,Sardines eaten during past 30 days
+drq370nq,Num times sardines eaten in past 30 days
+drd370o,Sea bass eaten during past 30 days
+drq370oq,Num times sea bass eaten in past 30 days
+drd370p,Shark eaten during past 30 days
+drq370pq,Num times shark eaten in past 30 days
+drd370q,Swordfish eaten during past 30 days
+drq370qq,Num times swordfish eaten past 30 days
+drd370r,Trout eaten during past 30 days
+drq370rq,Num times trout eaten in past 30 days
+drd370s,Walleye eaten during past 30 days
+drq370sq,Num times walleye eaten in past 30 days
+drd370t,Other fish eaten during past 30 days
+drq370tq,Num times other fish eaten past 30 days
+drd370u,Other unknown fish eaten in past 30 days
+drq370uq,Num times other unknown fish eaten
+drd370v,Refused
+ecq010,Mother's age when born
+ecq020,Mother smoked when pregnant
+ecq030,Mother quit smoking while pregnant
+ecq040,Mother quit smoking while pregnant (mo)
+ecq060,Receive newborn care at health facility
+ecd070a,"Weight at birth, pounds"
+ecd070b,"Weight at birth, ounces"
+ecq080,Weight more/less than 5.5 lbs
+ecq090,Weight more/less than 9.0 lbs
+ecd100,Ever attend day care or preschool
+ecd110,Now attend day care or preschool
+fsq121,Now attend headstart
+ecq130,Hours spent away from home/weekday day
+ecq140,Hours spent away from home/weekend day
+imq010,Received hepatitis A vaccine series
+imq020,Received hepatitis B 3 dose series
+imq030,Had pneumonia vaccination
+lbxgh,Glycohemoglobin:(%)
+lbxglu,"Glucose, plasma (mg/dL)"
+lbxglusi,Plasma glucose: SI(mmol/L)
+lbxcpsi,C-peptide: SI(nmol/L)
+lbxin,Insulin (uU/mL)
+lbxinsi,Insulin: SI(pmol/L)
+lbxcrp,C-reactive protein(mg/dL)
+lbxhp1,Helicobacter pylori (ISR)
+lbxfb,Fibrinogen (mg/dL)
+lbdfbsi,Fibrinogen (g/L)
+lbxbap,Bone alkaline phosphotase (ug/L)
+urxnt,N-telopeptides (NTx) (nmol BCE)
+lbxtc,Total cholesterol (mg/dL)
+lbdtcsi,Total cholesterol (mmol/L)
+lbdhdl,HDL-cholesterol (mg/dL)
+lbdhdlsi,HDL-cholesterol (mmol/L)
+lbxtr,Triglyceride (mg/dL)
+lbdtrsi,Triglyceride (mmol/L)
+lbdldl,LDL-cholesterol (mg/dL)
+lbdldlsi,LDL-cholesterol (mmol/L)
+lbxsal,Albumin (g/dL)
+lbdsalsi,Albumin (g/L)
+lbxsatsi,ALT (U/L)
+lbxsassi,AST (U/L)
+lbxsapsi,Alkaline phosphotase (U/L)
+lbxsbu,Blood urea nitrogen (mg/dL)
+lbdsbusi,Blood urea nitrogen (mmol/L)
+lbxsca,"Calcium, total (mg/dL)"
+lbdscasi,"Calcium, total (mmol/L)"
+lbxsch,"Cholesterol, total (mg/dL)"
+lbdschsi,"Cholesterol, total (mmol/L)"
+lbxsc3si,Bicarbonate (mmol/L)
+lbxsgtsi,GGT (U/L)
+lbxsgl,Glucose (mg/dL)
+lbdsglsi,Glucose (mmol/L)
+lbxsir,Iron (ug/dL)
+lbdsirsi,Iron (umol/L)
+lbxsldsi,LDH (U/L)
+lbxsph,Phosphorus (mg/dL)
+lbdsphsi,Phosphorus (mmol/L)
+lbxstb,"Bilirubin, total (mg/dL)"
+lbdstbsi,"Bilirubin, total (umol/L)"
+lbxstp,"Protein, total (g/dL)"
+lbdstpsi,"Protein, total (g/L)"
+lbxstr,Triglycerides (mg/dL)
+lbdstrsi,Triglycerides (mmol/L)
+lbxsua,Uric acid (mg/dL)
+lbdsuasi,Uric acid (umol/L)
+lbxscr,Creatinine (mg/dL)
+lbdscrsi,Creatinine (umol/L)
+lbxsnasi,Sodium (mmol/L)
+lbxsksi,Potassium (mmol/L)
+lbxsclsi,Chloride (mmol/L)
+lbxsossi,Osmolality (mOsm/kg)
+lbxsgb,Globulin (g/dL)
+lbdsgbsi,Globulin (g/L)
+lbxfsh,Follicle stimulating hormone (mIU/mL)
+lbdfshsi,Follicle stimulating hormone (IU/L)
+lbxlh,Luteinizing hormone (mIU/mL)
+lbdlhsi,Luteinizing hormone (IU/L)
+wtsth2yr,Thyroid hormones Subsample 2 yr Mec Wgt
+wtsth4yr,Thyroid hormones Subsample 4 yr Mec Wgt
+lbxt4,Thyroxine (T4) (ug/dL)
+lbdt4si,Thyroxine (T4) (nmol/L)
+lbxtsh,Thyroid stim hormone (TSH) (IU/L)
+lbxwbcsi,White blood cell count (SI)
+lbxlypct,Lymphocyte percent (%)
+lbxmopct,Monocyte percent (%)
+lbxnepct,Segmented neutrophils percent (%)
+lbxeopct,Eosinophils percent (%)
+lbxbapct,Basophils percent (%)
+lbdlymno,Lymphocyte number
+lbdmono,Monocyte number
+lbdneno,Segmented neutrophils number
+lbdeono,Eosinophils number
+lbdbano,Basophils number
+lbxrbcsi,Red cell count SI
+lbxhgb,Hemoglobin (g/dL)
+lbxhct,Hematocrit (%)
+lbxmcvsi,Mean cell volume (fL)
+lbxmchsi,Mean cell hemoglobin (pg)
+lbxmc,MCHC (g/dL)
+lbxrdw,Red cell distribution width (%)
+lbxpltsi,Platelet count (%) SI
+lbxmpsi,Mean platelet volume (fL)
+leaarm,Arm:
+ledarmcf,brachial cuff size
+leaankl,Ankles:
+ledankcf,ankle cuff size
+lexbrp1,Brachial SBP 1
+lexbrp2,Brachial SBP 2
+lexbrpm,Mean Brachial SBP
+lexlpts1,Left Posterior Tibial SBP 1
+lexlpts2,Left Posterior Tibial SBP 2
+lexlptsm,Left Mean Posterior Tibial SBP
+lexlabpi,Left ABPI
+lexrpts1,Right Posterior Tibial SBP 1
+lexrpts2,Right Posterior Tibial SBP 2
+lexrptsm,Right Mean Posterior Tibial SBP
+lexrabpi,Right ABPI
+mcq010,Ever been told you have asthma
+mcq020,Age when first had asthma
+mcq030,Still have asthma
+mcq040,Had asthma attack in past year
+mcq050,Emergency care visit for asthma/past yr
+mcq053,Taking treatment for anemia/past 3 mos
+mcq060,Told have attention deficit disorder?
+mcq080,Doctor ever said you were overweight
+mcq083,Ever told you have learning disability
+mcq090,Ever had chickenpox
+mcq092,Ever receive blood transfusion
+mcd093,Year receive blood transfusion
+mcq100,Told have high blood pressure
+mcq110,Taking medicine for high blood pressure
+mcq114,Ever tested for lead poisoning
+mcq117q,How long since lead poisoning test
+mcq117u,Months or years
+mcq120a,Had hay fever in past year
+mcq120b,Had 3 or more ear infections/past year
+mcq120c,Had frequent/severe headaches/past yr
+mcq120d,Stuttering/Stammering in past year
+mcq140,Trouble seeing even with glass/contacts
+mcq147,Menstrual periods started yet?
+mcq148,Age when menstrual periods started
+mcq150g,School days missed from injury/illness
+mcq150q,# school days missed from injury/illness
+mcq160a,Doctor ever said you had arthritis
+mcq160b,Ever told had congestive heart failure
+mcq160c,Ever told you had coronary heart disease
+mcq160d,Ever told you had angina/angina pectoris
+mcq160e,Ever told you had heart attack
+mcq160f,Ever told you had a stroke
+mcq160g,Ever told you had emphysema
+mcq160h,Ever told you had a goiter
+mcq160i,Ever told you had thyroid disease
+mcq160j,Doctor said you were overweight
+mcq160k,Ever told you had chronic bronchitis
+mcq160l,Ever told you had any liver condition
+mcq170h,Do you still have a goiter
+mcq170i,Do you still have thyroid disease
+mcq170k,Do you still have chronic bronchitis
+mcq170l,Do you still have a liver condition
+mcq180a,Age when told you had arthritis
+mcq180b,Age when told you had heart failure
+mcq180c,Age when told had coronary heart disease
+mcq180d,Age when told you had angina pectoris
+mcq180e,Age when told you had heart attack
+mcq180f,Age when told you had a stroke
+mcq180g,Age when told you had emphysema
+mcq180h,Age when told you had a goiter
+mcq180i,Age when told you had thyroid disease
+mcq180k,Age when told you had chronic bronchitis
+mcq180l,Age when told you had a liver condition
+mcq190,Which type of arthritis
+mcq200,Ever told had stomach/duod/peptic ulcer
+mcq210,Had ulcer in past year
+mcq220,Ever told you had cancer or malignancy
+mcq230a,What kind of cancer
+mcq230b,What kind of cancer
+mcq230c,What kind of cancer
+mcq230d,What kind of cancer
+mcq240a,Age when bladder cancer first diagnosed
+mcq240b,Age when blood cancer first diagnosed
+mcq240c,Age when bone cancer first diagnosed
+mcq240d,Age when brain cancer first diagnosed
+mcq240e,Age when breast cancer first diagnosed
+mcq240f,Age when cervical cancer first diagnosed
+mcq240g,Age when colon cancer first diagnosed
+mcq240h,Age esophageal cancer first diagnosed
+mcq240i,Age gallbladder cancer first diagnosed
+mcq240j,Age when kidney cancer first diagnosed
+mcq240k,Age larynx/windpipe cancer diagnosed
+mcq240l,Age when leukemia first diagnosed
+mcq240m,Age when liver cancer first diagnosed
+mcq240n,Age when lung cancer first diagnosed
+mcq240o,Age lymphoma/Hodgkin's diagnosed
+mcq240p,Age when melanoma first diagnosed
+mcq240q,Age mouth\tongue\lip cancer diagnosed
+mcq240r,Age nervous system cancer diagnosed
+mcq240s,Age when ovarian cancer first diagnosed
+mcq240t,Age pancreatic cancer first diagnosed
+mcq240u,Age prostate cancer first diagnosed
+mcq240v,Age when rectal cancer first diagnosed
+mcq240w,Age non-melanoma skin cancer diagnosed
+mcq240x,Age unknown skin cancer first diagnosed
+mcq240y,Age soft tissue cancer first diagnosed
+mcq240z,Age stomach cancer first diagnosed
+mcq240aa,Age testicular cancer first diagnosed
+mcq240bb,Age when thyroid cancer first diagnosed
+mcq240cc,Age when uterine cancer first diagnosed
+mcq240dd,Age other type of cancer first diagnosed
+mcq245a,Work days missed for illness/maternity
+mcq245b,# of workdays missed
+mcq250a,Blood relatives have diabetes
+mcq250b,Blood relatives have Alzheimer's
+mcq250c,Blood relatives have asthma
+mcq250d,Blood relatives have arthritis
+mcq250e,Blood relatives have osteoporosis
+mcq250f,Blood relatives w/hypertension/stroke
+mcq250g,Blood relatives have angina
+mcq260aa,Blood relative-diabetes-mother
+mcq260ab,Blood relative-diabetes-father
+mcq260ac,Blood relative-diabetes-mother's mother
+mcq260ad,Blood relative-diabetes-mother's father
+mcq260ae,Blood relative-diabetes-father's mother
+mcq260af,Blood relative-diabetes-father's father
+mcq260ag,Blood relative-diabetes-brother
+mcq260ah,Blood relative-diabetes-sister
+mcq260ai,Blood relative-diabetes-other
+mcq260ba,Blood relative-Alzheimer's-mother
+mcq260bb,Blood relative-Alzheimer's-father
+mcq260bc,Blood relative-Alzheimer's-mom's mother
+mcq260bd,Blood relative-Alzheimer's-mom's father
+mcq260be,Blood relative-Alzheimer's-dad's mother
+mcq260bf,Blood relative-Alzheimer's-dad's father
+mcq260bg,Blood relative-Alzheimer's-brother
+mcq260bh,Blood relative-Alzheimer's-sister
+mcq260bi,Blood relative-Alzheimer's-other
+mcq260ca,Blood relative-asthma-mother
+mcq260cb,Blood relative-asthma-father
+mcq260cc,Blood relative-asthma-mother's mother
+mcq260cd,Blood relative-asthma-mother's father
+mcq260ce,Blood relative-asthma-father's mother
+mcq260cf,Blood relative-asthma-father's father
+mcq260cg,Blood relative-asthma-brother
+mcq260ch,Blood relative-asthma-sister
+mcq260ci,Blood relative-asthma-other
+mcq260da,Blood relative-arthritis-mother
+mcq260db,Blood relative-arthritis-father
+mcq260dc,Blood relative-arthritis-mother's mother
+mcq260dd,Blood relative-arthritis-mother's father
+mcq260de,Blood relative-arthritis-father's mother
+mcq260df,Blood relative-arthritis-father's father
+mcq260dg,Blood relative-arthritis-brother
+mcq260dh,Blood relative-arthritis-sister
+mcq260di,Blood relative-arthritis-other
+mcq260ea,Blood relative-osteoporosis-mother
+mcq260eb,Blood relative-osteoporosis-father
+mcq260ec,Blood relative-osteoporosis-mom's mother
+mcq260ed,Blood relative-osteoporosis-mom's father
+mcq260ee,Blood relative-osteoporosis-dad's mother
+mcq260ef,Blood relative-osteoporosis-dad's father
+mcq260eg,Blood relative-osteoporosis-brother
+mcq260eh,Blood relative-osteoporosis-sister
+mcq260ei,Blood relative-osteoporosis-other
+mcq260fa,Blood relative-hypertension-mother
+mcq260fb,Blood relative-hypertension-father
+mcq260fc,Blood relative-hypertension-mom's mother
+mcq260fd,Blood relative-hypertension-mom's father
+mcq260fe,Blood relative-hypertension-dad's mother
+mcq260ff,Blood relative-hypertension-dad's father
+mcq260fg,Blood relative-hypertension-brother
+mcq260fh,Blood relative-hypertension-sister
+mcq260fi,Blood relative-hypertension-other
+mcq260ga,Blood relative-heart attack-mother
+mcq260gb,Blood relative-heart attack-father
+mcq260gc,Blood relative-heart attack-mom's mother
+mcq260gd,Blood relative-heart attack-mom's father
+mcq260ge,Blood relative-heart attack-dad's mother
+mcq260gf,Blood relative-heart attack-dad's father
+mcq260gg,Blood relative-heart attack-brother
+mcq260gh,Blood relative-heart attack-sister
+mcq260gi,Blood relative-heart attack-other
+mcq270,Your mother ever fracture hip
+mcq280,Mother's age when fractured hip
+mcq290,Mother under/over 50 when fracture hip
+pad020,Walked or bicycled over past 30 days
+paq050q,# times walked or bicycled
+paq050u,Unit of measure (day/week/month)
+pad080,How long per day (minutes)
+paq100,Tasks around home/yard past 30 days
+pad120,# of times past 30 days
+pad160,How long each time (minutes)
+paq180,Avg level of physical activity each day
+pad200,Vigorous activity over past 30 days
+pad320,Moderate activity over past 30 days
+pad440,Muscle strengthening activities
+pad460,Number of times past 30 days
+paq480,"Daily hours of TV, video or computer use"
+paq500,Activity comparison last mo - last yr
+paq520,Compare activity w/others same age
+paq540,Compare activity with 10 years ago
+paq560,# time/week you play or exercise hard
+pad570,# of hours watch TV or videos yesterday
+paq580,# hours use computer/games yesterday
+paaquex,Questionnaire source flag for weighting
+smq020,Smoked at least 100 cigarettes in life
+smd030,Age started smoking cigarettes regularly
+smq040,Do you now smoke cigarettes...
+smq050q,How long since quit smoking cigarettes
+smq050u,Unit of measure (day/week/month/year)
+smd055,Age last smoked cigarettes regularly
+smd057,# cigarettes smoked per day when quit
+smd070,# cigarettes smoked per day now
+smd075,How many years smoked this amount
+smd080,# days smoked cigs during past 30 days
+smd090,Avg # cigarettes/day during past 30 days
+smd100br,Cigarette Brand/sub-brand
+smd100fl,Filter type
+smd100mn,Menthol indicator
+smd100ln,Length
+smd100tr,FTC Tar Content
+smd100ni,FTC Nicotine Content
+smd100co,FTC Carbon Monoxide Content
+smq120,Smoked a pipe at least 20 times in life
+smd130,Age started smoking pipes regularly
+smq140,Do you now smoke a pipe...
+smq143,# pipefuls of tobacco smoked per day
+smq145,# years smoked this amount of pipes
+smq150,Smoked cigars at least 20 times in life
+smd160,Age started smoking cigars regularly
+smq170,Do you now smoke cigars...
+smq173,# cigars smokes per day
+smq175,# years smoked this amount of cigars
+smq180,Used snuff at least 20 times in life
+smd190,Age started using snuff regularly
+smq200,Do you now use snuff...
+smd203,# snuff pinches/dips/rubs per day
+smq205,# years used this amount of snuff
+smq210,Used chewing tobacco 20 times in life
+smd220,Age started chewing tobacco regularly
+smq230,Do you now use chewing tobacco...
+smd233,# chewing plugs/wads/chaws per day
+smd235,# years used this chewing tobacco amount
+smd410,Does anyone smoke in the home
+smd415,Total number of smokers in home
+smd415a,Total # of cigarette smokers in home
+smd415b,Total # of cigar smokers in home
+smd415c,Total # of pipe smokers in home
+smd430,Total # cigarettes smoked in home
+smd440,Total # cigars smoked in home
+smd450,Total # pipes smoked in home
+smq620,Ever tried cigarette smoking
+smd630,Age first smoked whole cigarette
+smq640,# days smoked cigarettes in past month
+smq650,# cigarettes per day during past month
+smq660,Brands of cigarettes smoked/past mo
+smq664b,Menthol or non-menthol BensonHedges
+smq664c,Menthol or non-menthol Camels
+smq664m,Menthol or non-menthol Marlboro
+smq664o,Menthol or non-menthol other brand
+smq664w,Menthol or non-menthol Winston
+smq666b,"Regular, light or ultralite BensonHedges"
+smq666c,"Regular, light or ultralite Camels"
+smq666k,"Regular, light or ultralite Kools"
+smq666m,"Regular, light or ultralite Marlboro"
+smq666n,"Regular, light or ultralite Newport"
+smq666o,"Regular, light or ultralite other brand"
+smq666s,"Regular, light or ultralite Salem"
+smq666w,"Regular, light or ultralite Winston"
+smq670,Tried to quit smoking - past 12 months
+smd680,Used tobacco or nicotine in last 5 days
+smd690a,Used last 5 days - cigarettes
+smd690b,Used last 5 days - pipes
+smd690c,Used last 5 days - cigars
+smd690d,Used last 5 days - chewing tobacco
+smq690e,Used last 5 days - snuff
+smd690f,"Used last 5 days - patch, gum, other"
+smd710,# days smoked cigarettes - last 5 days
+smd720,# cigarettes smoked/day - last 5 days
+smq725,When did SP smoke last cigarette
+smd740,# days smoked pipe - last 5 days
+smd750,# pipes smoked/day - last 5 days
+smq755,When did SP smoke last pipe
+smd770,# days smoked cigars - last 5 days
+smd780,# cigars smoked/day - last 5 days
+smq785,When did SP smoke last cigar
+smd800,# days used chewing tobacco- last 5 days
+smq815,When did SP last use chewing tobacco
+smq817,# days used snuff over last 5 days
+smq819,When did SP last used snuff
+smd830,# days used nicotine aids - last 5 days
+smq840,Last time used nicotine stop smoking aid
+smaquex,Questionnaire source flag for weighting
+whd010,Current Self-reported height (inches)
+whd020,Current Self-reported weight (pounds)
+whq030,How do you consider your weight
+whd040,"Like to weigh more, less or same"
+whd050,Self-reported weight-1 yr ago (pounds)
+whd060,Weight change intentional
+whq070,Tried to lose weight in past year
+whd080a,Ate less food to lose weight
+whd080b,Lowered calories to lose weight
+whq080c,Ate less fat to lose weight
+whd080d,Exercised to lose weight
+whq080e,Skipped meals to lose weight
+whd080f,Ate diet products to lose weight
+whq080g,Used liquid diet formula to lose weight
+whq080h,Joined program to lose weight
+whq080i,Took RX diet pills to lose weight
+whq080j,Took non-RX suppl. to lose weight
+whq080k,Took laxatives to lose weight
+whd080l,Other methods to lose weight
+whd080m,Drank a lot of water to lose weight
+whd080n,Followed a special diet
+whq090,Tried not to gain weight in past year
+whq100a,Ate less to not gain weight
+whq100b,Lowered calories to not gain weight
+whd100c,Ate less fat to not gain weight
+whd100d,Exercised
+whq100e,Skipped meals to not gain weight
+whd100f,Ate diet foods to not gain weight
+whq100g,Used liquid diet formula to not gain
+whq100h,Joined program to not gain weight
+whq100i,Took RX diet pills to not gain
+whq100j,Took non-RX suppl. to not gain weight
+whq100k,Took laxatives to not gain weight
+whd100l,Other methods to lose weight
+whd100m,Drank a lot of water to not gain weight
+whd100n,Followed a special diet to lose weight
+whd110,Self-reported weight-10 yrs ago (pounds)
+whd120,Self-reported weight - age 25 (pounds)
+whd130,Self-reported height - age 25 (inches)
+whd140,Self-reported greatest weight(pounds)
+whd150,Age when heaviest weight
+whd160,Least self-reported weight since 18(lbs)
+whd170,Age when lightest weight
+ald100,Had at least 12 alcohol drinks/1 yr?
+alq140q,#days have 5 or more drinks/past 12 mos
+bpd110a,Eating fewer high fat foods on own
+bpd110b,Controlling weight on own
+bpd110c,Increasing exercise on own
+bpd120,Eating fewer high fat foods on own
+bpd130,Controlling weight on own
+bpd140,Increasing exercise on own
+dbd020,Age started eating other foods(days)
+dbd040,Age first fed formula daily(days)
+dbd050,Age stopped receiving formula(days)
+dbd071a,Type of milk first fed - whole milk
+dbd071b,Type of milk first fed - 2% milk
+dbd071c,Type of milk first fed - 1% milk
+dbd071d,Type of milk first fed - skim/nonfat
+dbd071u,Type of milk first fed - other
+dbd102,# Times/month eat dark green vegetables
+dbd103,#Times/month eat cooked dried beans/peas
+dbd196,Past 30 day milk product consumption
+dbd221a,You drink whole or regular milk
+dbd221b,You drink 2% fat milk
+dbd221c,You drink 1% fat milk
+dbd221d,"You drink skim, nonfat or .5% milk"
+dbd221u,You drink another type of milk
+dbd229,Regular milk drinker
+dbd235ae,How often drank milk age 5-12
+dbd235be,How often drank milk age 13-17
+dbd235ce,How often drank milk age 18-35
+dbd301,Community/Government meals delivered
+dbq330,Eat meals at Community/Senior center
+dbq360,Attend kindergarten thru high school
+dbq370,School serves school lunches
+dbd381,# of times/week get school lunch
+dbq400,School serve complete breakfast each day
+dbd411,# of times/week get school breakfast
+dbd421,School breakfast free/reduced/full price
+did040g,Age when first told you had diabetes
+did040q,Number of years of age
+did060g,How long taking insulin
+did060q,Number of mos/yrs taking insulin
+drddrstz,Dietary recall status
+drdexmer,Interviewer ID code
+drdresp,Main respondent for the interview
+drxtnumf,Number of foods
+drxtsugr,Total sugars (gm)
+drxtatoc,Vitamin E as alpha-tocopherol (mg)
+drxtret,Retinol (mcg)
+drxtvara,"Vitamin A, RAE (mcg)"
+drxtacar,Alpha-carotene (mcg)
+drxtbcar,Beta-carotene (mcg)
+drxtcryp,Beta-cryptoxanthin (mcg)
+drxtlyco,Lycopene (mcg)
+drxtlz,Lutein + zeaxanthin (mcg)
+drxtfa,Folic acid (mcg)
+drxtff,Food folate (mcg)
+drxtfdfe,"Folate, DFE (mcg)"
+drxtvk,Vitamin K (mcg)
+drxtmois,Moisture (gm)
+drd300,Compare food consumed yesterday to usual
+drd330gw,Total tap water drank yesterday (gm)
+drdcwatr,Plain carbonated water (gm)
+dbq095,Type of salt you use
+dbd100,How often add salt to food at table
+drd340,Shellfish eaten during past 30 days
+drd350aq,# of times clams eaten in past 30 days
+drd350bq,# of times crabs eaten in past 30 days
+drd350cq,# of times crayfish eaten past 30 days
+drd350dq,# of times lobsters eaten past 30 days
+drd350eq,# of times mussels eaten in past 30 days
+drd350fq,# of times oysters eaten in past 30 days
+drd350gq,# of times scallops eaten past 30 days
+drd350hq,# of times shrimp eaten in past 30 days
+drd350iq,# of times other shellfish eaten
+drd350jq,# of times other unknown shellfish eaten
+drd350k,Refused on shellfish eaten past 30 days
+drd360,Fish eaten during past 30 days
+drd370aq,# of times breaded fish products eaten
+drd370bq,# of times tuna eaten in past 30 days
+drd370cq,# of times bass eaten in past 30 days
+drd370dq,# of times catfish eaten in past 30 days
+drd370eq,# of times cod eaten in past 30 days
+drd370fq,# of times flatfish eaten past 30 days
+drd370gq,# of times haddock eaten in past 30 days
+drd370hq,# of times mackerel eaten past 30 days
+drd370iq,# of times perch eaten in past 30 days
+drd370jq,# of times pike eaten in past 30 days
+drd370kq,# of times pollock eaten in past 30 days
+drd370lq,# of times porgy eaten in past 30 days
+drd370mq,# of times salmon eaten in past 30 days
+drd370nq,# of times sardines eaten past 30 days
+drd370oq,# of times sea bass eaten past 30 days
+drd370pq,# of times shark eaten in past 30 days
+drd370qq,# of times swordfish eaten past 30 days
+drd370rq,# of times trout eaten in past 30 days
+drd370sq,# of times walleye eaten in past 30 days
+drd370tq,# of times other fish eaten past 30 days
+drd370uq,# of times other unknown fish eaten
+drd370v,Refused on fish eaten past 30 days
+ecd010,Mother's age when born
+ecq100,Ever attend day care or preschool
+ecq110,Now attend day care or preschool
+lb2gh,Glycohemoglobin (%)
+lb2glu,Plasma glucose (mg/dL)
+lb2glusi,Plasma glucose: SI(mmol/L)
+lb2cp,C-peptide: pmol/mL
+lb2cpsi,C-peptide: SI(nmol/L)
+lb2in,Insulin (uU/mL)
+lb2insi,Insulin: SI(pmol/L)
+lbxgh,Glycohemoglobin (%)
+lbdbap,Bone alkaline phosphatase (ug/L)
+urdnt,N-Telopeptides (nmol BCE)
+lb2tc,Total cholesterol (mg/dL)
+lb2tcsi,Total cholesterol (mmol/L)
+lb2hdl,HDL-cholesterol (mg/dL)
+lb2hdlsi,HDL-cholesterol (mmol/L)
+lb2tr,Triglyceride (mg/dL)
+lb2trsi,Triglyceride (mmol/L)
+lb2ldl,LDL-cholesterol (mg/dL)
+lb2ldlsi,LDL-cholesterol (mmol/L)
+lb2wbcsi,White blood cell count (1000 cells/uL)
+lb2lypct,Lymphocyte percent (%)
+lb2mopct,Monocyte percent (%)
+lb2nepct,Segmented neutrophils percent (%)
+lb2eopct,Eosinophils percent (%)
+lb2bapct,Basophils percent (%)
+lb2lymno,Lymphocyte number (1000 cells/uL)
+lb2mono,Monocyte number (1000 cells/uL)
+lb2neno,Segmented neutrophils num (1000 cell/uL)
+lb2eono,Eosinophils number (1000 cells/uL)
+lb2bano,Basophils number (1000 cells/uL)
+lb2rbcsi,Red blood cell count (million cells/uL)
+lb2hgb,Hemoglobin (g/dL)
+lb2hct,Hematocrit (%)
+lb2mcvsi,Mean cell volume (fL)
+lb2mchsi,Mean cell hemoglobin (pg)
+lb2mc,MCHC (g/dL)
+lb2rdw,Red cell distribution width (%)
+lb2pltsi,Platelet count (1000 cells/uL)
+lb2mpsi,Mean platelet volume (fL)
+lb2sal,Albumin (g/dL)
+lb2salsi,Albumin (g/L)
+lb2satsi,ALT (U/L)
+lb2sassi,AST (U/L)
+lb2sapsi,Alkaline phosphotase (U/L)
+lb2sbu,Blood urea nitrogen (mg/dL)
+lb2sbusi,Blood urea nitrogen (mmol/L)
+lb2sca,Total calcium (mg/dL)
+lb2scasi,Total calcium (mmol/L)
+lb2sch,Cholesterol (mg/dL)
+lb2schsi,Cholesterol (mmol/L)
+lb2sc3si,Bicarbonate (mmol/L)
+lb2sgtsi,GGT (U/L)
+lb2sgl,Glucose (mg/dL)
+lb2sglsi,"Glucose, serum (mmol/L)"
+lb2sir,Iron (ug/dL)
+lb2sirsi,Iron (umol/L)
+lb2sldsi,LDH (U/L)
+lb2sph,Phosphorus (mg/dL)
+lb2sphsi,Phosphorus (mmol/L)
+lb2stb,"Bilirubin, total (mg/dL)"
+lb2stbsi,"Bilirubin, total (umol/L)"
+lb2stp,"Protein, total (g/dL)"
+lb2stpsi,Total protein (g/L)
+lb2str,Triglycerides (mg/dL)
+lb2strsi,Triglycerides (mmol/L)
+lb2sua,Uric acid (mg/dL)
+lb2suasi,Uric acid (umol/L)
+lb2scr,Creatinine (mg/dL)
+lb2scrsi,Creatinine (umol/L)
+lb2snasi,Sodium (mmol/L)
+lb2sksi,Potassium (mmol/L)
+lb2sclsi,Chloride (mmol/L)
+lb2fsh,Follicle stimulating hormone (mIU/mL)
+lb2fshsi,Follicle stimulating hormone (IU/L)
+lb2lh,Luteinizing hormone (mIU/mL)
+lb2lhsi,Luteinizing hormone (IU/L)
+lbxsatsi,ALT: SI (U/L)
+lbxsassi,AST: SI (U/L)
+lbdsapsi,Alkaline phosphatase (U/L)
+lbxsca,Total Calcium (mg/dL)
+lbdscasi,Total Calcium (mmol/L)
+lbxsch,Cholesterol (mg/dL)
+lbdschsi,Cholesterol (mmol/L)
+lbxsc3si,Bicarbonate: SI (mmol/L)
+lbxsgtsi,GGT: SI (U/L)
+lbxsgl,"Glucose, serum (mg/dL)"
+lbdsglsi,"Glucose, serum (mmol/L)"
+lbdsldsi,LDH (U/L)
+lbdsph,Phosphorus (mg/dL)
+lbdstb,"Bilirubin, total (mg/dL)"
+lbxstp,Total protein (g/dL)
+lbdstpsi,Total protein (g/L)
+lbdscr,Creatinine (mg/dL)
+lbxsnasi,Sodium: SI (mmol/L)
+lbxsksi,Potassium: SI (mmol/L)
+lbxsclsi,Chloride: SI (mmol/L)
+lbxsossi,Osmolality: SI (mmol/Kg)
+ledscct2,ABPI Section Comment
+leaarm,Arm tested
+leaarmc,Arm comment
+ledarmcf,Brachial cuff size used
+leq020,"Large adult used, poor thigh cuff fit"
+leaankl,Ankle(s) tested
+leaanklc,Ankle comment
+ledankcf,Ankle cuff size used
+lexbrp1,Brachial SBP 1 (mm Hg)
+lexbrp2,Brachial SBP 2 (mm Hg)
+lexbrpm,Mean Brachial SBP (mm Hg)
+lexlpts1,Left Posterior Tibial SBP 1 (mm Hg)
+lexlpts2,Left Posterior Tibial SBP 2 (mm Hg)
+lexlptsm,Left Mean Posterior Tibial SBP (mm Hg)
+lexrpts1,Right Posterior Tibial SBP 1 (mm Hg)
+lexrpts2,Right Posterior Tibial SBP 2 (mm Hg)
+lexrptsm,Right Mean Posterior Tibial SBP (mm Hg)
+lealptpd,Left PT pulse detected?
+learptpd,Right PT pulse detected?
+lealapnc,Left ankle SBP > 255 mm Hg?
+learapnc,Right ankle SBP > 255 mm Hg?
+mcq025,Age when first had asthma
+mcq035,Still have asthma
+mcd147,Menstrual periods started yet?
+mcd160m,Ever told you had a thyroid problem
+mcd170m,Do you still have a thyroid problem
+mcd180m,Age when told you had a thyroid problem
+pad480,"Daily hours of TV, video or computer use"
+pad590,# hours watch TV or videos past 30 days
+pad600,# of hours use computer past 30 days
+smd030,Age started smoking cigarets regularly
+smq040,Do you now smoke cigarettes
+smd092,May I please see the pack of cigarettes
+smdupca,Cig 12-digit Universal Product Code-UPC
+smd100ln,Length in Millimeters
+smd130,Age started pipe smoking regularly
+smd160,Age started cigar smoking regularly
+smq170,Do you now smoke cigars
+smq200,Do you now use snuff ...
+smq664c,Menthol or non-menthol Camel
+smq666c,"Regular, light or ultralite Camel"
+smq666k,"Regular, light or ultralite Kool"
+smq670,Tried to quit smoking
+smq680,Used tobacco/nicotine last 5 days?
+smq690a,Used last 5 days - Cigarettes
+smq690b,Used last 5 days - Pipes
+smq690c,Used last 5 days - Cigars
+smq690d,Used last 5 days - Chewing tobacco
+smq690e,Used last 5 days - Snuff
+smq690f,"Used last 5 days - Patch, gum, other"
+smq710,# days smoked cigarettes last 5 days
+smq720,# cigarettes smoked per day
+smq725,When did SP smoke last cigarette?
+smq740,# days smoked pipe over last 5 days
+smq750,# pipes smoked per day - last 5 days
+smq755,When did SP smoke last pipe?
+smq770,# days smoked cigars over last 5 days
+smq780,# cigars smoked per day - last 5 days
+smq785,When did SP smoke last cigar?
+smq800,# days used chewing tobacco -last 5 days
+smq815,When did SP last use chewing tobacco?
+smq819,When last used snuff
+smq830,# days used nicotine stop smoking aids?
+smaquex,Questionnaire Mode Flag
+ssatg,Thyroglobulin antibody
+sst3f,Free T3
+sst4f,Free T4
+sstgn,Thyroglobulin
+sstpo,Thyroperoxidase antibody
+sstsh1,Thyroid stimulating hormone
+sstt3,Total T3
+sstt4,Total T4
+whq040,"Like to weigh more, less or same"
+whq060,Weight change intentional
+whd080a,Ate less food
+whd080b,Switched to foods with lower calories
+whd080c,Ate less fat
+whd080d,Exercised
+whd080e,Skipped meals
+whd080f,Ate diet foods or products
+whd080g,Used a liquid diet formula
+whd080h,Joined a weight loss program
+whd080i,Took prescription diet pills
+whd080j,Took non-prescription diet pills
+whd080k,Took laxatives or vomited
+whd080l,Other
+whd080m,Drank a lot of water
+whd100a,Ate less food
+whd100b,Switched to foods with lower calories
+whd100c,Ate less fat
+whd100e,Skipped meals
+whd100f,Ate diet foods or products
+whd100g,Used a liquid diet formula
+whd100h,Joined a weight loss program
+whd100i,Took prescription diet pills
+whd100j,Took non-prescription diet pills
+whd100k,Took laxatives or vomited
+whd100l,Other
+whd100m,Drank a lot of water
+whd100n,Followed a special diet
+whq150,Age when heaviest weight
+alq101,Had at least 12 alcohol drinks/1 yr?
+bmdstats,Body Measures Component Status Code
+bmdrecuf,Height-Length difference flagged
+bmdsubf,Unusual value noted during data review
+bmdthicf,Unusual value noted during data review
+bmdlegf,Unusual value noted during data review
+bmdarmlf,Unusual value noted during data review
+bmdcalff,Unusual value noted during data review
+bpxsy1,Systolic:  Blood pres (1st rdg) mm Hg
+bpxdi1,Diastolic:  Blood pres (1st rdg) mm Hg
+bpxsy2,Systolic:  Blood pres (2nd rdg) mm Hg
+bpxdi2,Diastolic: Blood pres (2nd rdg) mm Hg
+bpxsy3,Systolic:  Blood pres (3rd rdg) mm Hg
+bpxdi3,Diastolic: Blood pres (3rd rdg) mm Hg
+bpxsy4,Systolic: Blood pres (4th rdg) mm Hg
+bpxdi4,Diastolic:  Blood pres (4th rdg) mm Hg
+dbq071a,Type of milk first fed - whole milk
+dbq071b,Type of milk first fed - 2% milk
+dbq071c,Type of milk first fed - 1% milk
+dbq071d,Type of milk first fed - skim/nonfat
+dbq071u,Type of milk first fed - other
+dbd197,Past 30 day milk product consumption
+dbq221a,You drink whole or regular milk
+dbq221b,You drink 2% fat milk
+dbq221c,You drink 1% fat milk
+dbq221d,"You drink skim, nonfat or .5% milk"
+dbq221u,You drink another type of milk
+dbq229,Regular milk drinker
+dbq235a,How often drank milk age 5-12
+dbq235b,How often drank milk age 13-17
+dbq235c,How often drank milk age 18-35
+dbq301,Community/Government meals delivered
+dbq421,School breakfast free/reduced/full price
+dbq424,Summer program meal free/reduced price
+sialang,Language of SP Interview
+siaproxy,Proxy used in SP Interview?
+siaintrp,Interpreter used in SP Interview?
+fialang,Language of Family Interview
+fiaproxy,Proxy used in Family Interview?
+fiaintrp,Interpreter used in Family Interview?
+mialang,Language of MEC Interview
+miaproxy,Proxy used in MEC Interview?
+miaintrp,Interpreter used in MEC Interview?
+aialang,Language of ACASI Interview
+did060q,Number of mons/yrs taking insulin
+dr1drstz,Dietary recall status
+dr1exmer,Interviewer ID code
+dr1day,Intake day of the week
+dr1lang,Language SP/Proxy used mostly
+dr1mnrsp,Main respondent for this interview
+dr1helpd,Helped in responding for this interview
+dbq095z,Type of salt you use
+drqsprep,Salt used in preparation?
+drqsdiet,On special diet?
+drqsdt1,Weight loss/low cal/low carb/hi pro diet
+drqsdt2,Low fat/ Low cholesterol diet
+drqsdt3,Low salt/ Low sodium diet
+drqsdt4,Sugar free/ low sugar diet
+drqsdt5,Low fiber diet
+drqsdt6,High fiber diet
+drqsdt7,Diabetic diet
+drqsdt8,Weight gain/ Muscle building diet
+drqsdt91,Other special diet
+dr1tnumf,Number of foods
+dr1tkcal,Energy (kcal)
+dr1tprot,Protein (gm)
+dr1tcarb,Carbohydrate (gm)
+dr1tsugr,Total sugars (gm)
+dr1tfibe,Dietary fiber (gm)
+dr1ttfat,Total fat (gm)
+dr1tsfat,Total saturated fatty acids (gm)
+dr1tmfat,Total monounsaturated fatty acids (gm)
+dr1tpfat,Total polyunsaturated fatty acids (gm)
+dr1tchol,Cholesterol (mg)
+dr1tatoc,Vitamin E as alpha-tocopherol (mg)
+dr1tatoa,Added alpha-tocopherol (Vitamin E) (mg)
+dr1tret,Retinol (mcg)
+dr1tvara,"Vitamin A, RAE (mcg)"
+dr1tacar,Alpha-carotene (mcg)
+dr1tbcar,Beta-carotene (mcg)
+dr1tcryp,Beta-cryptoxanthin (mcg)
+dr1tlyco,Lycopene (mcg)
+dr1tlz,Lutein + zeaxanthin (mcg)
+dr1tvb1,Thiamin (Vitamin B1) (mg)
+dr1tvb2,Riboflavin (Vitamin B2) (mg)
+dr1tniac,Niacin (mg)
+dr1tvb6,Vitamin B6 (mg)
+dr1tfola,Total Folate (mcg)
+dr1tfa,Folic acid (mcg)
+dr1tff,Food folate (mcg)
+dr1tfdfe,"Folate, DFE (mcg)"
+dr1tvb12,Vitamin B12 (mcg)
+dr1tb12a,Added vitamin B12 (mcg)
+dr1tvc,Vitamin C (mg)
+dr1tvk,Vitamin K (mcg)
+dr1tcalc,Calcium (mg)
+dr1tphos,Phosphorus (mg)
+dr1tmagn,Magnesium (mg)
+dr1tiron,Iron (mg)
+dr1tzinc,Zinc (mg)
+dr1tcopp,Copper (mg)
+dr1tsodi,Sodium (mg)
+dr1tpota,Potassium (mg)
+dr1tsele,Selenium (mcg)
+dr1tcaff,Caffeine (mg)
+dr1ttheo,Theobromine (mg)
+dr1talco,Alcohol (gm)
+dr1tmois,Moisture (gm)
+dr1ts040,SFA 4:0 (Butanoic) (gm)
+dr1ts060,SFA 6:0 (Hexanoic) (gm)
+dr1ts080,SFA 8:0 (Octanoic) (gm)
+dr1ts100,SFA 10:0 (Decanoic) (gm)
+dr1ts120,SFA 12:0 (Dodecanoic) (gm)
+dr1ts140,SFA 14:0 (Tetradecanoic) (gm)
+dr1ts160,SFA 16:0 (Hexadecanoic) (gm)
+dr1ts180,SFA 18:0 (Octadecanoic) (gm)
+dr1tm161,MFA 16:1 (Hexadecenoic) (gm)
+dr1tm181,MFA 18:1 (Octadecenoic) (gm)
+dr1tm201,MFA 20:1 (Eicosenoic) (gm)
+dr1tm221,MFA 22:1 (Docosenoic) (gm)
+dr1tp182,PFA 18:2 (Octadecadienoic) (gm)
+dr1tp183,PFA 18:3 (Octadecatrienoic) (gm)
+dr1tp184,PFA 18:4 (Octadecatetraenoic) (gm)
+dr1tp204,PFA 20:4 (Eicosatetraenoic) (gm)
+dr1tp205,PFA 20:5 (Eicosapentaenoic) (gm)
+dr1tp225,PFA 22:5 (Docosapentaenoic) (gm)
+dr1tp226,PFA 22:6 (Docosahexaenoic) (gm)
+dr1_300,Compare food consumed yesterday to usual
+dr1_320,Total plain water drank yesterday (gm)
+dr1_330,Total tap water drank yesterday (gm)
+dr1bwatr,Total bottled water drank yesterday (gm)
+dr1cwatr,Plain carbonated water (gm)
+dr1tws,Tap water source
+dr2drstz,Dietary recall status
+dr2exmer,Interviewer ID code
+dr2day,Intake day of the week
+dr2lang,Language SP/Proxy used mostly
+dr2mnrsp,Main respondent for this interview
+dr2helpd,Helped in responding for this interview
+dr2tnumf,Number of foods
+dr2tkcal,Energy (kcal)
+dr2tprot,Protein (gm)
+dr2tcarb,Carbohydrate (gm)
+dr2tsugr,Total sugars (gm)
+dr2tfibe,Dietary fiber (gm)
+dr2ttfat,Total fat (gm)
+dr2tsfat,Total saturated fatty acids (gm)
+dr2tmfat,Total monounsaturated fatty acids (gm)
+dr2tpfat,Total polyunsaturated fatty acids (gm)
+dr2tchol,Cholesterol (mg)
+dr2tatoc,Vitamin E as alpha-tocopherol (mg)
+dr2tatoa,Added alpha-tocopherol (Vitamin E) (mg)
+dr2tret,Retinol (mcg)
+dr2tvara,"Vitamin A, RAE (mcg)"
+dr2tacar,Alpha-carotene (mcg)
+dr2tbcar,Beta-carotene (mcg)
+dr2tcryp,Beta-cryptoxanthin (mcg)
+dr2tlyco,Lycopene (mcg)
+dr2tlz,Lutein + zeaxanthin (mcg)
+dr2tvb1,Thiamin (Vitamin B1) (mg)
+dr2tvb2,Riboflavin (Vitamin B2) (mg)
+dr2tniac,Niacin (mg)
+dr2tvb6,Vitamin B6 (mg)
+dr2tfola,Total Folate (mcg)
+dr2tfa,Folic acid (mcg)
+dr2tff,Food folate (mcg)
+dr2tfdfe,"Folate, DFE (mcg)"
+dr2tvb12,Vitamin B12 (mcg)
+dr2tb12a,Added vitamin B12 (mcg)
+dr2tvc,Vitamin C (mg)
+dr2tvk,Vitamin K (mcg)
+dr2tcalc,Calcium (mg)
+dr2tphos,Phosphorus (mg)
+dr2tmagn,Magnesium (mg)
+dr2tiron,Iron (mg)
+dr2tzinc,Zinc (mg)
+dr2tcopp,Copper (mg)
+dr2tsodi,Sodium (mg)
+dr2tpota,Potassium (mg)
+dr2tsele,Selenium (mcg)
+dr2tcaff,Caffeine (mg)
+dr2ttheo,Theobromine (mg)
+dr2talco,Alcohol (gm)
+dr2tmois,Moisture (gm)
+dr2ts040,SFA 4:0 (Butanoic) (gm)
+dr2ts060,SFA 6:0 (Hexanoic) (gm)
+dr2ts080,SFA 8:0 (Octanoic) (gm)
+dr2ts100,SFA 10:0 (Decanoic) (gm)
+dr2ts120,SFA 12:0 (Dodecanoic) (gm)
+dr2ts140,SFA 14:0 (Tetradecanoic) (gm)
+dr2ts160,SFA 16:0 (Hexadecanoic) (gm)
+dr2ts180,SFA 18:0 (Octadecanoic) (gm)
+dr2tm161,MFA 16:1 (Hexadecenoic) (gm)
+dr2tm181,MFA 18:1 (Octadecenoic) (gm)
+dr2tm201,MFA 20:1 (Eicosenoic) (gm)
+dr2tm221,MFA 22:1 (Docosenoic) (gm)
+dr2tp182,PFA 18:2 (Octadecadienoic) (gm)
+dr2tp183,PFA 18:3 (Octadecatrienoic) (gm)
+dr2tp184,PFA 18:4 (Octadecatetraenoic) (gm)
+dr2tp204,PFA 20:4 (Eicosatetraenoic) (gm)
+dr2tp205,PFA 20:5 (Eicosapentaenoic) (gm)
+dr2tp225,PFA 22:5 (Docosapentaenoic) (gm)
+dr2tp226,PFA 22:6 (Docosahexaenoic) (gm)
+dr2_300,Compare food consumed yesterday to usual
+dr2_320,Total plain water drank yesterday (gm)
+dr2_330,Total tap water drank yesterday (gm)
+dr2bwatr,Total bottled water drank yesterday (gm)
+dr2cwatr,Plain carbonated water (gm)
+dr2tws,Tap water source
+imd010,Received hepatitis A vaccine
+lbdglusi,Plasma glucose: SI(mmol/L)
+lbdinsi,Insulin: SI(pmol/L)
+lbxpt21,Parathyroid Hormone(Elecys method) pg/mL
+lbxtc,Total Cholesterol( mg/dL)
+lbxhdd,Direct HDL-Cholesterol (mg/dL)
+lbdtcsi,Total Cholesterol( mmol/L)
+lbdhddsi,Direct HDL-Cholesterol (mmol/L)
+lbxwbcsi,White blood cell count (1000 cells/uL)
+lbxrbcsi,Red blood cell count (million cells/uL)
+lbxpltsi,Platelet count SI (1000 cells/uL)
+lbxsatsi,Alanine aminotransferase ALT (U/L)
+lbxsassi,Aspartate aminotransferase AST (U/L)
+lbxsca,Total calcium (mg/dL)
+lbdscasi,Total calcium (mmol/L)
+lbxsgtsi,Gamma glutamyl transferase (U/L)
+lbxsir,"Iron, refigerated (ug/dL)"
+lbdsirsi,"Iron, refigerated (umol/L)"
+lbxsldsi,Lactate dehydrogenase LDH (U/L)
+lbxstb,Total bilirubin (mg/dL)
+lbxsossi,Osmolality (mmol/Kg)
+mcq149,Menstrual periods started yet?
+mcq160m,Ever told you had a thyroid problem
+mcq170m,Do you still have a thyroid problem
+mcq180m,Age when told you had a thyroid problem
+mcq265,Blood relative have/had prostate cancer
+mcq267a,Biological family member-father
+mcq267b,Biological family member-mother's father
+mcq267c,Biological family member-father's father
+mcq267d,Biological family member-brother
+mcq267e,Biological family member-other
+paaquex, Questionnaire source flag for weighting
+smd641,# days smoked cigs during past 30 days
+smd650,Avg # cigarettes/day during past 30 days
+smd093,May I please see the pack of cigarettes
+smq140,Do you now smoke a pipe
+smq200,Do you now use snuff
+smq230,Do you now use chewing tobacco
+smd430,Total # of cigarettes smoked in home
+smd440,Total # of cigars smoked in home
+smd450,Total # of pipes smoked in home
+smq800,#days used chewing tobacco -last 5 days
+whd010,Current self-reported height (inches)
+whd020,Current self-reported weight (pounds)
+bpq050a,Now taking prescribed medicine for HBP
+lbdlymno,Lymphocyte number (1000 cells/uL)
+lbdmono,Monocyte number (1000 cells/uL)
+lbdneno,Segmented neutrophils num (1000 cell/uL)
+lbdeono,Eosinophils number (1000 cells/uL)
+lbdbano,Basophils number (1000 cells/uL)
+dbd072a,Type of milk first fed-whole milk
+dbd072b,Type of milk first fed-2% milk
+dbd072c,Type of milk first fed-1% milk
+dbd072d,Type of milk first fed-fat free milk
+dbd072u,Type of milk first fed - other
+dbq700,How healthy is the diet
+dbq197,Past 30 day milk product consumption
+dbd222a,You drink whole or regular milk
+dbd222b,You drink 2% fat milk
+dbd222c,You drink 1% fat milk
+dbd222d,You drink fat-free or skim milk
+dbd222u,You drink another type of milk
+dbq229,Regular milk use 5 times per week
+dbd091,# of times/wk eat meals not from a home
+dbq720,Heard of dietary guidelines?
+dbq730,Heard of food guide pyramid?
+dbq740,Heard about 5-a-day program?
+dbq750,Use nutrition facts panel on food label
+dbq760,Use ingredients list on food label
+dbq770,Use serving size info on food label
+dbq780,Use health claims on food packages
+dbq790,Check calories on food label
+dbq800,Check calories from fat on food label
+dbq810,Check total fat on food label
+dbq820,Check trans fat on food label
+dbq830,Check saturated fat on food label
+dbq840,Check cholesterol on food label
+dbq850,Check sodium on food label
+dbq860,Check carbohydrates on food label
+dbq870,Check fiber on food label
+dbq880,Check sugars on food label
+dbq890,Are people born to be fat/thin
+dmdfmsiz,Total number of people in the Family
+did040,Age when first told you had diabetes
+diq220,When was your diabetes diagnosed
+diq160,Ever told you have prediabetes
+diq170,Ever told have health risk for diabetes
+diq180,Had blood tested past three years
+diq190a,Past yr told control weight
+diq190b,Past yr told increase physical activity
+diq190c,Past yr told reduce fat/calories in diet
+diq200a,Are you controlling weight
+diq200b,Are you increasing physical activity
+diq200c,Are you reducing fat/calories in diet
+did060,How long taking insulin
+did070,Take diabetic pills to lower blood sugar
+diq230,How long ago saw a diabetes specialist
+diq240,Is there one Dr you see for diabetes
+did250,Past year how many times seen doctor
+did260,How often check blood for glucose/sugar
+diq260u,Unit of measure (day/week/month/year)
+did270,Past year times checked for A1C
+diq280,What was your last A1C level
+diq290,What does Dr say A1C should be
+diq300s,What was your recent SBP
+diq300d,What was your recent DBP
+did310s,What does Dr say SBP should be
+did310d,What does Dr say DBP should be
+did320,What was most recent LDL number
+did330,What does Dr say LDL should be
+did340,Past year times Dr check feet for sores
+did350,How often do you check your feet
+diq350u,Unit of measure (day/week/month/year)
+diq360,Last time had pupils dilated for exam
+dr1lang,Language respondent used mostly
+dbq095z,Type of table salt used
+drqsdt1,Weight loss/Low cal/Low carb/Hi pro diet
+drqsdt2,Low fat/Low cholesterol diet
+drqsdt3,Low salt/Low sodium diet
+drqsdt4,Sugar free/Low sugar diet
+drqsdt8,Weight gain/Muscle building diet
+dr1tnumf,Number of foods reported
+dr1tfola,Total folate (mcg)
+dr1tchl,Total choline (mg)
+dr1_320z,Total plain water drank yesterday (gm)
+dr1_330z,Total tap water drank yesterday (gm)
+dr1bwatz,Total bottled water drank yesterday (gm)
+dr2lang,Language respondent used mostly
+dr2tnumf,Number of foods reported
+dr2tfola,Total folate (mcg)
+dr2tchl,Total choline (mg)
+dr2_320z,Total plain water drank yesterday (gm)
+dr2_330z,Total tap water drank yesterday (gm)
+dr2bwatz,Total bottled water drank yesterday (gm)
+whq030e,How do you consider your weight
+mcq080e,Doctor told you that {SP} was overweight
+ecq150,Doing anything to help control weight?
+lbxglu,Fasting Glucose (mg/dL)
+lbdglusi,Fasting Glucose (mmol/L)
+lbxin,Insulin (uU/mL )
+lbdinsi,Insulin (pmol/L)
+lbdhdd,Direct HDL-Cholesterol (mg/dL)
+imq011,Received hepatitis A vaccine
+mcq240dk,How old when cancer first diagnosed?
+mcq268a,Biological family members - father
+mcq268b,Biological family member-mother's father
+mcq268c,Biological family member-father's father
+mcq268d,Biological family member - brother
+mcq300a,Close relative had heart attack?
+mcq300b,Close relative had asthma?
+mcq300c,Close relative had diabetes?
+mcq310,Ever have blood test to check PSA?
+mcq320,Age when first had PSA test
+mcd330,How long ago was last PSA test?
+mcq340,How many PSA tests in past 5 years?
+mcq350,Ever told PSA test was not normal?
+wtsog2yr,OGTT Subsample 2 Year MEC Weight
+lbxglt,Two Hour Glucose(OGTT) (mg/dL)
+lbdgltsi,Two Hour Glucose(OGTT) (mmol/L)
+smq077,How soon after waking do you smoke
+smaquex2,Questionnaire Mode Flag
+smd410,Does anyone smoke in home?
+smd415,Total # of smokers in home
+smq725,When did resp. smoke last cigarette?
+smq755,When did resp. smoke last pipe?
+smq785,When did resp. smoke last cigar?
+smq815,When did resp. last use chewing tobacco?
+lbxapb,Apolipoprotein (B) (mg/dL)
+lbdapbsi,Apolipoprotein (B) (g/L)
+whd050,Self-reported weight - 1 yr ago (pounds)
+whd080a,Ate less to lose weight
+whd080c,Ate less fat to lose weight
+whd080j,Took non-RX suppl. to lose weight
+whd080o,Ate fewer carbohydrates
+whd080p,Started to smoke or began to smoke again
+whd080q,"Ate more fruits, vegetables, salads"
+whd080r,Changed eating habits
+whd080s,"Ate less sugar, candy, sweets"
+whq270,Seek help from a health professional
+whq280a,Personal trainer
+whq280b,Dietitian
+whq280c,Nutritionist
+whq280d,Doctor
+whq280e,Other health professional
+whd100g,Used liquid diet formula
+whd100o,Ate fewer carbohydrates
+whd100p,Started to smoke or began to smoke again
+whd100q,"Ate more fruits, vegetables, salads"
+whd100r,Changed eating habits
+whd100s,"Ate less sugar, candy, sweets"
+whq210,Have you/Has SP ever tried to lose weigh
+whd220,Weight loss most successful (pounds)
+whd120,Self-reported weight-age 25 (pounds)
+whd140,Self-reported greatest weight (pounds)
+whq030m,How do you consider your weight
+whq500,Trying to do about weight
+whq510a,Want to look better
+whq510b,Want to be healthier
+whq510c,Want to be better at sports
+whq510d,Get teased about my weight
+whq510e,Think my clothes will fit better
+whq510f,Think boys will like me better
+whq510g,Think girls will like me better
+whq510h,Friends are trying to lose weight
+whq510i,Someone in family trying to lose weight
+whq510j,Mother/father wants me to lose weight
+whq510k,Teacher/coach wants me to lose weight
+whq510l,Health professional wants me lose weight
+whq510m,Want to be skinny/don't want to be fat
+whq510n,Want to feel good/better about self
+whq510o,Because I'm fat/overweight
+whq510u,Other reason
+whq520,How often tried to lose weight
+whq530,Been on a diet to lose weight
+whq540,Starved to lose weight
+whq550,Cut back on eating to lose weight
+whq560,Skipped meals to lose weight
+whq570,Exercised to lose weight
+whq580,Eaten less sweets or fatty foods
+lbxsatsi,Alanine aminotransferase (ALT) (U/L)
+lbxsassi,Asparate aminotransferase (AST) (U/L)
+lbdscrsi,Creatinine (µmol/L)
+bpd035,Age told had hypertension
+bpq052,Told have Prehypertension
+bpq057,Borderline Hypertension
+lbxpltsi,Platelet count (1000 cells/uL)
+dbd072a,Type of milk first fed - whole milk
+dbd072b,Type of milk first fed - 2% milk
+dbd072c,Type of milk first fed - 1% milk
+dbd072d,Type of milk first fed - fat free milk
+dbd080,Age started eating solid foods (days)
+dbd222d,You drink fat free/skim milk
+dbd895,# of meals not home prepared
+dbd900,# of meals from fast food or pizza place
+dbd905,# of ready-to-eat foods in past 30 days
+dbd910,# of frozen meals/pizza in past 30 days
+dbq915,Self-perceived vegetarian
+dbq920,Having food allergies
+dbq925a,Allergic to wheat
+dbq925b,Allergic to cow's milk
+dbq925c,Allergic to eggs
+dbq925d,Allergic to fish
+dbq925e,Allergic to shellfish
+dbq925f,Allergic to corn
+dbq925g,Allergic to peanut
+dbq925h,Allergic to other nuts
+dbq925i,Allergic to soy products
+dbq925j,Allergic to other foods
+dbq930,Main meal planner/preparer
+dbq935,Shared meal planning/preparing duty
+dbq940,Main food shopper
+dbq945,Shared food shopping duty
+ridagemn,Age in Months at Screening - Recode
+ridageex,Age in Months at Exam - Recode
+dmqmilit,Served in the US Armed Forces
+dmdborn2,Country of Birth - Recode
+indhhin2,Annual Household Income
+indfmin2,Annual Family Income
+indfmpir,Ratio of family income to poverty
+dmdhrbr2,HH Ref Person Country of Birth
+dr1dbih,# of days b/w intake and HH interview
+drqsdt1,Weight loss/Low calorie diet
+drqsdt9,Low carbohydrate diet
+drqsdt10,High protein diet
+dr1tvd,Vitamin D (D2 + D3) (mcg)
+dr2dbih,# of days b/w intake and HH interview
+dr2tvd,Vitamin D (D2 + D3) (mcg)
+whq030e,How do you consider {SP} weight
+imq040,Received HPV vaccine
+imq045,"Received HPV, # of doses"
+mcq051,Dr. prescribed medication for asthma?
+mcq160n,Doctor ever told you that you had gout?
+mcq180n,Age when told you had gout
+mcq240dk,Age unknown cancer first diagnosed
+gtdscmmn,Glucose challenge Administer Time in min
+gtddr1mn,Time from fast glucose & challenge (min)
+gtdbl2mn,Time from fasting glucose & OGTT (min)
+gtddr2mn,Time from glucose challenge & OGTT(min)
+gtxdrank,Amount of glucose challenge drank
+gtdcode,Incomplete OGTT Comment Code
+paq560,Times per week play or exercise hard
+pad590,Hours watch TV or videos past 30 days
+pad600,Hours use computer past 30 days
+paq605,Vigorous work activity
+paq610,Days vigorous work
+pad615,Minutes vigorous-intensity work
+paq620,Moderate work activity
+paq625,Number of days moderate work
+pad630,Minutes moderate-intensity work
+paq635,Walk or bicycle
+paq640,Number of days walk or bicycle
+pad645,Minutes walk/bicycle for transportation
+paq650,Vigorous recreational activities
+paq655,Days vigorous recreational activities
+pad660,Minutes vigorous recreational activities
+paq665,Moderate recreational activities
+paq670,Days moderate recreational activities
+pad675,Minutes moderate recreational activities
+pad680,Minutes sedentary activity
+smd410,Does anyone smoke inside home?
+smd415,Total # of smokers inside home
+smd415a,Total # cigarette smokers inside home
+smd430,Total # cigarettes smoked inside home
+lbxtc,Total Cholesterol (mg/dL)
+lbxatg,Thyroglobulin antibodies (IU/mL)
+lbxt3f,"Triiodothyronine (T3), free  (pg/mL)"
+lbxt4f,"Thyroxine, free (ng/dL)"
+lbdt4fsi,"Thyroxine, free (pmol/L)"
+lbxtgn,Thyroglobulin (ng/mL)
+lbdtgnsi,Thyroglobulin (ug/L)
+lbxtsh1,Thyroid stimulating hormone (uIU/mL)
+lbdtsh1s,Thyroid stimulating hormone (mIU/L)
+lbxtpo,Thyroid peroxidase antibodies (IU/mL)
+lbxtt3,"Triiodothyronine (T3), total (ng/dL)"
+lbdtt3si,"Triiodothyronine (T3), total (nmol/L)"
+lbxtt4,"Thyroxine, total (T4) (ug/dL)"
+whd045,How much would like to weigh (pounds)
+whq210,Ever tried to lose weight
+whq510p,Want to be skinny/because I'm overweight
+alq010,Age when first drank alcohol
+ald020,# days drank alcohol over lifetime
+ald030,# days drank alcohol over past 30 days
+ald040,# days w/5 or more drinks/past 30 days
+lbxsldsi,Lactate dehydrogenase (U/L)
+lbdstbsi,Total bilirubin (umol/L)
+bpq056,Take blood pressure at home last 12 mos?
+bpd058,How often checked BP at home last 12 mos
+bpq059,Doctor tell you to take BP at home?
+bpxsy1,Systolic: Blood pres (1st rdg) mm Hg
+bpxdi1,Diastolic: Blood pres (1st rdg) mm Hg
+bpxsy2,Systolic: Blood pres (2nd rdg) mm Hg
+bpxsy3,Systolic: Blood pres (3rd rdg) mm Hg
+dbd041,Age first fed formula(days)
+dbd055,Age started other than breastmilk/fomula
+dbd061,Age first fed milk(days)
+dbq073a,Type of milk first fed - whole milk
+dbq073b,Type of milk first fed - 2% milk
+dbq073c,Type of milk first fed - 1% milk
+dbq073d,Type of milk first fed - fat free milk
+dbq073e,Type of milk first fed - soy milk
+dbq073u,Type of milk first fed - other
+dbq223a,You drink whole or regular milk
+dbq223b,You drink 2% fat milk
+dbq223c,You drink 1% fat milk
+dbq223d,You drink fat free/skim milk
+dbq223e,You drink soy milk
+dbq223u,You drink another type of milk
+did341,Past year times Dr check feet for sores
+drqsdt11,Gluten-free/Celiac diet
+drqsdt12,Renal/Kidney diet
+imq011,Received Hepatitis A vaccine
+imq020,Received Hepatitis B 3 dose series
+mcq070,Ever been told you have psoriasis?
+mcq082,Ever been told you have celiac disease?
+mcq086,Are you on a gluten-free diet?
+mcq191,Which type of arthritis was it?
+gtddr1mn,Time from fast glucose & challenge(min)
+paq706,Days physically active at least 60 min
+smq830,# days used nicotine quit smoking aids?
+smq840,When Last used nicotine quit smoking aid
+lbdtcsi,Total Cholesterol (mmol/L)
+wtsa2yr,Two-year A subsample weights
+lbxt3f,"Triiodothyronine (T3), free (pg/mL)"
+lbxtpo,Thyroid perioxidase antibodies (IU/mL)
+lbdldl,LDL-cholesterol
+whd080t,Ate less junk food or fast food
+whd100h,Joined program to not gain weight
+whd100t,Ate less junk food or fast food
+alq130,Avg # alcoholic drinks/day - past 12 mos
+alq141q,# days have 4/5 drinks - past 12 mos
+alq141u,"# days per week, month, year?"
+alq151,Ever have 4/5 or more drinks every day?
+alq155,How many years did you drink every day?
+lbxsck,Creatine Phosphokinase(CPK) (IU/L)
+bmdbmic,BMI Category - Children/Adolescents
+bmxsad1,Sagittal Abdominal Diameter 1st (cm)
+bmxsad2,Sagittal Abdominal Diameter 2nd (cm)
+bmxsad3,Sagittal Abdominal Diameter 3rd (cm)
+bmxsad4,Sagittal Abdominal Diameter 4th (cm)
+bmdavsad,Average Sagittal Abdominal Diameter (cm)
+bmdsadcm,Sagittal Abdominal Diameter Comment
+bpaarm,Arm selected
+bpxpls,60 sec. pulse (30 sec. pulse * 2)
+bpxpty,Pulse type
+bpxdi4,Diastolic: Blood pres (4th rdg) mm Hg
+cbq595,Heard of MyPyramid
+cbq600,Heard of Food Pyramid
+cbq605,Looked up MyPyramid on internet
+cbq610,Tried MyPyramid plan
+sddsrvyr,Data release cycle
+ridstatr,Interview/Examination status
+ridageyr,Age in years at screening
+ridagemn,Age in months at screening - 0 to 24 mos
+ridreth1,Race/Hispanic origin
+ridreth3,Race/Hispanic origin w/ NH Asian
+ridexagy,Age in years at exam - 2 to 19 years
+ridexagm,Age in months at exam - 0 to 19 years
+dmqmiliz,Served active duty in US Armed Forces
+dmqadfc,Served in a foreign country
+dmdborn4,Country of birth
+dmdcitzn,Citizenship status
+dmdeduc3,Education level - Children/Youth 6-19
+dmdeduc2,Education level - Adults 20+
+dmdmartl,Marital status
+ridexprg,Pregnancy status at exam
+aialanga,Language of ACASI Interview
+wtint2yr,Full sample 2 year interview weight
+wtmec2yr,Full sample 2 year MEC exam weight
+sdmvpsu,Masked variance pseudo-PSU
+sdmvstra,Masked variance pseudo-stratum
+indhhin2,Annual household income
+indfmin2,Annual family income
+dmdhhsza,# of children 5 years or younger in HH
+dmdhhszb,# of children 6-17 years old in HH
+dmdhhsze,# of adults 60 years or older in HH
+dmdhrgnd,HH ref person's gender
+dmdhrage,HH ref person's age in years
+dmdhrbr4,HH ref person's country of birth
+dmdhredu,HH ref person's education level
+dmdhrmar,HH ref person's marital status
+dmdhsedu,HH ref person's spouse's education level
+diq172,Feel could be at risk for diabetes
+diq175a,Family history
+diq175b,Overweight
+diq175c,Age
+diq175d,Poor diet
+diq175e,Race
+diq175f,Had a baby weighed over 9 lbs. at birth
+diq175g,Lack of physical activity
+diq175h,High blood pressure
+diq175i,High blood sugar
+diq175j,High cholesterol
+diq175k,Hypoglycemic
+diq175l,Extreme hunger
+diq175m,Tingling/numbness in hands or feet
+diq175n,Blurred vision
+diq175o,Increased fatigue
+diq175p,Anyone could be at risk
+diq175q,Doctor warning
+diq175r,"Other, specify"
+diq175s,Gestational diabetes
+diq175t,Frequent urination
+diq175u,Thirst
+diq175v,Craving for sweet/eating a lot of sugar
+diq175w,Medication
+diq275,Past year Dr checked for A1C
+diq291,What does Dr say A1C should be
+whq030e,How do you consider your child's weight
+mcq080e,Your child was overweight
+ecq150,Help your child control weight
+imq070,Received HPV vaccine
+imq080,HPV vaccine received
+imq090,Age first dose HPV
+mcq075,Degree of Psoriasis
+mcq084,Difficulties in thinking or remembering
+mcq195,Which type of arthritis was it?
+mcq180n,Age when told you had gout.
+mcq160m,Ever told you had thyroid problem
+mcq170m,Do you still have thyroid problem
+mcq180m,Age when told you had thyroid problem
+mcq240o,Age lymphoma/Hodgkins'  diagnosed
+mcq365a,Doctor told you to lose weight
+mcq365b,Doctor told you to exercise
+mcq365c,Doctor told you to reduce salt in diet
+mcq365d,Doctor told you to reduce fat/calories
+mcq370a,Are you now controlling or losing weight
+mcq370b,Are you now increasing exercise
+mcq370c,Are you now reducing salt in diet
+mcq370d,Are you now reducing fat in diet
+mcq380,"Past 7 days, had trouble remembering"
+paq710,Hours watch TV or videos past 30 days
+paq715,Hours use computer past 30 days
+smq621,Cigarettes smoked in entire life
+smq840,When last used nicotine quit smoking aid
+wtsa2yr,Subsample A weights
+lbxtt4,"Thyroxine, total (T4) (ug/mL)"
+alq160,# days have 4/5 or more drinks in 2 hrs
+lbxsapsi,Alkaline phosphatase (IU/L)
+lbxsassi,Aspartate aminotransferase AST (IU/L)
+lbxsatsi,Alanine aminotransferase ALT (IU/L)
+lbxsgl,"Glucose, refrigerated serum (mg/dL)"
+lbdsglsi,"Glucose, refrigerated serum (mmol/L)"
+lbxsir,"Iron, refrigerated serum (ug/dL)"
+lbdsirsi,"Iron, refrigerated serum  (umol/L)"
+lbxstr,"Triglycerides, refrigerated (mg/dL)"
+lbdstrsi,"Triglycerides, refrigerated  (mmol/L)"
+bmdbmic,BMI Category - Children/Youth
+cbq596,Heard of My Plate
+cbq606,Looked up My Plate on internet
+cbq611,Tried My Plate plan
+cbq505,Eat at fast food/pizza places
+cbq535,Saw nutrition info on fast food menu
+cbq540,Used nutrition info to choose fast foods
+cbq545,Would use fast food nutrition info
+cbq550,Eat at restaurants w/ waiter
+cbq552,Is it a chain-restaurant?
+cbq580,Saw nutrition info on restaurant menu
+cbq585,Used nutrition info in restaurant
+cbq590,Would use restaurant nutrition info
+diq175x,Polycystic ovarian syndrome
+dr1sty,Salt used at table yesterday?
+dr1sky,Type of salt used yesterday
+dr1tnumf,Number of foods/beverages reported
+dr2tnumf,Number of foods/beverages reported
+dr2sty,Salt used at table yesterday?
+dr2sky,Type of salt used yesterday
+agq030,Did SP have episode of hay fever/past yr
+mcq151,Age at first menstrual period
+mcq160o,Ever told you had COPD?
+mcq203,Ever been told you have jaundice?
+mcq206,Age when told you have jaundice?
+paq610,Number of days vigorous work
+paq706,Days physically active at least 60 min.
+paq722,Any physical activities past 7 days
+paq724a,Physical activity aerobics
+paq724b,Physical activity baseball
+paq724c,Physical activity basketball
+paq724d,Physical activity bike riding
+paq724e,Physical activity cheerleading
+paq724f,Physical activity dance
+paq724g,Physical activity field hockey
+paq724h,Physical activity football
+paq724i,Physical activity golf
+paq724j,Physical activity gymnastics
+paq724k,Physical activity hiking
+paq724l,Physical activity ice hockey
+paq724m,Physical activity ice skating
+paq724n,Physical activity jumping rope
+paq724o,Physical activity lacrosse
+paq724p,Physical activity martial arts
+paq724q,Physical activity playing games
+paq724r,Physical activity roller blading
+paq724s,Physical activity running
+paq724t,Physical activity scooter riding
+paq724u,Physical activity skateboarding
+paq724v,Physical activity soccer
+paq724w,Physical activity swimming
+paq724x,Physical activity tennis
+paq724y,Physical activity track & field
+paq724z,Physical activity volleyball
+paq724aa,Physical activity walking
+paq724ab,Physical activity wrestling
+paq724ac,Physical activity frisbee
+paq724ad,Physical activity backyard games
+paq724ae,Physical activity trampoline
+paq724af,Physical activity horseback riding
+paq724cm,Physical activity other
+paq731,Days played active video games
+pad733,Minutes play active video games
+paq677,Past wk # days cardiovascular exercise
+paq678,Past wk # days strengthened muscles
+paq740,Use school facilities at lunch
+paq742,Use school facilities for physical activ
+paq744,Have PE during school days?
+paq746,How often do you have PE or gym?
+paq748,How long is the PE or gym class?
+paq755,Participate in school sports?
+paq759a,Participate in baseball
+paq759b,Participate in basketball
+paq759c,Participate in bocce ball
+paq759d,Participate in cheerleading
+paq759e,Participate in football
+paq759f,Participate in golf
+paq759g,Participate in gymnastics
+paq759h,Participate in hockey
+paq759i,Participate in lacrosse
+paq759j,Participate in soccer
+paq759k,Participate in swimming/diving
+paq759l,Participate in tennis
+paq759m,Participate in track and field
+paq759n,Participate in volleyball
+paq759o,Participate in wrestling
+paq759p,Participate in other specify
+paq759q,Participate in dance
+paq759r,Participate in frisbee
+paq759s,Participate in running
+paq759t,Participate in trampoline
+paq759u,Participate in martial arts
+paq759v,Participate in walking
+paq762,Do you have recess during school?
+paq764,How often do you have recess?
+paq766,How long is the recess period?
+paq679,How much exercise for good health
+paq750,Enjoy participating in PE or recess
+paq770,Receive physical fitness award past yr
+paq772a,Fitness award Fitnessgram
+paq772b,Fitness award President's Challenge
+paq772c,Fitness award other specify
+smq078,How soon after waking do you smoke
+smd100fl,Cigarette Filter type
+smd100mn,Cigarette Menthol indicator
+smd100ln,Cigarette Length
+smq661,Brand of cigarettes smoked past 30 days
+smq665a,Marlboro variety
+smq665b,Camel variety
+smq665c,Newport variety
+smq665d,Other brand
+smq848,# times stopped smoking cigarettes
+smq852q,How long were you able to stop smoking
+smq852u,Unit of measure (day/week/month/year)
+smd460,# of people who live here smoke tobacco?
+smd470,# of people who smoke inside this home?
+smd480,In past week # days person smoked inside
+smq681,Smoked tobacco last 5 days?
+smq690g,"Used last 5 days - Hookah, water pipes"
+smq845,# days smoked water pipe last 5 days
+smq690h,Used last 5 days - E-cigarettes
+smq849,# days smoked e-cigarette last 5 days
+smq851,Used smokeless tobacco last 5 days?
+smq800,# days used chewing tobacco last 5 day
+smq690i,Used last 5 days - Snus
+smq857,# days used snus over last 5 days
+smq690j,Used last 5 days - Dissolvables
+smq861,# days used dissolvable over last 5 days
+smq863,Used nicotine replacement last 5 days?
+smdany,Used any tobacco product last 5 days?
+smq856,Last 7-d worked at job not at home?
+smq858,Last 7-d at job someone smoked indoors?
+smq860,Last 7-d spent time in a restaurant?
+smq862,Last 7-d at rest someone smoked indoors?
+smq866,Last 7-d spent time in a bar?
+smq868,Last 7-d in bar someone smoked indoors?
+smq870,Last 7-d rode in a car?
+smq872,Last 7-d someone smoked in car?
+smq874,Last 7-d spent time in another home?
+smq876,Last 7-d in home someone smoked indoors?
+smq878,Last 7-d in other indoor area?
+smq880,Last 7-d in other indoor someone smoked?
+whd080u,Had weight loss to lose weight

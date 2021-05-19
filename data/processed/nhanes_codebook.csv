@@ -1,0 +1,1722 @@
+var_name,var_label
+dmaethn,Logical Imputation Flag for Ethnicity
+dmarace,Logical Imputation Flag for Race Recode
+dmdborn,In what country {were you/was SP} born?
+dmdcitzn,{Are you/Is SP} a citizen of the United States? [Information about citizenship is being collected by
+dmdeduc,(SP Interview Version) What is the highest grade or level of school {you have/SP has} completed or t
+dmdeduc2,(SP Interview Version) What is the highest grade or level of school {you have/SP has} completed or t
+dmdeduc3,(SP Interview Version) What is the highest grade or level of school {you have/SP has} completed or t
+dmdhhsiz,Total number of people in the Household
+dmdhrage,Age in years of the household reference person at the time of HH screening.  Individuals 85 and over
+dmdhrbrn,In what country {were you/was NON-SP Head} born?
+dmdhredu,What is the highest grade or level of school {you have/NON_SP HEAD has} received?
+dmdhrgnd,Gender of the household reference person
+dmdhrmar,Marital Status of household reference person
+dmdhsedu,What is the highest grade or level of school {you have/NON-SP SPOUSE has completed or the highest de
+dmdmartl,Marital Status
+dmdschol,{Are you/Is SP} now . . .
+dmdyrsus,Length of time SP has been in the US.
+dmqmilit,Did {you/SP} ever serve in the Armed Forces of the United States?
+indfminc,Total family income (reported as a range value in dollars)
+indfmpir,Poverty income ratio (PIR) - a ratio of family income to poverty threshold
+indhhinc,Total household income (reported as a range value in dollars)
+riagendr,Gender of the sample person
+ridageex,Best age in months at date of examination for individuals under 85 years of age at screening.
+ridagemn,Best age in months at date of screening for individuals under 85 years of age.
+ridageyr,Best age in years of the sample person at time of HH screening.  Individuals 85 and over are topcode
+ridexmon,Six month time period when the examination was performed - two categories: November 1 through April 
+ridexprg,Pregnancy status at the time of MEC exam.
+ridpreg,Pregnancy status variable based on all source data. NOTE: This is the previous pregnancy status reco
+ridreth1,Recode of reported race and ethnicity information.
+ridreth2,Linked NH3 Race and Ethnicity Recode.
+ridstatr,Interview and Examination Status of the Sample Person.
+sddsrvyr,Data Release Number.
+sdj1repn,Jack Knife Replicate Number
+sdmvpsu,Masked Variance Unit Pseudo-PSU variable for variance estimation
+sdmvstra,Masked Variance Unit Pseudo-Stratum variable for variance estimation
+seqn,Respondent sequence number.
+wtint2yr,Interviewed Sample Persons.
+wtint4yr,Interviewed Sample Persons. Used for 1999-2002 data collection years only.
+wtirep01,Interview Weight Jack Knife Replicate 01
+wtirep02,Interview Weight Jack Knife Replicate 02
+wtirep03,Interview Weight Jack Knife Replicate 03
+wtirep04,Interview Weight Jack Knife Replicate 04
+wtirep05,Interview Weight Jack Knife Replicate 05
+wtirep06,Interview Weight Jack Knife Replicate 06
+wtirep07,Interview Weight Jack Knife Replicate 07
+wtirep08,Interview Weight Jack Knife Replicate 08
+wtirep09,Interview Weight Jack Knife Replicate 09
+wtirep10,Interview Weight Jack Knife Replicate 10
+wtirep11,Interview Weight Jack Knife Replicate 11
+wtirep12,Interview Weight Jack Knife Replicate 12
+wtirep13,Interview Weight Jack Knife Replicate 13
+wtirep14,Interview Weight Jack Knife Replicate 14
+wtirep15,Interview Weight Jack Knife Replicate 15
+wtirep16,Interview Weight Jack Knife Replicate 16
+wtirep17,Interview Weight Jack Knife Replicate 17
+wtirep18,Interview Weight Jack Knife Replicate 18
+wtirep19,Interview Weight Jack Knife Replicate 19
+wtirep20,Interview Weight Jack Knife Replicate 20
+wtirep21,Interview Weight Jack Knife Replicate 21
+wtirep22,Interview Weight Jack Knife Replicate 22
+wtirep23,Interview Weight Jack Knife Replicate 23
+wtirep24,Interview Weight Jack Knife Replicate 24
+wtirep25,Interview Weight Jack Knife Replicate 25
+wtirep26,Interview Weight Jack Knife Replicate 26
+wtirep27,Interview Weight Jack Knife Replicate 27
+wtirep28,Interview Weight Jack Knife Replicate 28
+wtirep29,Interview Weight Jack Knife Replicate 29
+wtirep30,Interview Weight Jack Knife Replicate 30
+wtirep31,Interview Weight Jack Knife Replicate 31
+wtirep32,Interview Weight Jack Knife Replicate 32
+wtirep33,Interview Weight Jack Knife Replicate 33
+wtirep34,Interview Weight Jack Knife Replicate 34
+wtirep35,Interview Weight Jack Knife Replicate 35
+wtirep36,Interview Weight Jack Knife Replicate 36
+wtirep37,Interview Weight Jack Knife Replicate 37
+wtirep38,Interview Weight Jack Knife Replicate 38
+wtirep39,Interview Weight Jack Knife Replicate 39
+wtirep40,Interview Weight Jack Knife Replicate 40
+wtirep41,Interview Weight Jack Knife Replicate 41
+wtirep42,Interview Weight Jack Knife Replicate 42
+wtirep43,Interview Weight Jack Knife Replicate 43
+wtirep44,Interview Weight Jack Knife Replicate 44
+wtirep45,Interview Weight Jack Knife Replicate 45
+wtirep46,Interview Weight Jack Knife Replicate 46
+wtirep47,Interview Weight Jack Knife Replicate 47
+wtirep48,Interview Weight Jack Knife Replicate 48
+wtirep49,Interview Weight Jack Knife Replicate 49
+wtirep50,Interview Weight Jack Knife Replicate 50
+wtirep51,Interview Weight Jack Knife Replicate 51
+wtirep52,Interview Weight Jack Knife Replicate 52
+wtmec2yr,Both Interviewed and MEC Examined Sample Persons.
+wtmec4yr,Both Interviewed and MEC Examined Sample Persons. Used for 1999-2002 data collection years only.
+wtmrep01,MEC Exam Weight Jack Knife Replicate 01
+wtmrep02,MEC Exam Weight Jack Knife Replicate 02
+wtmrep03,MEC Exam Weight Jack Knife Replicate 03
+wtmrep04,MEC Exam Weight Jack Knife Replicate 04
+wtmrep05,MEC Exam Weight Jack Knife Replicate 05
+wtmrep06,MEC Exam Weight Jack Knife Replicate 06
+wtmrep07,MEC Exam Weight Jack Knife Replicate 07
+wtmrep08,MEC Exam Weight Jack Knife Replicate 08
+wtmrep09,MEC Exam Weight Jack Knife Replicate 09
+wtmrep10,MEC Exam Weight Jack Knife Replicate 10
+wtmrep11,MEC Exam Weight Jack Knife Replicate 11
+wtmrep12,MEC Exam Weight Jack Knife Replicate 12
+wtmrep13,MEC Exam Weight Jack Knife Replicate 13
+wtmrep14,MEC Exam Weight Jack Knife Replicate 14
+wtmrep15,MEC Exam Weight Jack Knife Replicate 15
+wtmrep16,MEC Exam Weight Jack Knife Replicate 16
+wtmrep17,MEC Exam Weight Jack Knife Replicate 17
+wtmrep18,MEC Exam Weight Jack Knife Replicate 18
+wtmrep19,MEC Exam Weight Jack Knife Replicate 19
+wtmrep20,MEC Exam Weight Jack Knife Replicate 20
+wtmrep21,MEC Exam Weight Jack Knife Replicate 21
+wtmrep22,MEC Exam Weight Jack Knife Replicate 22
+wtmrep23,MEC Exam Weight Jack Knife Replicate 23
+wtmrep24,MEC Exam Weight Jack Knife Replicate 24
+wtmrep25,MEC Exam Weight Jack Knife Replicate 25
+wtmrep26,MEC Exam Weight Jack Knife Replicate 26
+wtmrep27,MEC Exam Weight Jack Knife Replicate 27
+wtmrep28,MEC Exam Weight Jack Knife Replicate 28
+wtmrep29,MEC Exam Weight Jack Knife Replicate 29
+wtmrep30,MEC Exam Weight Jack Knife Replicate 30
+wtmrep31,MEC Exam Weight Jack Knife Replicate 31
+wtmrep32,MEC Exam Weight Jack Knife Replicate 32
+wtmrep33,MEC Exam Weight Jack Knife Replicate 33
+wtmrep34,MEC Exam Weight Jack Knife Replicate 34
+wtmrep35,MEC Exam Weight Jack Knife Replicate 35
+wtmrep36,MEC Exam Weight Jack Knife Replicate 36
+wtmrep37,MEC Exam Weight Jack Knife Replicate 37
+wtmrep38,MEC Exam Weight Jack Knife Replicate 38
+wtmrep39,MEC Exam Weight Jack Knife Replicate 39
+wtmrep40,MEC Exam Weight Jack Knife Replicate 40
+wtmrep41,MEC Exam Weight Jack Knife Replicate 41
+wtmrep42,MEC Exam Weight Jack Knife Replicate 42
+wtmrep43,MEC Exam Weight Jack Knife Replicate 43
+wtmrep44,MEC Exam Weight Jack Knife Replicate 44
+wtmrep45,MEC Exam Weight Jack Knife Replicate 45
+wtmrep46,MEC Exam Weight Jack Knife Replicate 46
+wtmrep47,MEC Exam Weight Jack Knife Replicate 47
+wtmrep48,MEC Exam Weight Jack Knife Replicate 48
+wtmrep49,MEC Exam Weight Jack Knife Replicate 49
+wtmrep50,MEC Exam Weight Jack Knife Replicate 50
+wtmrep51,MEC Exam Weight Jack Knife Replicate 51
+wtmrep52,MEC Exam Weight Jack Knife Replicate 52
+aialang,Language of the MEC ACASI Interview Instrument
+fiaintrp,Was an interpreter used to conduct the Family interview?
+fialang,Language of the Family Interview Instrument
+fiaproxy,Was a Proxy respondent used in conducting the Family Interview?
+miaintrp,Was an interpreter used to conduct the MEC CAPI interview?
+mialang,Language of the CAPI MEC Interview Instrument
+miaproxy,Was a Proxy respondent used in conducting the MEC CAPI Interview?
+siaintrp,Was an interpreter used to conduct the Sample Person (SP) interview?
+sialang,Language of the Sample Person Interview Instrument
+siaproxy,Was a Proxy respondent used in conducting the Sample Person (SP) interview?
+dmdfmsiz,Total number of people in the Family
+dmdborn2,In what country {were you/was SP} born?
+dmdhrage,Age in years of the household reference person at the time of HH screening.  Individuals 80 and over
+dmdhrbr2,In what country {were you/was NON-SP Head} born?
+indfmin2,Total family income (reported as a range value in dollars)
+indfmpir,A ratio of family income to poverty threshold
+indhhin2,Total household income (reported as a range value in dollars)
+ridageex,Best age in months at date of examination for individuals under 80 years of age at screening.
+ridagemn,Best age in months at date of screening for individuals under 80 years of age.
+ridageyr,Best age in years of the sample person at time of HH screening.  Individuals 80 and over are topcode
+ridexprg,Pregnancy status for females between 20 and 44 years of age at the time of MEC exam.
+ridageex,Best age in months at date of examination for individuals under 80 years of age at the time of MEC e
+aialanga,Language of the MEC ACASI Interview Instrument
+dmdborn4,In what country {were you/was SP} born?
+dmdeduc2,What is the highest grade or level of school {you have/SP has} completed or the highest degree {you 
+dmdeduc3,What is the highest grade or level of school {you have/SP has} completed or the highest degree {you 
+dmdhhsza,Number of children aged 5 years or younger in the household
+dmdhhszb,Number of children aged 6-17 years old in the household
+dmdhhsze,Number of adults aged 60 years or older in the household
+dmdhrage,HH reference person's age in years
+dmdhrbr4,HH reference person's country of birth
+dmdhredu,HH reference person's education level
+dmdhrgnd,HH reference person's gender
+dmdhrmar,HH reference person's marital status
+dmdhsedu,HH reference person's spouse's education level
+dmdmartl,Marital status
+dmdyrsus,Length of time the participant has been in the US.
+dmqadfc,Did {you/SP} ever serve in a foreign country during a time of armed conflict or on a humanitarian or
+dmqmiliz,"{Have you/Has SP} ever served on active duty in the U.S. Armed Forces, military Reserves, or Nationa"
+indfmpir,A ratio of family income to poverty guidelines.
+mialang,Language of the MEC CAPI Interview Instrument
+riagendr,Gender of the participant.
+ridagemn,Age in months of the participant at the time of screening. Reported for persons aged 24 months or yo
+ridageyr,Age in years of the participant at the time of screening. Individuals 80 and over are topcoded at 80
+ridexagm,Age in months of the participant at the time of examination. Reported for persons aged 19 years or y
+ridexagy,Age in years of the participant at the time of examination. Reported for persons aged 2-19 years at 
+ridreth1,Recode of reported race and Hispanic origin information
+ridreth3,"Recode of reported race and Hispanic origin information, with Non-Hispanic Asian Category"
+ridstatr,Interview and examination status of the participant.
+sddsrvyr,Data release cycle
+sdmvpsu,Masked variance unit pseudo-PSU variable for variance estimation
+sdmvstra,Masked variance unit pseudo-stratum variable for variance estimation
+wtint2yr,Interviewed participants.
+wtmec2yr,Both interviewed and MEC examined participants.
+wtint2yr,Full sample 2 year interview weight.
+wtmec2yr,Full sample 2 year MEC exam weight.
+bpaarm,Arm selected:
+bpacsz,Cuff size (cm) (width X length)
+bpaen1,Enhancement used first reading
+bpaen2,Enhancement used second reading
+bpaen3,Enhancement used third reading
+bpaen4,Enhancement used fourth reading
+bpq150a,Have you had any of the following in the past 30 minutes?:  Food
+bpq150b,Have you had any of the following in the past 30 minutes?:  Alcohol
+bpq150c,Have you had any of the following in the past 30 minutes?:  Coffee
+bpq150d,Have you had any of the following in the past 30 minutes?:  Cigarettes
+bpxchr,60 sec HR (30 sec HR * 2)
+bpxdar,Diastolic blood pressure average:
+bpxdb,# of dropped beats in 30 seconds
+bpxdi1,Diastolic:  Blood pressure (first reading) mm Hg
+bpxdi2,Diastolic: Blood pressure (second reading) mm Hg
+bpxdi3,Diastolic: Blood pressure (third reading) mm Hg
+bpxdi4,Diastolic:  Blood pressure (fourth reading if necessary) mm Hg
+bpxml1,MIL: maximum inflation levels (mm Hg)
+bpxpls,60 sec. pulse (30 sec. pulse * 2):
+bpxpty,Pulse type:
+bpxpuls,Pulse regular or irregular?
+bpxsar,Systolic blood pressure average:
+bpxsy1,Systolic:  Blood pressure (first reading) mm Hg
+bpxsy2,Systolic:  Blood pressure (second reading) mm Hg
+bpxsy3,Systolic:  Blood pressure (third reading) mm Hg
+bpxsy4,Systolic:  Blood pressure (fourth reading if necessary) mm Hg
+peascct1,Blood Pressure Comment
+peascst1,Blood Pressure Status
+peasctm1,Blood Pressure Time in Seconds
+bmaamp,Amputations?
+bmaexcmt,Comment code for an exam
+bmaexlen,Exam length in seconds
+bmaexsts,Status of a MEC exam
+bmallext,Amputations: Lower Left Extremity?
+bmallkne,Amputations: Lower Left.   Above or Below Knee?
+bmalorex,Amputations: Lower Right Extremity?
+bmalorkn,Amputations: Lower Right.   Above or Below Knee?
+bmaulext,Amputations: Upper Left Extremity?
+bmauplel,Amputations: Upper Left.   Above or Below Elbow?
+bmauprel,Amputations: Upper Right.   Above or Below Elbow?
+bmaurext,Amputations: Upper Right Extremity?
+bmiarmc,Arm Circumference Comment
+bmiarml,Upper Arm Length Comment
+bmicalf,Maximal Calf Comment
+bmihead,Head Circumference Comment
+bmiht,Standing Height Comment
+bmileg,Upper Leg Length Comment
+bmirecum,Recumbent Length Comment
+bmisub,Subscapular Skinfold Comment
+bmithicr,Thigh Circumference Comment
+bmitri,Triceps Skinfold Comment
+bmiwaist,Waist Circumference Comment
+bmiwt,Weight Comment
+bmxarmc,Arm Circumference (cm)
+bmxarml,Upper Arm Length (cm)
+bmxbmi,Body Mass Index (kg/m**2)
+bmxcalf,Maximal Calf Circumference (cm)
+bmxhead,Head Circumference (cm)
+bmxht,Standing Height (cm)
+bmxleg,Upper Leg Length (cm)
+bmxrecum,Recumbent Length (cm)
+bmxsub,Subscapular Skinfold (mm)
+bmxthicr,Thigh Circumference (cm)
+bmxtri,Triceps Skinfold (mm)
+bmxwaist,Waist Circumference (cm)
+bmxwt,Weight (kg)
+leaankl,Ankle(s) tested
+leaarm,Arm:
+ledankcf,Ankle cuff size used for BP measurement
+ledarmcf,Brachial cuff size used for BP measurement
+lexbrp1,Brachial systolic blood pressure 1 (in millimeters of mercury)
+lexbrp2,Brachial systolic blood pressure 2 (in millimeters of mercury)
+lexbrpm,Mean brachial systolic blood pressure (in millimeters of mercury)
+lexlabpi,Left ABPI
+lexlpts1,Left posterior tibial systolic blood pressure 1 (in millimeters of mercury)
+lexlpts2,Left posterior tibial systolic blood pressure 2 (in millimeters of mercury)
+lexlptsm,Left mean posterior tibial systolic blood pressure (in millimeters of mercury)
+lexrabpi,Right ABPI
+lexrpts1,Right posterior tibial systolic blood pressure 1 (in millimeters of mercury)
+lexrpts2,Right posterior tibial systolic blood pressure 2 (in millimeters of mercury)
+lexrptsm,Right mean posterior tibial systolic blood pressure (in millimeters of mercury)
+seqn,Respondent sequence number
+leaanklc,Ankle comment
+leaarm,Arm tested
+leaarmc,Arm comment
+lealapnc,Left ankle systolic blood pressure > 255 mm Hg?
+lealptpd,Left posterior tibial pulse detected?
+learapnc,Right ankle systolic blood pressure > 255 mm Hg?
+learptpd,Right posterior tibial pulse detected?
+ledscct2,ABPI section comment
+leq020,Large adult cuff selected due to poor thigh cuff fit?
+bmdarmlf,Unusual value noted during data review of BMXARML
+bmdcalff,Unusual value noted during data review of BMXCALF
+bmdlegf,Unusual value noted during data review of BMXLEG
+bmdrecuf,The difference between BMXRECUM and BMXHT for children 24-47 months is > 2.5cm.
+bmdstats,Body Measures Component status Code
+bmdsubf,Unusual value noted during data review of BMXSUB
+bmdthicf,Unusual value noted during data review of BMXTHICM
+bpxdi4,Diastolic: Blood pressure (fourth reading if necessary) mm Hg
+bpxpls,60 sec. pulse (30 sec. pulse * 2)
+bpxpty,Pulse type
+bmdavsad,
+bmdbmic,BMI Category - Children/Adolescents
+bmdsadcm,Sagittal Abdominal Diameter Comment
+bmxsad1,Sagittal Abdominal Diameter 1st (cm)
+bmxsad2,Sagittal Abdominal Diameter 2nd (cm)
+bmxsad3,Sagittal Abdominal Diameter 3rd (cm)
+bmxsad4,Sagittal Abdominal Diameter 4th (cm)
+bmdavsad,Average Sagittal Abdominal Diameter (cm)
+bmdbmic,BMI Category - Children/Youth
+lbxgh,
+lbxcpsi,C-peptide (nmol/L) in SI units
+lbxglu,"Glucose, plasma (mg/dL)"
+lbxglusi,Plasma glucose: SI(mmol/L)
+lbxin,Insulin (uU/mL)
+lbxinsi,Insulin: SI(pmol/L)
+wtsaf2yr,Fasting Subsample 2 Year Mec Weight
+wtsaf4yr,Fasting Subsample 4 Year Mec Weight
+lbdfbsi,Fibrinogen (g/L)
+lbxbap,Bone alkaline phosphotase (ug/L)
+lbxcrp,C-reactive protein (mg/dL)
+lbxfb,Fibrinogen (mg/dL)
+lbxhp1,Helicobacter pylori (ISR)
+urxnt,N-telopeptides (NTx) (nmol BCE)
+lbdhdl,HDL-cholesterol (mg/dL)
+lbdhdlsi,HDL-cholesterol (mmol/L)
+lbdtcsi,Total cholesterol (mmol/L)
+lbxtc,Total cholesterol (mg/dL)
+lbdldl,LDL-cholesterol (mg/dL)
+lbdldlsi,LDL-cholesterol (mmol/L)
+lbdtrsi,Triglyceride (mmol/L)
+lbxtr,Triglyceride (mg/dL)
+wtsaf2yr,2Yr AM(3-11) & fasting (12+) weights
+wtsaf4yr,4Yr AM(3-11) & fasting (12+) weights
+lbdfshsi,Follicle stimulating hormone (IU/L)
+lbdlhsi,Luteinizing hormone (IU/L)
+lbdsalsi,Albumin (g/L)
+lbdsbusi,Blood urea nitrogen (mmol/L)
+lbdscasi,"Calcium, total (mmol/L)"
+lbdschsi,"Cholesterol, total (mmol/L)"
+lbdscrsi,Creatinine (umol/L)
+lbdsgbsi,Globulin (g/L)
+lbdsglsi,Glucose (mmol/L)
+lbdsirsi,Iron (umol/L)
+lbdsphsi,Phosphorus  (mmol/L)
+lbdstbsi,"Bilirubin, total (umol/L)"
+lbdstpsi,"Protein, total (g/L)"
+lbdstrsi,Triglycerides (mmol/L)
+lbdsuasi,Uric acid (umol/L)
+lbxfsh,Follicle stimulating hormone (mIU/mL)
+lbxlh,Luteinizing hormone (mIU/mL)
+lbxsal,Albumin (g/dL)
+lbxsapsi,Alkaline phosphotase (U/L)
+lbxsassi,AST (U/L)
+lbxsatsi,ALT (U/L)
+lbxsbu,Blood urea nitrogen (mg/dL)
+lbxsc3si,Bicarbonate (mmol/L)
+lbxsca,"Calcium, total (mg/dL)"
+lbxsch,"Cholesterol, total (mg/dL)"
+lbxsclsi,Chloride (mmol/L)
+lbxscr,Creatinine (mg/dL)
+lbxsgb,Globulin (g/dL)
+lbxsgl,Glucose (mg/dL)
+lbxsgtsi,GGT (U/L)
+lbxsir,Iron (ug/dL)
+lbxsksi,Potassium (mmol/L)
+lbxsldsi,LDH (U/L)
+lbxsnasi,Sodium (mmol/L)
+lbxsossi,Osmolality (mOsm/kg)
+lbxsph,Phosphorus  (mg/dL)
+lbxstb,"Bilirubin, total (mg/dL)"
+lbxstp,"Protein, total (g/dL)"
+lbxstr,Triglycerides (mg/dL)
+lbxsua,Uric acid (mg/dL)
+lbdt4si,Thyroxine (T4) (nmol/L)
+lbxt4,Thyroxine (T4) (ug/dL)
+lbxtsh,Thyroid stimulating hormone (IU/L)
+wtsth2yr,Thyroid hormones Subsample 2 yr Mec Wgt
+wtsth4yr,Thyroid hormones Subsample 4 yr Mec Wgt
+lbdbano,Basophils number
+lbdeono,Eosinophils number
+lbdlymno,Lymphocyte number
+lbdmono,Monocyte number
+lbdneno,Segmented neutrophils number
+lbxbapct,Basophils percent (%)
+lbxeopct,Eosinophils percent (%)
+lbxhct,Hematocrit (%)
+lbxhgb,Hemoglobin (g/dL)
+lbxlypct,Lymphocyte percent (%)
+lbxmc,Mean cell hemoglobin concentration (g/dL)
+lbxmchsi,Mean cell hemoglobin (pg)
+lbxmcvsi,Mean cell volume (fL)
+lbxmopct,Monocyte percent (%)
+lbxmpsi,Mean platelet volume (fL)
+lbxnepct,Segmented neutrophils percent (%)
+lbxpltsi,Platelet count (%) SI
+lbxrbcsi,Red cell count SI
+lbxrdw,Red cell distribution width (%)
+lbxwbcsi,White blood cell count:  SI
+lb2day,The number of days between the collection of the first and second exam
+lb2hdl,HDL-cholesterol (mg/dL)
+lb2hdlsi,HDL-cholesterol (mmol/L)
+lb2ldl,LDL-cholesterol (mg/dL)
+lb2ldlsi,LDL-cholesterol (mmol/L)
+lb2tc,Total cholesterol (mg/dL)
+lb2tcsi,Total cholesterol (mmol/L)
+lb2tr,Triglyceride (mg/dL)
+lb2trsi,Triglyceride (mmol/L)
+lb2bano,Basophils number (1000 cells/uL)
+lb2bapct,Basophils percent (%)
+lb2day,Days between first and second exam
+lb2eono,Eosinophils number (1000 cells/uL)
+lb2eopct,Eosinophils percent (%)
+lb2hct,Hematocrit (%)
+lb2hgb,Hemoglobin (g/dL)
+lb2lymno,Lymphocyte number (1000 cells/uL)
+lb2lypct,Lymphocyte percent (%)
+lb2mc,MCHC (g/dL)
+lb2mchsi,Mean cell hemoglobin (pg)
+lb2mcvsi,Mean cell volume (fL)
+lb2mono,Monocyte number (1000 cells/uL)
+lb2mopct,Monocyte percent (%)
+lb2mpsi,Mean platelet volume (fL)
+lb2neno,Segmented neutrophils num (1000 cell/uL)
+lb2nepct,Segmented neutrophils percent (%)
+lb2pltsi,Platelet count (1000 cells/uL)
+lb2rbcsi,Red blood cell count (million cells/uL)
+lb2rdw,Red cell distribution width (%)
+lb2wbcsi,White blood cell count (1000 cells/uL)
+lbxgh,Glycohemoglobin (%)
+lbdbap,Bone alkaline phosphotase (ug/L)
+urdnt,N-Telopeptides (nmol BCE)
+wtsaf2yr,2Yr AM(3-11)  & fasting (12+) weights
+wtsaf4yr,4Yr AM(3-11)  & fasting (12+) weights
+lbdsapsi,Alkaline phosphatase (U/L)
+lbdscasi,Total calcium (mmol/L)
+lbdschsi,Cholesterol (mmol/L)
+lbdscr,Creatinine (mg/dL)
+lbdsglsi,"Glucose, serum (mmol/L)"
+lbdsldsi,LDH (U/L)
+lbdsph,Phosphorus  (mg/dL)
+lbdstb,"Bilirubin, total (mg/dL)"
+lbdstpsi,Total protein (g/L)
+lbxsassi,AST: SI (U/L)
+lbxsatsi,ALT: SI (U/L)
+lbxsc3si,Bicarbonate: SI (mmol/L)
+lbxsca,Total Calcium (mg/dL)
+lbxsch,Cholesterol (mg/dL)
+lbxsclsi,Chloride: SI (mmol/L)
+lbxsgl,"Glucose, serum (mg/dL)"
+lbxsgtsi,GGT: SI (U/L)
+lbxsksi,Potassium: SI (mmol/L)
+lbxsnasi,Sodium: SI (mmol/L)
+lbxsossi,Osmolality: SI (mmol/Kg)
+lbxstp,Total protein (g/dL)
+lbxtsh,Thyroid stimulating hormone (TSH) (IU/L)
+lb2cp,C-peptide: pmol/mL
+lb2cpsi,C-peptide (nmol/L) in SI units
+lb2day,Days between the 1st and 2nd exams
+lb2gh,Glycohemoglobin (%)
+lb2glu,Plasma glucose (mg/dL)
+lb2glusi,Plasma glucose: SI(mmol/L)
+lb2in,Insulin (uU/mL)
+lb2insi,Insulin: SI(pmol/L)
+lb2fsh,Follicle stimulating hormone (mIU/mL)
+lb2fshsi,Follicle stimulating hormone (IU/L)
+lb2lh,Luteinizing hormone (mIU/mL)
+lb2lhsi,Luteinizing hormone (IU/L)
+lb2sal,Albumin (g/dL)
+lb2salsi,Albumin (g/L)
+lb2sapsi,Alkaline phosphotase (U/L)
+lb2sassi,Aspartate aminotransferase (U/L)
+lb2satsi,Alanine aminotransferase (U/L)
+lb2sbu,Blood urea nitrogen (mg/dL)
+lb2sbusi,Blood urea nitrogen (mmol/L)
+lb2sc3si,Bicarbonate (mmol/L)
+lb2sca,Total calcium (mg/dL)
+lb2scasi,Total calcium (mmol/L)
+lb2sch,Cholesterol (mg/dL)
+lb2schsi,Cholesterol (mmol/L)
+lb2sclsi,Chloride (mmol/L)
+lb2scr,Creatinine (mg/dL)
+lb2scrsi,Creatinine (umol/L)
+lb2sgl,Glucose (mg/dL)
+lb2sglsi,"Glucose, serum (mmol/L)"
+lb2sgtsi,Gamma glutamyltransferase
+lb2sir,Iron (ug/dL)
+lb2sirsi,Iron (umol/L)
+lb2sksi,Potassium (mmol/L)
+lb2sldsi,Lactate dehydrogenase (U/L)
+lb2snasi,Sodium (mmol/L)
+lb2sph,Phosphorus (mg/dL)
+lb2sphsi,Phosphorus (mmol/L)
+lb2stb,"Bilirubin, total (mg/dL)"
+lb2stbsi,"Bilirubin, total (umol/L)"
+lb2stp,"Protein, total (g/dL)"
+lb2stpsi,Total protein (g/L)
+lb2str,Triglycerides (mg/dL)
+lb2strsi,Triglycerides (mmol/L)
+lb2sua,Uric acid (mg/dL)
+lb2suasi,Uric acid (umol/L)
+lbdhddsi,Direct HDL-Cholesterol (mmol/L)
+lbdtcsi,Total Cholesterol (mmol/L)
+lbxhdd,Direct HDL-Cholesterol (mg/dL)
+lbxtc,Total Cholesterol (mg/dL)
+lbdglusi,Plasma glucose: SI(mmol/L)
+lbdinsi,Insulin: SI(pmol/L)
+lbxpt21,Parathyroid Hormone(Elecys method) pg/mL
+lbxpltsi,Platelet count SI (1000 cells/uL)
+lbxrbcsi,Red blood cell count (million cells/uL)
+lbxwbcsi,White blood cell count (1000 cells/uL)
+lbdscrsi,
+lbdsirsi,"Iron, refigerated (umol/L)"
+lbxsapsi,Alkaline phosphatase(U/L)
+lbxsassi,Aspartate aminotransferase(U/L)
+lbxsatsi,Alanine aminotransferase(U/L)
+lbxsc3si,Bicarbonate(mmol/L)
+lbxsca,Total calcium (mg/dL)
+lbxsclsi,Chloride(mmol/L)
+lbxsgtsi,Gamma glutamyl transferase : SI (U/L)
+lbxsir,"Iron, refigerated (ug/dL)"
+lbxsldsi,Lactate dehydrogenase LDH (U/L)
+lbxsnasi,Sodium(mmol/L)
+lbxsossi,Osmolality(mmol/Kg)
+lbxstb,Total bilirubin (mg/dL)
+lbdtcsi,Total Cholesterol( mmol/L)
+lbdhdd,Direct HDL-Cholesterol (mg/dL)
+lbdbano,Basophils number (1000 cells/uL)
+lbdeono,Eosinophils number (1000 cells/uL)
+lbdlymno,Lymphocyte number (1000 cells/uL)
+lbdmono,Monocyte number (1000 cells/uL)
+lbdneno,Segmented neutrophils num (1000 cell/uL)
+lbdglusi,Fasting Glucose (mmol/L)
+lbdinsi,Insulin (pmol/L)
+lbxglu,Fasting Glucose (mg/dL)
+lbxin,Insulin (uU/mL )
+phafsthr,"Total length of 'food fast', hours"
+phafstmn,"Total length of 'food fast', minutes"
+wtsaf2yr,Fasting Subsample 2 Year MEC Weight
+lbdsphsi,Phosphorus (mmol/L)
+lbxsassi,Aspartate aminotransferase AST (U/L)
+lbxsatsi,Alanine aminotransferase ALT (U/L)
+lbxsgtsi,Gamma glutamyl transferase (U/L)
+lbxsossi,Osmolality (mmol/Kg)
+lbxsph,Phosphorus (mg/dL)
+lbdapbsi,Apolipoprotein (B) (g/L)
+lbxapb,Apolipoprotein (B) (mg/dL)
+lbdgltsi,Two Hour Glucose(OGTT) (mmol/L)
+lbxglt,Two hour oral glucose tolerance (OGTT) (mg/dL)
+wtsog2yr,OGTT Subsample 2 Year MEC Weight
+phafsthr,The time (in hours) between when the examinee last ate or drank anything other than water and the ti
+phafstmn,The time (in minutes) between when the examinee last ate or drank anything other than water and the 
+lbdt4fsi,"Thyroxine, free (pmol/L)"
+lbdtgnsi,Thyroglobulin (ug/L)
+lbdtsh1s,Thyroid stimulating hormone (mIU/L)
+lbdtt3si,"Triiodothyronine (T3), total (nmol/L)"
+lbxatg,Thyroglobulin antibodies (IU/mL)
+lbxt3f,"Triiodothyronine (T3), free (pg/mL)"
+lbxt4f,"Thyroxine, free (ng/dL)"
+lbxtgn,Thyroglobulin (ng/mL)
+lbxtpo,Thyroid peroxidase antibodies (IU/mL)
+lbxtsh1,Thyroid stimulating hormone (uIU/mL)
+lbxtt3,"Triiodothyronine (T3), total (ng/dL)"
+lbxtt4,"Thyroxine, total (T4) (ug/dL)"
+lbdscrsi,Creatinine (µmol/L)
+lbxsassi,Asparate aminotransferase (AST)(U/L)
+lbxsatsi,Alanine aminotransferase (ALT)(U/L)
+gtdbl2mn,Time from fasting glucose & OGTT (min)
+gtdcode,Incomplete OGTT Comment Code
+gtddr1mn,Time from fast glucose & challenge (min)
+gtddr2mn,Time from glucose challenge & OGTT(min)
+gtdscmmn,Glucose challenge Administer Time in minutes
+gtxdrank,Amount of glucose challenge drank
+lbxglt,Two Hour Glucose(OGTT) (mg/dL)
+lbxpltsi,Platelet count (1000 cells/uL)
+lbdstbsi,Total bilirubin (umol/L)
+lbxsldsi,Lactate dehydrogenase (U/L)
+lbxcrp,C-reactive protein(mg/dL)
+gtddr1mn,Time from fast glucose & challenge(min)
+lbxtpo,Thyroid perioxidase antibodies (IU/mL)
+wtsa2yr,Two-year A subsample weights
+lbxtc,Total Cholesterol( mg/dL)
+lbxsck,Creatine Phosphokinase(CPK) (IU/L)
+wtsa2yr,Subsample A weights
+wtsaf2yr,Fasting Subsample 2 Year MEC Weight'
+lbdsglsi,"Glucose, refrigerated serum (mmol/L)"
+lbdsirsi,"Iron, refrigerated serum (umol/L)"
+lbdstrsi,"Triglycerides, refrigerated (mmol/L)"
+lbxsapsi,Alkaline phosphatase (IU/L)
+lbxsassi,Aspartate aminotransferase AST (IU/L)
+lbxsatsi,Alanine aminotransferase ALT (IU/L)
+lbxsgl,"Glucose, refrigerated serum (mg/dL)"
+lbxsir,"Iron, refrigerated serum (ug/dL)"
+lbxstr,"Triglycerides, refrigerated (mg/dL)"
+alq100,The next questions are about drinking alcoholic beverages. Included are liquor (such as whiskey or g
+alq110,"In {your/SP's} entire life, {have you/has he/ has she} had at least 12 drinks of any type of alcohol"
+alq120q,"In the past 12 months, how often did {you/SP} drink any type of alcoholic beverage? PROBE: How many "
+alq120u,UNIT OF MEASURE.
+alq130,"In the past 12 months, on those days that {you/SP} drank alcoholic beverages, on the average, how ma"
+alq140q,"In the past 12 months, on how many days did {you/SP} have 5 or more drinks of any alcoholic beverage"
+alq140u,UNIT OF MEASURE.
+alq150,Was there ever a time or times in {your/SP's} life when {you/he/she} drank 5 or more drinks of any k
+bpq010,About how long has it been since {you/SP} last had {your/his/her} blood pressure taken by a doctor o
+bpq020,{Have you/Has SP} ever been told by a doctor or other health professional that {you/s/he} had hypert
+bpq030,"{Were you/Was SP} told on 2 or more different visits that {you/s/he} had hypertension, also called h"
+bpq040a,"Because of {your/SP's} (high blood pressure/hypertension), {have you/has s/he} ever been told to . ."
+bpq040b,"Because of {your/SP's} (high blood pressure/hypertension), {have you/has s/he} ever been told to con"
+bpq040c,"Because of {your/SP's} (high blood pressure/hypertension), {have you/has s/he} ever been told to cut"
+bpq040d,"Because of {your/SP's} (high blood pressure/hypertension), {have you/has s/he} ever been told to exe"
+bpq040e,"Because of {your/SP's} (high blood pressure/hypertension), {have you/has s/he} ever been told to cut"
+bpq040f,"Because of {your/SP's} (high blood pressure/hypertension), {have you/has s/he} ever been told to do "
+bpq043a,What else?
+bpq043b,What else?
+bpq043c,What else?
+bpq043d,What else?
+bpq050a,HELP AVAILABLE (Are you/Is SP) now taking prescribed medicine
+bpq050b,(Are you/Is SP) now controlling (your/his/her) weight or losing weight?
+bpq050c,(Are you/Is SP) now cutting down on salt or sodium in (your/his/her) diet?
+bpq050d,(Are you/Is SP) now exercising more?
+bpq050e,(Are you/Is SP) now cutting down on (your/his/her) alcohol consumption?
+bpq060,{Have you/Has SP} ever had {your/his/her} blood cholesterol checked?
+bpq070,About how long has it been since {you/SP} last had {your/his/her} blood cholesterol checked?  Has it
+bpq080,{Have you/Has SP} ever been told by a doctor or other health professional that {your/his/her} blood 
+bpq090a,"To lower (your/his/her) blood cholesterol, (have/has) (you/SP) ever been told by a doctor or other h"
+bpq090b,"[To lower (your/his/her) blood cholesterol, (have/has) (you/SP) ever been told by a doctor or other "
+bpq090c,"[To lower (your/his/her) blood cholesterol, (have/has) (you/SP) ever been told by a doctor or other "
+bpq090d,"[To lower (your/his/her) blood cholesterol, (have/has) (you/SP) ever been told by a doctor or other "
+bpq100a,(Are you/Is SP) now following this advice to eat fewer high fat or high cholesterol foods?
+bpq100b,(Are you/Is SP) now following this advice to control (your/his/her) weight or lose weight?
+bpq100c,(Are you/Is SP) now following this advice to increase (your/his/her) physical activity or exercise?
+bpq100d,(Are you/Is SP) now following this advice to take prescribed medicine?
+bpq110a,Even though a doctor or other health professional has never told {you/SP} to control {your/his/her} 
+bpq110b,Even though a doctor or other health professional has never told {you/SP} to control {your/his/her} 
+bpq110c,Even though a doctor or other health professional has never told {you/SP} to control {your/his/her} 
+bpq120,Even though a doctor or other health professional has never told {you/SP} to control {your/his/her} 
+bpq130,Even though a doctor or other health professional has never told {you/SP} to control {your/his/her} 
+bpq140,Even though a doctor or other health professional has never told {you/SP} to control {your/his/her} 
+diq010,"The next questions are about specific medical conditions. {Other than during pregnancy, {have you/ha"
+diq040g,How old {was SP/were you} when a doctor or other health professional first told {you/him/her} that {
+diq040q,How old {was SP/were you} when a doctor or other health professional first told {you/him/her} that {
+diq050,{Is SP/Are you} now taking insulin
+diq060g,For how long {have you/has SP} been taking insulin?
+diq060q,For how long {have you/has SP} been taking insulin?
+diq060u,UNIT OF MEASURE
+diq070,{Is SP/Are you} now taking diabetic pills to lower {{his/her}/your} blood sugar?  These are sometime
+diq080,Has a doctor ever told {you/SP} that diabetes has affected {your/his/her} eyes or that {you/s/he} ha
+diq090,{Have you/Has SP} ever had an ulcer or sore on {your/his/her} leg or foot that took more than 4 week
+diq100,"During the past 3 months, {have you/has SP} had numbness or loss of feeling in {your/his/her} hands "
+diq110,"Has the numbness or loss of feeling been in {your/SP's} hands, feet, or both?"
+diq120,"During the past 3 months, {have you/has SP} had a painful sensation or tingling in {your/his/her} ha"
+diq130,"Has the painful sensation or tingling been in {your/his/her} hands, feet, or both?"
+diq140,{Do you/Does SP} ever get pain in either leg while {you are/s/he is} walking?
+diq150,Does this pain include pain in {your/SP's} calf or calves?
+ald240,The next questions are about alcoholic beverages. When answering think about {your/SP's} use over th
+ald250,"[During the past 30 days] how often did {you/SP} drink wine, wine coolers, sangria or champagne?"
+ald260,"[During the past 30 days] how often did {you/SP} drink hard liquor such as tequila, gin, vodka, scot"
+dbd020,How old was {SP} when {he/she} was first fed something other than breastmilk or water?
+dbd030,How old was {SP} when {he/she} completely stopped breastfeeding or being fed breastmilk?
+dbd040,How old was {SP} when {he/she} was first fed formula on a daily basis?
+dbd050,How old was {SP} when {he/she} completely stopped drinking formula?
+dbd060,How old was {SP} when {he/she} was first fed milk on a daily basis?
+dbd070j,What type of milk was {SP} first fed on a daily basis?  Was it . . .
+dbd080,How old was {SP} when {he/she} started eating solid foods [such as strained foods like baby food or 
+dbd090,{Next I have some general questions about {your/SP's} eating habits.}  {First/Next} are questions ab
+dbd195,Now I'm going to ask a few questions about milk products.  Do not include their use in cooking.  In 
+dbd220j,What type of milk was it?  Was it usually . . .
+dbd235a,"Now, I'm going to ask you how often {you/SP} drank milk at different times in {your/his/her} life.  "
+dbd235b,"Now, I'm going to ask you how often {you/SP} drank milk at different times in {your/his/her} life.  "
+dbd235c,"Now, I'm going to ask you how often {you/SP} drank milk at different times in {your/his/her} life.  "
+dbd270a,"The next question are about the amout of food {you/SP}eat{s}. On average day, how many helpings of t"
+dbd270b,"On the average day, how may helpings of the following kinds of foods {do you/does SP} eat? Milk or d"
+dbd270c,"On an average day, how many helpings of the following kinds of foods {do you/does SP}eat? Fruis or f"
+dbd270d,"On an average day, how many helpings of the following kinds of foods {do you/does SP}eat? Vegetables"
+dbd270e,"On an average day, how many helpings of the following kinds of foods {do you/does SP}eat? Breads and"
+dbd360,"During the school year, {do you/does SP} attend a kindergarten, grade school, junior or high school?"
+dbd370,Does {your/SP's} school serve school lunches?  These are complete lunches that cost the same every d
+dbd380,"During the school year, about how many times a week {do you/does SP} usually eat a complete school l"
+dbd400,Does {your/SP's} school serve a complete breakfast that costs the same every day?
+dbd410,"During the school year, about how many times a week {do you/does SP} usually get a complete breakfas"
+dbq010,Now I'm going to ask you some general questions about {SP's} eating habits.  Was {SP} ever breastfed
+dbq070a,What type of milk was {SP} first fed on a daily basis?  Was it . . .
+dbq070b,What type of milk was {SP} first fed on a daily basis?  Was it . . .
+dbq070c,What type of milk was {SP} first fed on a daily basis?  Was it . . .
+dbq070d,What type of milk was {SP} first fed on a daily basis?  Was it . . .
+dbq095,What type of slat {do you/does SP} usually add to {your/his/her/SP's} food at the table
+dbq100,How often {do you/does SP} add ordinary salt to {your/his/her/SP's} food at the table?
+dbq110,{Do you/Does SP} ever eat poultry such as chicken and turkey? Please include foods that are made wit
+dbq120,"When {you eat/SP eats} chicken or other types of poultry, how often {do you/does s/he} eat the skin?"
+dbq130,"{Do you/Does SP} ever eat meat such as beef, pork, lamb or veal? Please include foods that are made "
+dbq140,"When {you eat/SP eats} meat, how often {do you/does s/he} eat the visible fat? [Visible fat is the f"
+dbq220a,What type of milk was it?  Was it usually . . .
+dbq220b,What type of milk was it?  Was it usually . . .
+dbq220c,What type of milk was it?  Was it usually . . .
+dbq220d,What type of milk was it?  Was it usually . . .
+dbq300,The next questions are about meals provided by community or government programs.  In the past 12 mon
+dbq330,"In the past 12 months, did {you/SP} go to a community program or senior center to eat prepared meals"
+dbq390,"{Do you/Does SP} get these lunches free, at a reduced price, or {do you/does he/she} pay full price?"
+dbq420,"{Do you/Does SP} get those breakfast free, at a reduced price, or {do you/does he/she} pay full pric"
+ecd070a,How much did {SP NAME} weigh at birth?
+ecd070b,How much did {SP NAME} weigh at birth?
+ecd100,(First/Next) I have some questions about day care and preschool.  By day care I mean child care wher
+ecd110,Does {SP} now attend day care or preschool?
+ecq010,First I have some questions about {SP NAME's} birth. How old was {SP NAME's} biological mother when 
+ecq020,Did {SP NAME's} biological mother smoke at any time while she was pregnant with {him/her}?
+ecq030,"At any time during the pregnancy, did {SP NAME's} biological mother quit or refrain from smoking for"
+ecq040,About what month of the pregnancy did {SP NAME's} biological mother stop smoking?
+ecq060,"Did {SP NAME} receive any newborn care in an intensive care unit, premature nursery, or any other ty"
+ecq080,Did {SP NAME} weigh . . .
+ecq090,Did {SP NAME} weigh . . .
+ecq130,"On a typical weekday, about how many hours does {SP} spend away from home?"
+ecq140,"On a typical weekend day, about how many hours does {SP} spend away from home?"
+fsq121,Is {SP} now attending {Head Start/Early Head Start}?
+imq010,{Have you/Has SP} ever received the hepatitis A vaccine series?  This is a two dose vaccine that is 
+imq020,{Have you/Has SP} ever received the 3-dose series of the hepatitis B vaccine?  This vaccine is given
+imq030,{Have you/Has SP} ever had a pneumonia vaccination?  This shot is usually given only once in a perso
+mcd093,In what year did {you/SP} receive {your/his/her} first transfusion?
+mcq010,Has a doctor or other health professional ever told {you/SP} that {you have/s/he/SP has} asthma?
+mcq020,How old {were you/was SP} when {you were/s/he was} first told {he/she} had asthma?
+mcq030,{Do you/Does SP} still have asthma?
+mcq040,"During the past 12 months, {have you/has SP} had an episode of asthma or an asthma attack?"
+mcq050,"[During the past 12 months], {have you/has SP} had to visit an emergency room or urgent care center "
+mcq053,"During the past 3 months, {have you/has SP} been on treatment for anemia, sometimes called ""tired bl"
+mcq060,Has a doctor or health professional ever told {you/SP} that {you/s/he/SP} had attention deficit diso
+mcq080,Has a doctor or health professional ever told {you/SP} that {you were/s/he/SP was} overweight?
+mcq083,Has a representative from a school or a health professional ever told {you/SP} that {s/he/SP} had a 
+mcq090,{Have you/Has SP} ever had chickenpox?
+mcq092,{Have you/Has SP} ever received a blood transfusion?
+mcq100,"Has a doctor or health professional ever told {SP} that {s/he} had hypertension, also called high bl"
+mcq110,"Because of {SP's} high blood pressure [hypertension], is {he/she} currently taking medicine?"
+mcq114,Has {SP} ever been tested for lead poisoning?
+mcq117q,How long has it been since {SP} was tested?
+mcq117u,Unit of measure
+mcq120a,"During the past 12 months, {have you/has SP} had . . .hay fever?"
+mcq120b,"During the past 12 months, {have you/has SP} had . . .3 or more ear infections?"
+mcq120c,"During the past 12 months, {have you/has SP} had . . .frequent or severe headaches, including migrai"
+mcq120d,"During the past 12 months, {have you/has SP} had . . .stuttering or stammering?"
+mcq140,"{Do you/Does SP} have trouble seeing, even when wearing glasses or contact lenses, if {you/he/she} w"
+mcq147,Have {SP's} periods or menstrual cycles started yet?
+mcq148,How old was {SP} when her periods or menstrual cycles started?
+mcq150g,"During the past 12 months, that is, since {DISPLAY CURRENT MONTH} of {DISPLAY LAST YEAR}, about how "
+mcq150q,"During the past 12 months, that is, since {DISPLAY CURRENT MONTH} of {DISPLAY LAST YEAR}, about how "
+mcq160a,Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had arthritis?
+mcq160b,Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had congestive he
+mcq160c,Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had coronary hear
+mcq160d,"Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had angina, also "
+mcq160e,Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had a heart attac
+mcq160f,Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had a stroke?
+mcq160g,Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had emphysema?
+mcq160h,Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had a goiter?
+mcq160i,Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had another thyro
+mcq160j,Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .was overweight?
+mcq160k,Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had chronic bronc
+mcq160l,Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had any kind of l
+mcq170h,{Do you/Does SP} still . . . have a goiter?
+mcq170i,{Do you/Does SP} still . . . have another thyroid disease?
+mcq170k,{Do you/Does SP} still . . . have chronic bronchitis?
+mcq170l,{Do you/Does SP} still . . . have any kind of liver condition?
+mcq180a,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . . had arthritis?
+mcq180b,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had congestive heart f
+mcq180c,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had coronary heart dis
+mcq180d,"How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had angina, also calle"
+mcq180e,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had a heart attack (al
+mcq180f,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had a stroke?
+mcq180g,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had emphysema?
+mcq180h,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had a goiter?
+mcq180i,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had another thyroid di
+mcq180k,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had chronic bronchitis
+mcq180l,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had any kind of liver 
+mcq190,Which type of arthritis was it
+mcq200,{Have you/Has SP} ever been told by a doctor or other health professional that {you/s/he} had an ulc
+mcq210,During the past 12 months {have you/has SP} had an ulcer?
+mcq220,{Have you/Has SP} ever been told by a doctor or other health professional that {you/s/he} had cancer
+mcq230a,What kind of cancer was it?
+mcq230b,What kind of cancer was it?
+mcq230c,What kind of cancer was it?
+mcq230d,What kind of cancer was it?
+mcq240a,How old {were you/was SP} when {TYPE OF CANCER/cancer} was first diagnosed?  How old (were you/was S
+mcq240aa,How old (were you/was SP) when testicular cancer was first diagnosed?
+mcq240b,How old {were you/was SP} when blood cancer was first diagnosed?
+mcq240bb,How old (were you/was SP) when thyroid cancer was first diagnosed?
+mcq240c,How old (were you/was SP) when bone cancer was first diagnosed?
+mcq240cc,How old (were you/was SP) when uterine cancer was first diagnosed?
+mcq240d,How old (were you/was SP) when brain cancer was first diagnosed?
+mcq240dd,How old (were you/was SP) when some other type of cancer was first diagnosed?
+mcq240e,How old (were you/was SP) when breast cancer was first diagnosed?
+mcq240f,How old (were you/was SP) when cervical cancer was first diagnosed?
+mcq240g,How old (were you/was SP) when colon cancer was first diagnosed?
+mcq240h,How old (were you/was SP) when esophageal cancer was first diagnosed?
+mcq240i,How old (were you/was SP) when gallbladder cancer was first diagnosed?
+mcq240j,How old (were you/was SP) when kidney cancer was first diagnosed?
+mcq240k,How old (were you/was SP) when larynx or windpipe cancer was first diagnosed?
+mcq240l,How old (were you/was SP) when leukemia was first diagnosed?
+mcq240m,How old (were you/was SP) when liver cancer was first diagnosed?
+mcq240n,How old (were you/was SP) when lung cancer was first diagnosed?
+mcq240o,How old (were you/was SP) when lymphoma or Hodgkin's Disease was first diagnosed?
+mcq240p,How old (were you/was SP) when melanoma was first diagnosed?
+mcq240q,"How old (were you/was SP) when mouth, tongue, or lip cancer was first diagnosed?"
+mcq240r,How old (were you/was SP) when cancer of the nervous system was first diagnosed?
+mcq240s,How old (were you/was SP) when ovarian cancer was first diagnosed?
+mcq240t,How old (were you/was SP) when pancreatic cancer was first diagnosed?
+mcq240u,How old (were you/was SP) when prostate cancer was first diagnosed?
+mcq240v,How old (were you/was SP) when rectal cancer was first diagnosed?
+mcq240w,How old (were you/was SP) when non-melanoma skin cancer was first diagnosed?
+mcq240x,How old (were you/was SP) when the unknown kind of skin cancer was first diagnosed?
+mcq240y,How old (were you/was SP) when soft tissue (muscle or fat) cancer was first diagnosed?
+mcq240z,How old (were you/was SP) when stomach cancer was first diagnosed?
+mcq245a,"During the past 12 months, that is since {DISPLAY CURRENT MONTH} of last year, about how many days d"
+mcq245b,"During the past 12 months, that is since {DISPLAY CURRENT MONTH} of last year, about how many days d"
+mcq250a,"Including living and deceased, were any of {SP's/ your} biological that is, blood relatives includin"
+mcq250b,"Including living and deceased, were any of {SP's/ your} biological that is, blood relatives includin"
+mcq250c,"Including living and deceased, were any of {SP's/ your} biological that is, blood relatives includin"
+mcq250d,"Including living and deceased, were any of {SP's/ your} biological that is, blood relatives includin"
+mcq250e,"Including living and deceased, were any of {SP's/ your} biological that is, blood relatives includin"
+mcq250f,"Including living and deceased, were any of {SP's/ your} biological that is, blood relatives includin"
+mcq250g,"Including living and deceased, were any of {SP's/ your} biological that is, blood relatives includin"
+mcq260aa,Which biological [blood] family member?
+mcq260ab,Which biological [blood] family member?
+mcq260ac,Which biological [blood] family member?
+mcq260ad,Which biological [blood] family member?
+mcq260ae,Which biological [blood] family member?
+mcq260af,Which biological [blood] family member?
+mcq260ag,Which biological [blood] family member?
+mcq260ah,Which biological [blood] family member?
+mcq260ai,Which biological [blood] family member?
+mcq260ba,Which biological [blood] family member?
+mcq260bb,Which biological [blood] family member?
+mcq260bc,Which biological [blood] family member?
+mcq260bd,Which biological [blood] family member?
+mcq260be,Which biological [blood] family member?
+mcq260bf,Which biological [blood] family member?
+mcq260bg,Which biological [blood] family member?
+mcq260bh,Which biological [blood] family member?
+mcq260bi,Which biological [blood] family member?
+mcq260ca,Which biological [blood] family member?
+mcq260cb,Which biological [blood] family member?
+mcq260cc,Which biological [blood] family member?
+mcq260cd,Which biological [blood] family member?
+mcq260ce,Which biological [blood] family member?
+mcq260cf,Which biological [blood] family member?
+mcq260cg,Which biological [blood] family member?
+mcq260ch,Which biological [blood] family member?
+mcq260ci,Which biological [blood] family member?
+mcq260da,Which biological [blood] family member?
+mcq260db,Which biological [blood] family member?
+mcq260dc,Which biological [blood] family member?
+mcq260dd,Which biological [blood] family member?
+mcq260de,Which biological [blood] family member?
+mcq260df,Which biological [blood] family member?
+mcq260dg,Which biological [blood] family member?
+mcq260dh,Which biological [blood] family member?
+mcq260di,Which biological [blood] family member?
+mcq260ea,Which biological [blood] family member?
+mcq260eb,Which biological [blood] family member?
+mcq260ec,Which biological [blood] family member?
+mcq260ed,Which biological [blood] family member?
+mcq260ee,Which biological [blood] family member?
+mcq260ef,Which biological [blood] family member?
+mcq260eg,Which biological [blood] family member?
+mcq260eh,Which biological [blood] family member?
+mcq260ei,Which biological [blood] family member?
+mcq260fa,Which biological [blood] family member?
+mcq260fb,Which biological [blood] family member?
+mcq260fc,Which biological [blood] family member?
+mcq260fd,Which biological [blood] family member?
+mcq260fe,Which biological [blood] family member?
+mcq260ff,Which biological [blood] family member?
+mcq260fg,Which biological [blood] family member?
+mcq260fh,Which biological [blood] family member?
+mcq260fi,Which biological [blood] family member?
+mcq260ga,Which biological [blood] family member?
+mcq260gb,Which biological [blood] family member?
+mcq260gc,Which biological [blood] family member?
+mcq260gd,Which biological [blood] family member?
+mcq260ge,Which biological [blood] family member?
+mcq260gf,Which biological [blood] family member?
+mcq260gg,Which biological [blood] family member?
+mcq260gh,Which biological [blood] family member?
+mcq260gi,Which biological [blood] family member?
+mcq270,Did {your/SP's} biological mother ever fracture her hip?
+mcq280,About how old was she when she fractured her hip (the first time)?
+mcq290,Was she. . . .
+paaquex,
+pad020,The next series of questions are about physical activities that {you/SP} {have/has} done over the pa
+pad080,"On those days when {you/SP} walked or bicycled, about how long did {you/s/he} spend altogether doing"
+pad120,"[Over the past 30 days], how often did {you/SP} do these tasks in or around {your/his/her} home or y"
+pad160,About how long did {you/SP} do these tasks each time (minutes)?
+pad200,"The next questions are about physical activities including exercise, sports, and physically active h"
+pad320,"[Over the past 30 days], did {you/SP} do moderate activities for at least 10 minutes that cause only"
+pad440,"Over the past 30 days, did {you/SP} do any physical activities specifically designed to strengthen {"
+pad460,"[Over the past 30 days], how often did {you/SP} do these physical activities?  [Activities designed "
+pad570,Now I will ask about TV watching and computer use. About how many hours did {you/SP} sit and watch T
+paq050q,"[Over the past 30 days], how often did {you/SP} do this?  [Walk or bicycle as part of getting to and"
+paq050u,UNIT OF MEASURE.
+paq100,"Over the past 30 days, did {you/SP} do any tasks in or around {your/his/her} home or yard for at lea"
+paq180,Please tell me which of these four sentences best describes {your/SP's} usual daily activities?  [Da
+paq480,"Now I will ask about TV watching or computer use.  Over the past 30 days, on a typical day how much "
+paq500,How does the amount of activity that you reported {for SP} for the past 30 days compare with {your/h
+paq520,"(MEC Interview Version) Compared with most {boys/girls} {your/SP's} age, would you say that {you are"
+paq540,"Compared with {yourself/himself/herself} 10 years ago, would you say that {you are/SP is} . . ."
+paq560,Now I'd like to ask you some questions about {SP's} activities.  How many times per week {does SP} p
+paq580,About how many hours did {you/SP} use a computer or play computer games yesterday? Would you say...
+paaquex,Questionnaire source flag for weighting
+padactiv,"[Over the past 30 days], what {vigorous/moderate} activities did {you/SP} do?"
+paddurat,"[Over the past 30 days], on average about how long did {you/SP} do {activity} each time?"
+padlevel,Reported intensity level of activity
+padmets,Metabolic equivalent(MET) intensity level for activity.
+padtimes,"[Over the past 30 day], how often did {you/SP} do {activity}?"
+smaquex,Questionnaire source flag for weighting.
+smd630,How old were you when you smoked a whole cigarette for the first time?
+smd680,The following questions ask about use of tobacco or nicotine products in the past 5 days.  During th
+smd690a,Which of these products did {you/he/she} use?
+smd690b,Which of these products did {you/he/she} use?
+smd690c,Which of these products did {you/he/she} use?
+smd690d,Which of these products did {you/he/she} use?
+smd690f,Which of these products did {you/he/she} use?
+smd710,"During the past 5 days {including today}, on how many days did {you/he/she} smoke cigarettes?"
+smd720,"During the past 5 days, on the days {you/he/she} smoked, how many cigarettes did {you/he/she} smoke "
+smd740,"During the past 5 days (including today), on how many days did {you/he/she} smoke a pipe?"
+smd750,"During the past 5 days, on the days did {you/he/she} smoked a pipe, how many pipes did {you/he/she} "
+smd770,"During the past 5 days (including today), on how many days did {you/he/she} smoke cigars?"
+smd780,"During the past 5 days, on the days {you/he/she} smoked cigars, how many cigars did {you/he/she} smo"
+smd800,"During the past 5 days (including today), on how many days did {you/he/she} use chewing tobacco, suc"
+smd830,"During the past 5 days (including today), on how many days did {you/he/she} use any product containi"
+smq620,The following questions are about cigarette smoking and other tobacco use.  Have you ever tried ciga
+smq640,"During the past 30 days, on how many days did you smoke cigarettes?"
+smq650,"During the past 30 days, on the days that you smoked, how many cigarettes did you smoke per day?"
+smq660,"During the past 30 days, on the days that you smoked, which brand of cigarettes did you usually smok"
+smq664b,{Were/Was} the Benson and Hedges cigarettes menthol or non-menthol?
+smq664c,{Were/Was} the Camel cigarettes menthol or non-menthol?
+smq664m,{Were/Was} the Marlboro cigarettes menthol or non-menthol?
+smq664o,{Were/Was} the other brand cigarettes menthol or non-menthol?
+smq664w,{Were/Was} the Winston cigarettes menthol or non-menthol?
+smq666b,"{Were/Was} the Benson and Hedges cigarettes regulars, lights, or ultra-lights?"
+smq666c,"{Were/Was} the Camel cigarettes regulars, lights, or ultra-lights?"
+smq666k,"{Were/Was} the Kool cigarettes regulars, lights, or ultra-lights?"
+smq666m,"{Were/Was} the Marlboro cigarettes regulars, lights, or ultra-lights?"
+smq666n,"{Were/Was} the Newport cigarettes regulars, lights, or ultra-lights?"
+smq666o,"{Were/Was} the other brand cigarettes regulars, lights, or ultra-lights?"
+smq666s,"{Were/Was} the Salem cigarettes regulars, lights, or ultra-lights?"
+smq666w,"{Were/Was} the Winston cigarettes regulars, lights, or ultra-lights?"
+smq670,"During the past 12 months, have you stopped smoking for one day or longer because you were trying to"
+smq690e,Which of these products did {you/he/she} use?
+smq725,When did {you/he/she} smoke {your/his/her} last cigarette? Was it...
+smq755,When did {you/he/she} smoke {your/his/her} last pipe? Was it...
+smq785,When did {you/he/she} smoke {your/his/her} last cigar? Was it...
+smq815,When did {you/he/she} last use chewing tobacco? Was it...
+smq817,"During the past 5 days {including today}, on how many days did {you/he/she} use snuff, such as Skoal"
+smq819,When did {you/he/she} last use snuff? Was it...
+smq840,When did {you/he/she} last use a product containing nicotine? Was it...
+smd030,How old {were you/was SP} when {you/s/he} first started to smoke cigarettes fairly regularly?
+smd055,How old {were you/was SP} when {you/s/he} last smoked cigarettes {fairly regularly}?
+smd057,"At that time, about how many cigarettes did {you/SP} usually smoke per day?"
+smd070,"On average, how many cigarettes {do you/does SP} now smoke per day?"
+smd075,For about how many years {have you/has SP} smoked this amount?
+smd080,On how many of the past 30 days did {you/SP} smoke a cigarette?
+smd090,"During the past 30 days, on the days that {you/SP} smoked, about how many cigarettes did {you/s/he} "
+smd100br,Cigarette Brand/sub-brand
+smd100co,FTC Carbon Monoxide Content
+smd100fl,Filter type
+smd100ln,Length in Millimeters
+smd100mn,CIGARETTE PRODUCT MENTHOLATED OR NON-MENTHOLATED
+smd100ni,FTC Nicotine Content
+smd100tr,FTC Tar Content
+smd130,How old {were you/was SP} when {you/s/he} first started to smoke a pipe fairly regularly?
+smd160,How old {were you/was SP} when {you/s/he} first started to smoke a cigar fairly regularly?
+smd190,How old {were you/was SP} when {you/s/he} first started to use snuff fairly regularly?
+smd203,"How many ""pinches"", ""dips"" or ""rubs"" of snuff {do you/does SP} use per day?"
+smd220,How old {were you/was SP} when {you/s/he} first started to use chewing tobacco fairly regularly?
+smd233,"How many ""plugs"", ""wads"" or ""chaws"" of chewing tobacco {do you/does SP} use per day?"
+smd235,For about how many years {have you/has SP} used this amount?
+smq020,These next questions are about cigarette smoking and other tobacco use. {Have you/Has SP} smoked at 
+smq040,{Do you/Does SP} now smoke cigarettes . .
+smq050q,How long has it been since {you/SP} quit smoking cigarettes?
+smq050u,UNIT OF MEASURE
+smq120,{Have you/Has SP} smoked a pipe at least 20 times in {your/his/her} entire life?
+smq140,{Do you/Does SP} now smoke a pipe . . .
+smq143,How many pipefuls of tobacco {do you/does SP} smoke per day?
+smq145,For about how many years {have you/has SP} smoked this amount?
+smq150,{Have you/Has SP} smoked a cigar at least 20 times in {your/his/her} entire life?
+smq170,{Do you/Does SP} now smoke a cigar . . .
+smq173,How many cigars {do you/does SP} smoke per day?
+smq175,For about how many years {have you/has SP} smoked this amount?
+smq180,"{Have you/Has SP} used snuff, such as Skoal, Skoal Bandit, or Copenhagen at least 20 times in {your/"
+smq200,{Do you/Does SP} now use snuff . . .
+smq205,For about how many years {have you/has SP} used this amount?
+smq210,"{Have you/Has SP} used chewing tobacco, such as Redman, Levi Garrett or Beechnut at least 20 times i"
+smq230,{Do you/Does SP} now use chewing tobacco . . .
+whd010,These next questions ask about {your/SP's} height and weight at different times in {your/his/her} li
+whd020,How much {do you/does SP} weigh without clothes or shoes?
+whd040,Would {you/SP} like to weigh . . .
+whd045,How much {would you/would SP} like to weigh?
+whd050,How much did {you/SP} weigh a year ago?
+whd060,Was the change between {your/SP's} current weight and {your/his/her} weight a year ago intentional?
+whd080a,How did {you/SP} try to lose weight?
+whd080b,How did {you/SP} try to lose weight?
+whd080c,How did {you/SP} try to lose weight?
+whd080d,How did {you/SP} try to lose weight?
+whd080e,How did {you/SP} try to lose weight?
+whd080f,How did {you/SP} try to lose weight?
+whd080g,How did {you/SP} try to lose weight?
+whd080h,How did {you/SP} try to lose weight?
+whd080i,How did {you/SP} try to lose weight?
+whd080j,How did {you/SP} try to lose weight?
+whd080k,How did {you/SP} try to lose weight?
+whd080l,How did {you/SP} try to lose weight?
+whd080m,How did {you/SP} try to lose weight?
+whd080n,How did {you/SP} try to lose weight?
+whd080o,How did {you/SP} try to lose weight?
+whd080p,How did {you/SP} try to lose weight?
+whd080q,How did {you/SP} try to lose weight?
+whd080r,How did {you/SP} try to lose weight?
+whd080s,How did {you/SP} try to lose weight?
+whd080t,How did {you/SP} try to lose weight?
+whd100a,What did {you/SP} do to keep from gaining weight?
+whd100b,What did {you/SP} do to keep from gaining weight?
+whd100c,What did {you/SP} do to keep from gaining weight?
+whd100c,What did {you/SP} do to keep from gaining weight?
+whd100d,What did {you/SP} do to keep from gaining weight?
+whd100d,What did {you/SP} do to keep from gaining weight?
+whd100e,What did {you/SP} do to keep from gaining weight?
+whd100f,What did {you/SP} do to keep from gaining weight?
+whd100f,What did {you/SP} do to keep from gaining weight?
+whd100g,What did {you/SP} do to keep from gaining weight?
+whd100h,What did {you/SP} do to keep from gaining weight?
+whd100i,What did {you/SP} do to keep from gaining weight?
+whd100j,What did {you/SP} do to keep from gaining weight?
+whd100k,What did {you/SP} do to keep from gaining weight?
+whd100l,What did {you/SP} do to keep from gaining weight?
+whd100l,What did {you/SP} do to keep from gaining weight?
+whd100m,What did {you/SP} do to keep from gaining weight?
+whd100n,What did {you/SP} do to keep from gaining weight?
+whd100o,What did {you/SP} do to keep from gaining weight?
+whd100p,What did {you/SP} do to keep from gaining weight?
+whd100q,What did {you/SP} do to keep from gaining weight?
+whd100r,What did {you/SP} do to keep from gaining weight?
+whd100s,What did {you/SP} do to keep from gaining weight?
+whd100t,What did {you/SP} do to keep from gaining weight?
+whd110,"How much did {you/SP} weigh 10 years ago?  [If you don't know {your/his/her} exact weight, please ma"
+whd120,"How much did {you/SP} weigh at age 25?  [If you don't know {your/his/her} exact weight, please make "
+whd130,"How tall {were you/was SP} at age 25?  [If you don't know {your/his/her} exact height, please make y"
+whd140,"Up to the present time, what is the most {you have/SP has} ever weighed?"
+whd150,"How old {were you/was SP} then?  [If you don't know {your/his/her} exact age, please make your best "
+whd160,What is the least {you/SP} ever weighed since {you were/s/he was} 18?
+whd170,"How old {were you/was SP} then?  [If you don't know {your/his/her} exact age, please make your best "
+whd220,Weight loss most successful(pounds)
+whq030,{Do you/Does SP} consider {your/his/her}self now to be . . . [If {you are/she is} currently pregnant
+whq030,{Do you/Does SP} consider {your/his/her}self now to be . . .
+whq040,Would {you/SP} like to weigh . . .
+whq060,Was the change between {your/SP's} current weight and {your/his/her} weight a year ago intentional?
+whq070,"During the past 12 months, {have you/has SP} tried to lose weight?"
+whq080c,How did {you/SP} try to lose weight?
+whq080e,How did {you/SP} try to lose weight?
+whq080g,How did {you/SP} try to lose weight?
+whq080h,How did {you/SP} try to lose weight?
+whq080i,How did {you/SP} try to lose weight?
+whq080j,How did {you/SP} try to lose weight?
+whq080k,How did {you/SP} try to lose weight?
+whq090,"During the past 12 months, {have you/has SP} done anything to keep from gaining weight?"
+whq100a,What did {you/SP} do to keep from gaining weight?
+whq100b,What did {you/SP} do to keep from gaining weight?
+whq100e,What did {you/SP} do to keep from gaining weight?
+whq100g,What did {you/SP} do to keep from gaining weight?
+whq100h,What did {you/SP} do to keep from gaining weight?
+whq100i,What did {you/SP} do to keep from gaining weight?
+whq100j,What did {you/SP} do to keep from gaining weight?
+whq100k,What did {you/SP} do to keep from gaining weight?
+whq150,"How old {were you/was SP} then?  [If you don't know {your/his/her} exact age, please make your best "
+whq210,Have you/Has SP ever tried to lose weight?
+whq270,"In the past 12 months, {did you/did SP} seek help from a personal trainer, dietitian, nutritionist, "
+whq280a,Was that a...
+whq280b,Was that a...
+whq280c,Was that a...
+whq280d,Was that a...
+whq280e,Was that a...
+smd410,I would now like to ask you a few questions about smoking.   Does anyone who lives here smoke cigare
+smd415,Total number of smokers in home
+smd415a,Total # of cigarette smokers in home
+smd415b,Total # of cigar smokers in home
+smd415c,Total # of pipe smokers in home
+smd430,How many cigarettes per day {do you/does PERSON} usually smoke anywhere inside the home?
+smd440,How many cigars per day {do you/does PERSON} usually smoke anywhere inside the home?
+smd450,How many pipes per day {do you/does PERSON} usually smoke anywhere inside the home?
+whd100a,What did {you/SP} do to keep from gaining weight?
+whd100b,What did {you/SP} do to keep from gaining weight?
+whd100e,What did {you/SP} do to keep from gaining weight?
+whd100g,What did {you/SP} do to keep from gaining weight?
+whd100h,What did {you/SP} do to keep from gaining weight?
+whd100i,What did {you/SP} do to keep from gaining weight?
+whd100j,What did {you/SP} do to keep from gaining weight?
+whd100k,What did {you/SP} do to keep from gaining weight?
+ald100,The next questions are about drinking alcoholic beverages. Included are liquor (such as whiskey or g
+bpd110a,{Even though {you have/SP has} never had {your/his/her} blood cholesterol checked} {Even though a do
+bpd110b,{Even though {you have/SP has} never had {your/his/her} blood cholesterol checked} {Even though a do
+bpd110c,{Even though {you have/SP has} never had {your/his/her} blood cholesterol checked} {Even though a do
+bpd120,Even though a doctor or other health professional has never told {you/SP} to eat fewer high fat or h
+bpd130,Even though a doctor or other health professional has never told {you/SP} to control {your/his/her} 
+bpd140,Even though a doctor or other health professional has never told {you/SP} to increase {your/his/her}
+did040g,How old {was SP/were you} when a doctor or other health professional first told {you/him/her} that {
+did040q,How old {was SP/were you} when a doctor or other health professional first told {you/him/her} that {
+did060g,For how long {have you/has SP} been taking insulin?
+did060q,For how long {have you/has SP} been taking insulin?
+dbd071a,What type of milk was {SP} first fed on a daily basis?  Was it . . .
+dbd071b,What type of milk was {SP} first fed on a daily basis?  Was it . . .
+dbd071c,What type of milk was {SP} first fed on a daily basis?  Was it . . .
+dbd071d,What type of milk was {SP} first fed on a daily basis?  Was it . . .
+dbd071u,What type of milk was {SP} first fed on a daily basis?  Was it . . .
+dbd102,"During the past 12 months, how often per day, per week, per month or per year did {you/SP} eat dark "
+dbd103,"During the past 12 months, how often per day, per week, per month or per year did {you/SP} eat cooke"
+dbd196,Now I'm going to ask a few questions about milk products.  Do not include their use in cooking.  In 
+dbd221a,What type of milk was it?  Was it usually . . .
+dbd221b,What type of milk was it?  Was it usually . . .
+dbd221c,What type of milk was it?  Was it usually . . .
+dbd221d,What type of milk was it?  Was it usually . . .
+dbd221u,What type of milk was it?  Was it usually . . .
+dbd229,The next question is about regular milk use.  A regular milk drinker is someone who uses any type of
+dbd235ae,"Now, I'm going to ask you how often {you/SP} drank milk at different times in {your/his/her} life.  "
+dbd235be,"Now, I'm going to ask you how often {you/SP} drank milk at different times in {your/his/her} life.  "
+dbd235ce,"Now, I'm going to ask you how often {you/SP} drank milk at different times in {your/his/her} life.  "
+dbd301,The next questions are about meals provided by community or government programs.  In the past 12 mon
+dbd381,"During the school year, about how many times a week {do you/does SP} usually get a complete school l"
+dbd411,"During the school year, about how many times a week {do you/does SP} usually get a complete breakfas"
+dbd421,"{Do you/Does SP} get these breakfasts free, at a reduced price, or {do you/does he/she} pay full pri"
+dbq360,"During the school year, {do you/does SP} attend a kindergarten, grade school, junior or high school?"
+dbq370,Does {your/SP's} school serve school lunches?  These are complete lunches that cost the same every d
+dbq400,Does {your/SP's} school serve a complete breakfast that costs the same every day?
+ecd010,First I have some questions about {SP NAME's} birth. How old was {SP NAME's} biological mother when 
+ecq100,(First/Next) I have some questions about day care and preschool.  By day care I mean child care wher
+ecq110,Does {SP} now attend day care or preschool?
+mcd147,Have {SP's} periods or menstrual cycles started yet?
+mcd160m,Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . . had a thyroid pr
+mcd170m,{Do you/Does SP} still . . . have a thyroid problem?
+mcd180m,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had a thyroid problem?
+mcq025,How old {were you/was SP} when {you were/s/he was} first told {he/she} had asthma?
+mcq035,{Do you/Does SP} still have asthma?
+pad480,"Now I will ask about TV watching or computer use.  Over the past 30 days, on a typical day how much "
+pad590,"Over the past 30 days, on average about how many hours per day did {you/SP} sit and watch TV or vide"
+pad600,"Over the past 30 days, on average about how many hours per day did {you/SP} use a computer or play c"
+padlevel,Reported intensity level of activity.
+padtimes,"[Over the past 30 days], how often did {you/SP} do {activity}?"
+smd092,May I please see the pack for the brand of cigarettes {you usually smoke/SP usually smokes}.
+smdupca,Cigarette 12-digit Universal Product Code (UPC)
+smq077,How soon after you wake up do you smoke? Would you say...
+smaquex,Questionnaire Mode Flag.
+smq680,The following questions ask about use of tobacco or nicotine products in the past 5 days.  During th
+smq690a,Which of these products did {you/he/she} use?
+smq690b,Which of these products did {you/he/she} use?
+smq690c,Which of these products did {you/he/she} use?
+smq690d,Which of these products did {you/he/she} use?
+smq690f,Which of these products did {you/he/she} use?
+smq710,"During the past 5 days {including today}, on how many days did {you/he/she} smoke cigarettes?"
+smq720,"During the past 5 days, on the days {you/he/she} smoked, how many cigarettes did {you/he/she} smoke "
+smq740,"During the past 5 days (including today), on how many days did {you/he/she} smoke a pipe?"
+smq750,"During the past 5 days, on the days did {you/he/she} smoked a pipe, how many pipes did {you/he/she} "
+smq770,"During the past 5 days (including today), on how many days did {you/he/she} smoke cigars?"
+smq780,"During the past 5 days, on the days {you/he/she} smoked cigars, how many cigars did {you/he/she} smo"
+smq800,"During the past 5 days (including today), on how many days did {you/he/she} use chewing tobacco, suc"
+smq830,"During the past 5 days (including today), on how many days did {you/he/she} use any product containi"
+alq101,The next questions are about drinking alcoholic beverages. Included are liquor (such as whiskey or g
+dbd197,Now I'm going to ask a few questions about milk products.  Do not include their use in cooking.  In 
+dbq071a,What type of milk was {SP} first fed on a daily basis?  Was it . . .
+dbq071b,What type of milk was {SP} first fed on a daily basis?  Was it . . .
+dbq071c,What type of milk was {SP} first fed on a daily basis?  Was it . . .
+dbq071d,What type of milk was {SP} first fed on a daily basis?  Was it . . .
+dbq071u,What type of milk was {SP} first fed on a daily basis?  Was it . . .
+dbq221a,What type of milk was it?  Was it usually . . .
+dbq221b,What type of milk was it?  Was it usually . . .
+dbq221c,What type of milk was it?  Was it usually . . .
+dbq221d,What type of milk was it?  Was it usually . . .
+dbq221u,What type of milk was it?  Was it usually . . .
+dbq229,The next question is about regular milk use.  A regular milk drinker is someone who uses any type of
+dbq235a,"Now, I'm going to ask you how often {you/SP} drank milk at different times in {your/his/her} life.  "
+dbq235b,"Now, I'm going to ask you how often {you/SP} drank milk at different times in {your/his/her} life.  "
+dbq235c,"Now, I'm going to ask you how often {you/SP} drank milk at different times in {your/his/her} life.  "
+dbq301,The next questions are about meals provided by community or government programs.  In the past 12 mon
+dbq421,"{Do you/Does SP} get these breakfasts free, at a reduced price, or {do you/does he/she} pay full pri"
+dbq424,(Do you/Does SP) get a free or reduced price meal at any summer program (he/she) attends?
+imd010,{Have you/Has SP} ever received hepatitis A vaccine?  This vaccine is given as a two dose series rou
+mcq149,Have {SP's} periods or menstrual cycles started yet?
+mcq160m,Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . . had a thyroid pr
+mcq170m,{Do you/Does SP} still . . . have a thyroid problem?
+mcq180m,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had a thyroid problem?
+mcq265,"Including living and deceased, were any of (SP's/your) biological that is, blood relatives including"
+mcq267a,Which biological blood family member?
+mcq267b,Which biological blood family member?
+mcq267c,Which biological blood family member?
+mcq267d,Which biological blood family member?
+mcq267e,Which biological blood family member?
+smd093,May I please see the pack for the brand of cigarettes {you usually smoke/SP usually smokes}.
+smd100ln,Cigarette product length
+smd641,On how many of the past 30 days did {you/SP} smoke a cigarette?
+smd650,"During the past 30 days, on the days that {you/SP} smoked, about how many cigarettes did {you/s/he} "
+smq140,{Do you/Does SP} now smoke a pipe
+smq200,{Do you/Does SP} now use snuff
+smq230,{Do you/Does SP} now use chewing tobacco
+alq101,The next questions are about drinking alcoholic beverages.  Included are liquor (such as whiskey or 
+dbd072a,What type of milk was {SP} first fed on a daily basis?  Was it . . .
+dbd072b,What type of milk was {SP} first fed on a daily basis?  Was it . . .
+dbd072c,What type of milk was {SP} first fed on a daily basis?  Was it . . .
+dbd072d,What type of milk was {SP} first fed on a daily basis?  Was it . . .
+dbd072u,What type of milk was {SP} first fed on a daily basis?  Was it . . .
+dbd091,"Next, Im going to ask you about meals.  By meal, I mean breakfast, lunch and dinner.  On average, ho"
+dbd222a,What type of milk was it?  Was it usually . . .
+dbd222b,What type of milk was it?  Was it usually . . .
+dbd222c,What type of milk was it?  Was it usually . . .
+dbd222d,What type of milk was it?  Was it usually . . .
+dbd222u,What type of milk was it?  Was it usually . . .
+dbq197,Now I'm going to ask a few questions about milk products.  Do not include their use in cooking.  In 
+dbq700,"Next I have some questions about {your/SP?s} eating habits.  In general, how healthy is {your/his/he"
+dbq720,Have you heard of the 'Dietary Guidelines for Americans'?
+dbq730,[Have you heard of] 'The Food Guide Pyramid'?
+dbq740,[Have you heard of] The 5-A-Day [for Better Health] Program?
+dbq750,Here is an example of a food label.  [HAND CARD DBQ4]  This part of the food label is called the Nut
+dbq760,"How about the list of ingredients?
+[How often do you use the list of ingredients when deciding to b"
+dbq770,"How about the information on the size of a serving?
+[How often do you use information on the size o"
+dbq780,Some food packages contain health claims about the benefits of nutrients or foods like the examples 
+dbq790,"When you use the food label to decide about a food product, how often do you look for information ab"
+dbq800,"[When you use the food label to decide about a food product, how often do you look for information a"
+dbq810,"[When you use the food label to decide about a food product, how often do you look for information a"
+dbq820,"[When you use the food label to decide about a food product, how often do you look for information a"
+dbq830,"[When you use the food label to decide about a food product, how often do you look for information a"
+dbq840,"[When you use the food label to decide about a food product, how often do you look for information a"
+dbq850,"[When you use the food label to decide about a food product, how often do you look for information a"
+dbq860,"[When you use the food label to decide about a food product, how often do you look for information a"
+dbq870,"[When you use the food label to decide about a food product, how often do you look for information a"
+dbq880,"[When you use the food label to decide about a food product, how often do you look for information a"
+dbq890,"Would you say you strongly agree, somewhat agree, neither agree nor disagree, somewhat disagree, or "
+did040,How old {was SP/were you} when a doctor or other health professional first told {you/him/her} that {
+did060,For how long {have you/has SP} been taking insulin?
+did070,{Is SP/Are you} now taking diabetic pills to lower {{his/her}/your} blood sugar?  These are sometime
+did250,How many times {have you/has SP} seen this doctor or other health professional in the past 12 months
+did260,How often {do you check your/does SP check his/her} blood for glucose or sugar?  Include times when 
+did270,"Glycosylated (GLY-CO-SYL-AT-ED) hemoglobin or the ""A one C"" test measures the average level of blood"
+did310d,What does {your/SP's} doctor or other health professional say {your/his/her} blood pressure should b
+did310s,What does {your/SP's} doctor or other health professional say {your/his/her} blood pressure should b
+did320,"One part of total serum cholesterol in {your/SP's} blood is a bad cholesterol, called LDL, which bui"
+did330,What does {your/SP's} doctor or other health professional say {your/his/her} LDL cholesterol should 
+did340,"During the past 12 months, about how many times has a doctor or other health professional checked {y"
+did350,How often {do you check your feet/does SP check (his/her) feet} for sores or irritations?  Include t
+diq160,{Have you/Has SP} ever been told by a doctor or other health professional that {you have/SP has} any
+diq170,{Have you/Has SP} ever been told by a doctor or other health professional that {you have/s/he has} h
+diq180,{Have you/Has SP} had a blood test for high blood sugar or diabetes within the past three years?
+diq190a,"To lower {your/his/her} risk for certain diseases, during the past 12 months {have you/has s/he} eve"
+diq190b,"To lower {your/his/her} risk for certain diseases, during the past 12 months {have you/has s/he} eve"
+diq190c,"To lower {your/his/her} risk for certain diseases, during the past 12 months {have you/has s/he} eve"
+diq200a,"To lower {your/his/her} risk for certain diseases, {are you/is s/he} now doing any of the following:"
+diq200b,"To lower {your/his/her} risk for certain diseases, {are you/is s/he} now doing any of the following:"
+diq200c,"To lower {your/his/her} risk for certain diseases, {are you/is s/he} now doing any of the following:"
+diq220,Was {your/his/her} diabetes diagnosed...
+diq230,When was the last time {you/SP} saw a diabetes nurse educator or dietitian or nutritionist for {your
+diq240,Is there one doctor or other health professional {you usually see/SP usually sees} for {your/his/her
+diq260u,How often {do you check your/does SP check his/her} blood for glucose or sugar?  Include times when 
+diq280,"What was {your/SP's} last ""A one C"" level?"
+diq290,"What does {your/SP's} doctor or other health professional say {your/his/her} ""A one C"" level  should"
+diq300d,Blood pressure is usually given as one number over another.  What was {your/SP's} most recent blood 
+diq300s,Blood pressure is usually given as one number over another.  What was {your/SP's} most recent blood 
+diq350u,How often {do you check your feet/does SP check (his/her) feet} for sores or irritations?  Include t
+diq360,When was the last time {you/SP} had an eye exam in which the pupils were dilated?  This would have m
+ecq150,Are you now doing anything to help {SP} control {his/her} weight?
+mcq080e,Has a doctor or health professional ever told you that {SP} was overweight?
+whq030e,Do you consider {SP} now to be . . .
+imq011,{Have you/Has SP} ever received hepatitis A vaccine?  This vaccine is given as a two dose series rou
+mcd330,How long ago was {your/his} last PSA test?
+mcq080,Has a doctor or other health professional ever told {you/SP} that {you were/s/he/SP was} overweight?
+mcq240dk,How old {were you/was SP} when cancer was first diagnosed?
+mcq268a,Which biological [blood] family members?
+mcq268b,Which biological [blood] family members?
+mcq268c,Which biological [blood] family members?
+mcq268d,Which biological [blood] family members?
+mcq300a,"Including living and deceased, were any of {SP's/your} close biological that is, blood relatives inc"
+mcq300b,"Including living and deceased, were any of {SP's/your} close biological that is, blood relatives inc"
+mcq300c,"Including living and deceased, were any of {SP's/your} close biological that is, blood relatives inc"
+mcq310,{Have you/Has SP} ever had a blood test that {your/his} doctor told {you/him} was being used to chec
+mcq320,How old {were you/was SP}  when {you/he} first had {your/his} PSA test?
+mcq340,How many PSA tests {have you/has SP} had in the last 5 years?
+mcq350,Has a doctor or other health care professional ever told {you/SP} that {your/his} PSA test was not n
+smaquex2,Questionnaire Mode Flag
+smd100br,BRAND OF CIGARETTES SMOKED BY SP (SUB-BRAND INCLUDED IF APPLICABLE AND AVAILABLE)
+smd100co,CIGARETTE CARBON MONOXIDE CONTENT
+smd100fl,CIGARETTE PRODUCT FILTERED OR NON-FILTERED
+smd100ln,CIGARETTE PRODUCT LENGTH
+smd100ni,CIGARETTE NICOTINE CONTENT
+smd100tr,CIGARETTE TAR CONTENT
+smq620,The following questions are about cigarette smoking and other tobacco use. Have you ever tried cigar
+whq030m,Do you consider yourself now to be . . .
+whq500,Which of the following are you trying to do about your weight:
+whq510a,Why are you trying to lose weight?
+whq510b,Why are you trying to lose weight?
+whq510c,Why are you trying to lose weight?
+whq510d,Why are you trying to lose weight?
+whq510e,Why are you trying to lose weight?
+whq510f,Why are you trying to lose weight?
+whq510g,Why are you trying to lose weight?
+whq510h,Why are you trying to lose weight?
+whq510i,Why are you trying to lose weight?
+whq510j,Why are you trying to lose weight?
+whq510k,Why are you trying to lose weight?
+whq510l,Why are you trying to lose weight?
+whq510m,Why are you trying to lose weight?
+whq510n,Why are you trying to lose weight?
+whq510o,Why are you trying to lose weight?
+whq510u,Why are you trying to lose weight?
+whq520,"In the past year, how often have you tried to lose weight?  Would you say . . ."
+whq530,"In the past year, how often have you been on a diet to lose weight?  Would you say . . ."
+whq540,"In the past year, how often have you starved (not eaten) for a day or more to lose weight?  Would yo"
+whq550,"In the past year, how often have you cut back on what you ate to lose weight?  Would you say . . ."
+whq560,"In the past year, how often have you skipped meals to lose weight?  Would you say . . ."
+whq570,"In the past year, how often have you exercised to lose weight?  Would you say . . ."
+whq580,"In the past year, how often have you eaten less sweets or fatty foods to lose weight?  Would you say"
+bpd035,How old {were you/was SP} when {you were/he/she was} first told that {you/he/she} had hypertension o
+bpq052,{Have you/Has SP} ever been told by a doctor or other health professional that {you have/s/he has} p
+bpq057,{Have you/Has SP} ever been told by a doctor or other health professional that {you have/s/he has} h
+imq011,Hepatitis (Hep-a-ti-tis) A vaccine is given as a two dose series to some children older than 2 years
+imq020,Hepatitis (Hep-a-ti-tis) B vaccine is given in three separate doses and has been recommended for all
+imq040,Human Papillomavirus (HPV) vaccine is given to prevent cervical cancer in girls and women.  It is gi
+imq045,How many doses {have you/has SP} received?
+mcq051,"During the past 3 months, {have you/has SP} taken medication prescribed by a doctor or other health "
+mcq160n,Has a doctor or other health professional ever told {you/SP} that {you/s/he} . . .had gout?
+mcq180n,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had gout?
+pad590,"Now I will ask you about TV watching and computer use. Over the past 30 days, on average how many ho"
+pad600,"Over the past 30 days, on average how many hours per day did {SP} use a computer or play computer ga"
+pad615,How much time {do you/does SP} spend doing vigorous-intensity activities at work on a typical day?
+pad630,How much time {do you/does SP} spend doing moderate-intensity activities at work on a typical day?
+pad645,How much time {do you/does SP} spend walking or bicycling for travel on a typical day?
+pad660,"How much time {do you/does SP} spend doing vigorous-intensity sports, fitness or recreational activi"
+pad675,"How much time {do you/does SP} spend doing moderate-intensity sports, fitness or recreational activi"
+pad680,"The following question is about sitting or reclining at work, at home, or at school.  Include time s"
+paq560,Now I'd like to ask you some questions about {SP's} activities.  How many times per week does {SP} p
+paq605,Next I am going to ask you about the time {you spend/SP spends} doing different types of physical ac
+paq610,"In a typical week, on how many days {do you/does SP} do vigorous-intensity activities as part of you"
+paq620,Does {your/SP's} work involve moderate-intensity activity that causes small increases in breathing o
+paq625,"In a typical week, on how many days {do you/does SP} do moderate-intensity activities as part of {yo"
+paq635,The next questions exclude the physical activity of work that you have already mentioned.  Now I wou
+paq640,"In a typical week, on how many days {do you/does SP} walk or bicycle for at least 10 minutes continu"
+paq650,The next questions exclude the work and transportation activities that you have already mentioned.  
+paq655,"In a typical week, on how many days {do you/does SP} do vigorous-intensity sports, fitness or recrea"
+paq665,"{Do you/Does SP} do any moderate-intensity sports, fitness, or recreational activities that cause a "
+paq670,"In a typical week, on how many days {do you/does SP} do moderate-intensity sports, fitness or recrea"
+smd415,Total number of smokers inside home
+smd415a,Total # of cigarette smokers inside home
+whq510p,Why are you trying to lose weight?
+dbd895,"Next I'm going to ask you about meals.  By meal, I mean breakfast, lunch and dinner.  During the pas"
+dbd900,How many of those meals {did you/did SP} get from a fast-food or pizza place?
+dbd905,"Some grocery stores sell ""ready to eat"" foods such as salads, soups, chicken, sandwiches and cooked "
+dbd910,"During the past 30 days, how often did you {SP} eat frozen meals or frozen pizzas?  Here are some ex"
+dbq915,{Do you/Does SP} consider {yourself/himself/herself} to be a vegetarian?
+dbq920,{Do you/Does SP} have any food allergies?
+dbq925a,What foods {are you/is SP} allergic to?
+dbq925b,What foods {are you/is SP} allergic to?
+dbq925c,What foods {are you/is SP} allergic to?
+dbq925d,What foods {are you/is SP} allergic to?
+dbq925e,What foods {are you/is SP} allergic to?
+dbq925f,What foods {are you/is SP} allergic to?
+dbq925g,What foods {are you/is SP} allergic to?
+dbq925h,What foods {are you/is SP} allergic to?
+dbq925i,What foods {are you/is SP} allergic to?
+dbq925j,What foods {are you/is SP} allergic to?
+dbq930,{Are you/Is SP} the person who does most of the planning or preparing of meals in {your/SP's} family
+dbq935,{Do you/Does SP} share in the planning or preparing of meals with someone else?
+dbq940,{Are you/Is SP} the person who does most of the shopping for food in {your/SP's} family?
+dbq945,{Do you/Does SP} share in the shopping for food with someone else?
+smd415,Total number of smokers inside home.
+smd415a,Total number of cigarette smokers inside home.
+smd430,Total number cigarettes per day smoked anywhere inside the home by all cigarette smokers.
+bpd058,How often {did you check your/did SP check his/her} blood pressure at home during the last 12 months
+bpq056,{Did you/Did SP} take {your/his/her} blood pressure at home during the last 12 months?
+bpq059,Did a doctor or other health professional tell {you/SP} to take {your/his/her} blood pressure at hom
+mcq070,{Have you/Has SP} ever been told by a doctor or other health care professional that {you/s/he} had p
+mcq082,Has a doctor or other health professional ever told {you/SP} that {you have/s/he/SP has} celiac (sel
+mcq086,{Are you/is SP} on a gluten-free diet?
+mcq191,Which type of arthritis was it
+did341,"During the past 12 months, about how many times has a doctor or other health professional checked {y"
+pad680,"The following question is about sitting at work, at home, getting to and from places, or with friend"
+paq706,"Now I'd like to ask you some questions about {SP's} activities. During the past 7 days, on how many "
+whq030e,How do you consider your child's weight?
+ald020,"During your life, on how many days have you had at least one drink of alcohol?"
+ald030,"During the past 30 days, on how many days did you have at least one drink of alcohol?"
+ald040,"During the past 30 days, on how many days did you have 5 or more drinks of alcohol in a row, that is"
+alq010,"English Text: The following questions ask about alcohol use. This includes beer, wine, wine coolers,"
+dbd041,How old was {SP} when {he/she} was first fed formula?
+dbd055,This next question is about the first thing that {SP} was given other than breast milk or formula.  
+dbd061,How old was {SP} when {he/she} was first fed milk?
+dbq073a,What type of milk was {SP} first fed?  Was it . . .
+dbq073b,What type of milk was {SP} first fed?  Was it . . .
+dbq073c,What type of milk was {SP} first fed?  Was it . . .
+dbq073d,What type of milk was {SP} first fed?  Was it . . .
+dbq073e,What type of milk was {SP} first fed? Was it . . .
+dbq073u,What type of milk was {SP} first fed?  Was it . . .
+dbq223a,What type of milk was it?  Was it usually . . .
+dbq223b,What type of milk was it?  Was it usually . . .
+dbq223c,What type of milk was it?  Was it usually . . .
+dbq223d,What type of milk was it?  Was it usually . . .
+dbq223e,What type of milk was it? Was it usually . . .
+dbq223u,What type of milk was it?  Was it usually . . .
+paq710,"Now I will ask you first about TV watching and then about computer use.  Over the past 30 days, on a"
+paq715,"Over the past 30 days, on average how many hours per day did {you/SP} use a computer or play compute"
+did310d,"What does {your/SP's} doctor or other health professional say {your/his/her} 
+
+blood pressure shou"
+did310s,"What does {your/SP's} doctor or other health professional say {your/his/her} 
+
+blood pressure shou"
+did320,"One part of total serum cholesterol in {your/SP's} blood is a bad cholesterol, 
+
+called LDL, which"
+did330,"What does {your/SP's} doctor or other health professional say {your/his/her} 
+
+LDL cholesterol sho"
+diq172,{Do you/Does SP} feel {you/he/she} could be at risk for diabetes or prediabetes?
+diq175a,"Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?
+[Anything el"
+diq175b,"Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?
+[Anything el"
+diq175c,"Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?
+[Anything el"
+diq175d,"Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?
+[Anything el"
+diq175e,"Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?
+[Anything el"
+diq175f,"Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?
+[Anything el"
+diq175g,"Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?
+[Anything el"
+diq175h,"Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?
+[Anything el"
+diq175i,"Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?
+[Anything el"
+diq175j,"Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?
+[Anything el"
+diq175k,"Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?
+[Anything el"
+diq175l,"Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?
+[Anything el"
+diq175m,"Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?
+[Anything el"
+diq175n,"Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?
+[Anything el"
+diq175o,"Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?
+[Anything el"
+diq175p,"Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?
+[Anything el"
+diq175q,"Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?
+[Anything el"
+diq175r,"Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?
+[Anything el"
+diq175s,"Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?
+[Anything el"
+diq175t,"Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?
+[Anything el"
+diq175u,"Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?
+[Anything el"
+diq175v,Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?
+diq175w,"Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?
+[Anything el"
+diq275,"Glycosylated (GLY-CO-SYL-AT-ED) hemoglobin or the ""A one C"" test measures your average level of bloo"
+diq291,"What does {your/SP's} doctor or other health professional say {your/his/her} ""A one C"" level  should"
+diq300d,"Blood pressure is usually given as one number over another. What was 
+
+{your/SP's} most recent blo"
+diq300s,"Blood pressure is usually given as one number over another. What was 
+
+{your/SP's} most recent blo"
+whq030e,How do you consider {SP} weight?
+smq621,The following questions are about cigarette smoking and other tobacco use.  Do not include cigars or
+mcq010,The following questions are about different medical conditions. Has a doctor or other health profess
+mcq025,How old {were you/was SP} when {you were/s/he was} first told {you/he/she} had asthma (az-ma)?
+mcq035,{Do you/Does SP} still have asthma (az-ma)?
+mcq040,"During the past 12 months, {have you/has SP} had an episode of asthma (az-ma) or an asthma attack?"
+mcq053,"During the past 3 months, {have you/has SP} been on treatment for anemia (a-nee-me-a), sometimes cal"
+mcq075,{Do you/Does SP} currently have . . .
+mcq084,The next question asks about difficulties in thinking or remembering that can make a big difference 
+mcq149,Have {SP's} periods or menstrual (men-stral) cycles started yet?
+mcq160a,Has a doctor or other health professional ever told {you/SP} that {you/s/he} . . .had arthritis (ar-
+mcq160b,Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had congestive he
+mcq160c,Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had coronary (kor
+mcq160d,Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had angina (an-gi
+mcq160e,Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had a heart attac
+mcq160f,Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had a stroke?
+mcq160g,Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had emphysema (em
+mcq160k,Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had chronic bronc
+mcq160l,Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had any kind of l
+mcq160m,Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had another thyro
+mcq160n,Has a doctor or other health professional ever told {you/SP} that {you/s/he} . . .had gout?
+mcq170k,{Do you/Does SP} still . . . have chronic bronchitis?
+mcq170l,{Do you/Does SP} still . . . have any kind of liver condition?
+mcq170m,{Do you/Does SP} still . . . have another thyroid problem?
+mcq180a,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . . had arthritis?
+mcq180b,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had congestive heart f
+mcq180c,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had coronary heart dis
+mcq180d,"How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had angina, also calle"
+mcq180e,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had a heart attack (al
+mcq180f,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had a stroke?
+mcq180g,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had emphysema?
+mcq180k,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had chronic bronchitis
+mcq180l,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had any kind of liver 
+mcq180m,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had another thyroid pr
+mcq180n,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had gout?
+mcq195,Which type of arthritis was it?
+mcq230a,What kind of cancer was it?
+mcq230b,What kind of cancer was it?
+mcq230c,What kind of cancer was it?
+mcq230d,What kind of cancer was it?
+mcq240a,How old (were you/was SP) when bladder cancer was first diagnosed?
+mcq240aa,How old (were you/was SP) when testicular cancer was first diagnosed?
+mcq240b,How old {were you/was SP} when blood cancer was first diagnosed?
+mcq240bb,How old (were you/was SP) when thyroid cancer was first diagnosed?
+mcq240c,How old (were you/was SP) when bone cancer was first diagnosed?
+mcq240cc,How old (were you/was SP) when uterine cancer was first diagnosed?
+mcq240d,How old (were you/was SP) when brain cancer was  first diagnosed?
+mcq240dd,How old (were you/was SP) when some other type of cancer was first diagnosed?
+mcq240dk,How old {were you/was SP} when cancer was first diagnosed?
+mcq240e,How old (were you/was SP) when breast cancer was first diagnosed?
+mcq240f,How old (were you/was SP) when cervical cancer was first diagnosed?
+mcq240g,How old (were you/was SP) when colon cancer was first diagnosed?
+mcq240h,How old (were you/was SP) when esophageal cancer was first diagnosed?
+mcq240i,How old (were you/was SP) when gallbladder cancer was first diagnosed?
+mcq240j,How old (were you/was SP) when kidney cancer was first diagnosed?
+mcq240k,How old (were you/was SP) when larynx or windpipe cancer was first diagnosed?
+mcq240l,How old (were you/was SP) when leukemia was first diagnosed?
+mcq240m,How old (were you/was SP) when liver cancer was first diagnosed?
+mcq240n,How old (were you/was SP) when lung cancer was first diagnosed?
+mcq240o,How old (were you/was SP) when lymphoma or Hodgkins' Disease was first diagnosed?
+mcq240p,How old (were you/was SP) when melanoma was first diagnosed?
+mcq240q,"How old (were you/was SP) when mouth, tongue, or lip cancer was first diagnosed?"
+mcq240r,How old (were you/was SP) when cancer of the nervous system was first diagnosed?
+mcq240s,How old (were you/was SP) when ovarian cancer was first diagnosed?
+mcq240t,How old (were you/was SP) when pancreatic cancer was first diagnosed?
+mcq240u,How old (were you/was SP) when prostate cancer was first diagnosed?
+mcq240v,How old (were you/was SP) when rectal cancer was first diagnosed?
+mcq240w,How old (were you/was SP) when non-melanoma skin cancer was first diagnosed?
+mcq240x,How old (were you/was SP) when the unknown kind of skin cancer was first diagnosed?
+mcq240y,How old (were you/was SP) when soft tissue (muscle or fat) cancer was first diagnosed?
+mcq240z,How old (were you/was SP) when stomach cancer was first diagnosed?
+mcq300a,"Including living and deceased, were any of {SP's/your} close biological that is, blood relatives inc"
+mcq300b,"Including living and deceased, were any of {SP's/your} close biological that is, blood relatives inc"
+mcq300c,"Including living and deceased, were any of {SP's/your} close biological that is, blood relatives inc"
+mcq365a,"To lower {your/SP's} risk for certain diseases, during the past 12 months {have you/has s/he} ever b"
+mcq365b,"To lower {your/SP's} risk for certain diseases, during the past 12 months {have you/has s/he} ever b"
+mcq365c,"To lower {your/SP's} risk for certain diseases, during the past 12 months {have you/has s/he} ever b"
+mcq365d,"To lower {your/SP's} risk for certain diseases, during the past 12 months {have you/has s/he} ever b"
+mcq370a,"To lower {your/his/her} risk for certain diseases, {are you/is s/he} now doing any of the following:"
+mcq370b,"To lower {your/his/her} risk for certain diseases, {are you/is s/he} now doing any of the following:"
+mcq370c,"To lower {your/his/her} risk for certain diseases, {are you/is s/he} now doing any of the following:"
+mcq370d,"To lower {your/his/her} risk for certain diseases, {are you/is s/he} now doing any of the following:"
+mcq380,"During the past 7 days, how often{have you/has SP} had trouble remembering where {you/he/she} put th"
+imq040,Human Papillomavirus (HPV) vaccine is given to prevent cervical cancer in girls and women.  There ar
+imq045,How many doses of {Cervarix/Gardasil/the vaccine} {have you/has SP} received?
+imq070,Human Papillomavirus (HPV) vaccine is given to prevent HPV infection and genital warts in boys and m
+imq080,"Which of the HPV vaccines did {you/SP} receive, Cervarix or Gardasil?"
+imq090,How old {were you/was SP} when {you/SP} received your first dose of {Cervarix/Gardasil/the vaccine}?
+alq141q,"In the past 12 months, on how many days did {you/SP} have {DISPLAY NUMBER} or more drinks of any alc"
+alq141u,UNIT OF MEASURE.
+alq151,Was there ever a time or times in {your/SP's} life when {you/he/she} drank {DISPLAY NUMBER} or more 
+alq155,For about how many years did {you/SP} drink {DISPLAY NUMBER} or more drinks of any kind of alcoholic
+cbq595,Next I'm going to ask a few questions about the nutritional guidelines recommended for Americans by 
+cbq600,{Have you/Has SP} heard of the Food Pyramid or the Food Guide Pyramid?
+cbq605,{Have you/Has SP} looked up the My Pyramid plan for a {man/woman/person} {your/his/her} age on the i
+cbq610,{Have you/Has SP} tried to follow the {My Pyramid Plan/Pyramid plan} recommended for {you/him/her}?
+agq030,"During the past 12 months, {have you/has SP} had an episode of hay fever?"
+mcq151,How old was {SP} when she had {her} first menstrual period?
+mcq160o,Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had COPD?
+mcq203,"Has anyone ever told {you/SP} that {you/she/he/SP} had yellow skin, yellow eyes or jaundice? Please "
+mcq206,"How old {were you/was SP} when {you were/s/he was} first told {you/s/he} had yellow skin, yellow eye"
+pad680,"The following question is about sitting at school, at home, getting to and from places, or with frie"
+pad733,"On average, for how long did {you/SP} play these active video games?"
+paq610,"In a typical week, on how many days {do you/does SP} do vigorous-intensity activities as part of {yo"
+paq635,The next questions exclude the physical activity at work that you have already mentioned.  Now I wou
+paq650,The next questions exclude the work and transport activities that you have already mentioned.  Now I
+paq665,"In a typical week {do you/does SP} do any moderate-intensity sports, fitness, or recreational activi"
+paq677,In this question you can include activities done in school. On how many of the past 7 days did {you/
+paq678,On how many of the past 7 days did {you/SP} do exercises to strengthen or tone {your/his/her} muscle
+paq679,About how many minutes {do you/does SP} think you should exercise or be physically active each day f
+paq706,"I'd like to ask you some questions about {your/SP's} activities. During the past 7 days, on how many"
+paq722,"For the next questions, think about the sports, lessons, or physical activities {you/SP} may have do"
+paq724a,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any ot
+paq724aa,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any ot
+paq724ab,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any ot
+paq724ac,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any ot
+paq724ad,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any ot
+paq724ae,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any ot
+paq724af,Physical activity horseback riding
+paq724b,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any ot
+paq724c,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any ot
+paq724cm,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any ot
+paq724d,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any ot
+paq724e,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any ot
+paq724f,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any ot
+paq724g,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any ot
+paq724h,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any ot
+paq724i,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any ot
+paq724j,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any ot
+paq724k,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any ot
+paq724l,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any ot
+paq724m,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any ot
+paq724n,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any ot
+paq724o,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any ot
+paq724p,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any ot
+paq724q,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any ot
+paq724r,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any ot
+paq724s,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any ot
+paq724t,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any ot
+paq724u,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any ot
+paq724v,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any ot
+paq724w,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any ot
+paq724x,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any ot
+paq724y,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any ot
+paq724z,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any ot
+paq731,"During the past 7 days, on how many days did {you/SP} play active video games such as Wii Sports, Wi"
+paq740,The next questions ask about activities during the school year. If {you are/SP is} not currently in 
+paq742,{Do you/Does SP} use school facilities for physical activity during school time?
+paq744,{Do you/does SP} have PE or gym during school days?
+paq746,How often {do you/does SP} have PE or gym?
+paq748,"On average, how long is the PE or gym class?"
+paq750,"I am going to read a statement and I want you to let me know if you strongly agree, agree, neither a"
+paq755,"The following are activities that may be done before, during, or after school other than during PE o"
+paq759a,In what school sports or physical activity clubs {do you/does SP} participate?
+paq759b,In what school sports or physical activity clubs {do you/does SP} participate?
+paq759c,In what school sports or physical activity clubs {do you/does SP} participate?
+paq759d,In what school sports or physical activity clubs {do you/does SP} participate?
+paq759e,In what school sports or physical activity clubs {do you/does SP} participate?
+paq759f,In what school sports or physical activity clubs {do you/does SP} participate?
+paq759g,In what school sports or physical activity clubs {do you/does SP} participate?
+paq759h,In what school sports or physical activity clubs {do you/does SP} participate?
+paq759i,In what school sports or physical activity clubs {do you/does SP} participate?
+paq759j,In what school sports or physical activity clubs {do you/does SP} participate?
+paq759k,In what school sports or physical activity clubs {do you/does SP} participate?
+paq759l,In what school sports or physical activity clubs {do you/does SP} participate?
+paq759m,In what school sports or physical activity clubs {do you/does SP} participate?
+paq759n,In what school sports or physical activity clubs {do you/does SP} participate?
+paq759o,In what school sports or physical activity clubs {do you/does SP} participate?
+paq759p,In what school sports or physical activity clubs {do you/does SP} participate?
+paq759q,In what school sports or physical activity clubs {do you/does SP} participate?
+paq759r,In what school sports or physical activity clubs {do you/does SP} participate?
+paq759s,In what school sports or physical activity clubs {do you/does SP} participate?
+paq759t,In what school sports or physical activity clubs {do you/does SP} participate?
+paq759u,Participate in martial arts
+paq759v,Participate in walking
+paq762,{Do you/Does SP} have recess during school days?
+paq764,How often {do you/does SP} have recess?
+paq766,"On average, how long is the recess period?"
+paq770,"In the past year, did {you/SP} receive a Physical Fitness Test award, such as a President's Challeng"
+paq772a,What Physical Fitness Test award did {you/SP} receive?
+paq772b,What Physical Fitness Test award did {you/SP} receive?
+paq772c,What Physical Fitness Test award did {you/SP} receive?
+diq175x,Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes? [Anything els
+diq275,"Glycosylated (GLY-KOH-SIH-LAY-TED) hemoglobin or the ""A one C"" test measures your average level of b"
+smd460,Now I would like to ask you a few questions about smoking in this home.  How many people who live he
+smd470,"Not counting decks, porches, or detached garages, how many people who live here smoke cigarettes, ci"
+smd480,"(Not counting decks, porches, or detached garages) During the past 7 days, that is since last [TODAY"
+smq040,{Do you/Does SP} now smoke cigarettes?
+smq078,How soon after you wake up do you smoke?  Would you say . . .
+smq661,"During the past 30 days, on the days that you smoked, which brand of cigarettes did you usually smok"
+smq665a,Please select the Marlboro pack that looks most like the brand that you smoke. If the pack you smoke
+smq665b,Please select the Camel pack that looks most like the brand that you smoke. If the pack you smoke is
+smq665c,Please select the Newport pack that looks most like the brand that you smoke. If the pack you smoke 
+smq665d,Please select the pack that looks most like the brand that you smoke. If the pack you smoke is not s
+smq848,"During the past 12 months, how many times {have you/has SP} stopped smoking cigarettes because {you "
+smq852q,"The last time {you/SP} tried to quit, how long {were you/was he/was she} able to stop smoking?"
+smq852u,"The last time {you/SP} tried to quit, how long {were you/was he/was she} able to stop smoking?"
+smdany,Used any tobacco product last 5 days?
+smq681,The following questions ask about use of tobacco products in the past 5 days.  During the past 5 day
+smq690g,Which of these products did {you/he/she} use?
+smq690h,Which of these products did {you/he/she} use?
+smq690i,Which of these products did {you/he/she} use?
+smq690j,Which of these products did {you/he/she} use?
+smq710,"During the past 5 days, including today, on how many days did {you/he/she} smoke cigarettes?"
+smq720,"During the past 5 days, including today, on the days {you/he/she} smoked, how many cigarettes did {y"
+smq740,"During the past 5 days, including today, on how many days did {you/he/she} smoke a pipe?"
+smq770,"During the past 5 days, including today, on how many days did {you/he/she} smoke cigars, or little c"
+smq800,"During the past 5 days, including today, on how many days did {you/he/she} use chewing tobacco, such"
+smq817,"During the past 5 days, including today, on how many days did {you/he/she} use snuff, such as Skoal,"
+smq830,"During the past 5 days, including today, on how many days did {you/he/she} use any nicotine replacem"
+smq840,When did {you/he/she} last use a nicotine replacement therapy product?  Was it . . .
+smq845,"During the past 5 days, including today, on how many days did {you/he/she} smoke tobacco in a water "
+smq849,"During the past 5 days, including today, on how many days did {you/he/she} smoke an e-cigarette?"
+smq851,"Smokeless tobacco products are placed in the mouth or nose and include chewing tobacco, snuff, snus,"
+smq857,"During the past 5 days, including today, on how many days did {you/he/she} use snus?"
+smq861,"During the past 5 days, including today, on how many days did {you/he/she} use dissolvables such as "
+smq863,"During the past 5 days, including today, did {you/he/she} use any nicotine replacement therapy produ"
+smq856,"I will now ask you about tobacco smoke in other places. During the last 7 days, {were you/was SP} wo"
+smq858,"While {you were/SP was} working at a job or business outside of the home, did someone else smoke cig"
+smq860,"{I will now ask you about smoking in other places.} During the last 7 days, did {you/SP} spend time "
+smq862,"While {you were/SP was} in a restaurant, did someone else smoke cigarettes or other tobacco products"
+smq866,"During the last 7 days, {did you/SP} spend time in a bar?"
+smq868,"While {you were/SP was} in a bar, did someone else smoke cigarettes or other tobacco products indoor"
+smq870,"During the last 7 days, did {you/SP} ride in a car or motor vehicle?"
+smq872,"While {you were/SP was} riding in a car or motor vehicle, did someone else smoke cigarettes or other"
+smq874,"During the last 7 days, did {you/SP} spend time in a home other than {your/his/her} own?"
+smq876,"While {you were/SP was} in a home other than {your/his/her} own, did someone else smoke cigarettes o"
+smq878,"During the last 7 days,{were you/was SP} in any other indoor area?"
+smq880,"While {you were/SP was} in the other indoor area, did someone else smoke cigarettes or other tobacco"
+cbq505,"{I'll tell you when you will need it.} For the first few questions, please answer yes or no. In the "
+cbq535,"The last time when you ate out or bought food at a fast-food or pizza place, did you see nutrition o"
+cbq540,Did you use the information in deciding which foods to buy? SP interview version: Did {you/SP} use t
+cbq545,{Please open your hand card booklet and turn to hand card 1 to answer the next question.} If nutriti
+cbq550,"[For the following questions, please answer yes or no.] In the past 12 months, did you eat at a rest"
+cbq552,Think about the last time {you/SP} ate at a restaurant with a waiter or waitress. Is it a chain-rest
+cbq580,"The last time you ate at a restaurant with a waiter or waitress, did you see nutrition or health inf"
+cbq585,Did you use the information in deciding which foods to buy? SP interview version: Did {you/SP} use t
+cbq590,{Please look at hand card 1 [again].} If nutrition information were readily available in restaurants
+cbq596,Next I'm going to ask a few questions about the nutritional guidelines recommended for Americans by 
+cbq606,{Have you/Has SP} looked up the My Plate plan on the internet?
+cbq611,{Have you/Has SP} tried to follow the recommendations in the My Plate plan?
+alq160,"During the past 30 days, how many times did {you/SP} drink {DISPLAY NUMBER} or more drinks of any ki"
+whd080u,How did {you/SP} try to lose weight?
+ssatg,Thyroglobulin antibody
+sst3f,Free T3
+sst4f,Free T4
+sstgn,Thyroglobulin
+sstpo,Thyroperoxidase antibody
+sstsh1,Thyroid stimulating hormone
+sstt3,Total T3
+sstt4,Total T4
+eligstat,Eligibility Status for Mortality Follow-up
+mortstat,Final Mortality Status
+ucod_leading,Underlying Cause of Death
+diabetes,Diabetes Flag from Multiple Cause of Death
+hyperten,Hypertension Flag from Multiple Cause of Death
+permth_int,Number of Person Months of Follow-up from NHANES interview date
+permth_exm,Number of Person Months of Follow-up from NHANES Mobile Examination Center (MEC) date

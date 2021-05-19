@@ -61,3 +61,10 @@ summary(model3)
 km<-survey::svykm(Surv(py_int,cvd_death>0)~met_cat, design=demo,se=TRUE)
 jskm::svyjskm(km, table = T)
 
+
+
+
+
+
+
+
