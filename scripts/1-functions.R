@@ -15,19 +15,19 @@ pacman::p_load(
   "arsenal",    #create tables: tableby()
   "expss",      #create contingency tables: calc_cro_cpct()  
   "gtsummary",  #create amazing tables: tbl_summary()
-  
+
   #For loading data
   "readr",      #read in csv data: read_csv()
   "haven",      #read in sas data: read_sas()
   "here",       #setting the directory in the project: here()
-  
+
   #For manipulating data
   "rlang",      #for Non-standard evaluation: eval(), expr(), ensym(), caller_env(), exec(), !!
   "magrittr",   #for the pipe operator: %>% and %<>%
   "broom",      #for tidying up the results of a regression: tidy()
   "lubridate",  #for manipulating dates: intervals(), durations()
   "labelled",   #labelleling the data: set_variable_labels(), set_value_labels()
-  
+
   # Enhancing plots
   "scales",      #makes easy to format percent, dollars, comas: percent()
   "ggalt",       #makes easy splines: geom_xsplines()
@@ -35,7 +35,7 @@ pacman::p_load(
   "gridExtra",   #combining plots and tables on plots: grid.arrange(), tableGrob()
   "ggpubr",      #combines plots: ggarrange()
   "Amelia",      #check missing pattern: missmap()
-  
+
   # Other great packages
   "glue",        #replaces paste: glue()
   "Hmisc",       #explore the data: describe()
@@ -47,7 +47,7 @@ pacman::p_load(
   "survival",    #used for survival analysis
   "codebook",    #set variable labels with codebook: dict_to_list()
   "nhanesA",     #get information of NHANES: nhanesTables(), nhanesTableVars()
-  
+
   #For data manipulation
   "tidyverse"   #data manipulation and visualization:select(), mutate()
 )
