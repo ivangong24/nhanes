@@ -26,15 +26,16 @@ nhanes_iii_mort <- read_nhanes(here("data","raw","NHANES_III_MORT_2015_PUBLIC.da
 
 #--------------------------------NHANES with lodown-----------------------------
 {
-  nhanes_cat <- get_catalog( "nhanes", output_dir = here( "data", "raw" , "NHANES" ))
+  nhanes_files <- get_nhanes_links()
 
   var_data_name <- quote_all(`(?i)demo`,chol,thyroid,`blood count`,Immunization,
                             pressure,CRP,hemoglobin,Biochemistry,glucose)
 
-  var_file_name <- quote_all(`(?i)paq`,bmx,alq,diq,mcq,dbq,ecq,smq,whq,DRXTOT,DRXIFF,DR1,DR2)
+  var_file_name <- quote_all(`(?i)paq`,bmx,alq,diq,mcq,dbq,ecq,
+                             smq,whq,DRXTOT,DRXIFF,DR1,DR2)
 
-  nhanes99to14 <- nhanes_cat %>%
-    filter(years %in% glue("{nhanes_year1}-{nhanes_year2}") &
+  nhanes99to14 <- nhanes_files %>%
+    filter(year %in% glue("{nhanes_year1}-{nhanes_year2}") &
              (
                str_detect(data_name, paste(var_data_name, collapse = "|(?i)")) |
                  str_detect(file_name, paste(var_file_name, collapse = "|(?i)"))

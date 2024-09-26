@@ -1,32 +1,51 @@
-#------------------------------------------------------------------------------#
-#---------------------------Created by Yufan Gong------------------------------#
-#------------------------------Date:03/24/2021---------------------------------#
-#------------------------------To create functions-----------------------------#
-#------------------------------------------------------------------------------#
+## ---------------------------
+##
+## Script name: 1-functions.R
+##
+## Purpose of script: This script contains all the functions that will be used in the project.
+##
+## Author: Yufan Gong
+##
+## Date Created: 2021-03-24
+##
+## Date Modified: 2024-09-25
+##
+## Copyright (c) Yufan Gong, 2024
+## Email: ivangong@ucla.edu
+##
+## ---------------------------
+##
+## Notes:
+##   
+##
+## ---------------------------
 
 #------------------------------Check the directory------------------------------
 getwd()
 
 #------------------------------Loading packages---------------------------------
+if (!require("pacman", quietly = TRUE))
+  install.packages("pacman")
+
 pacman::p_load(
   #For creating tables
-  "kableExtra", #create amazing tables: kbl()
-  "skimr",      #summary statistics:
-  "arsenal",    #create tables: tableby()
-  "expss",      #create contingency tables: calc_cro_cpct()  
-  "gtsummary",  #create amazing tables: tbl_summary()
+  "kableExtra", # create amazing tables: kbl()
+  "skimr",      # summary statistics:
+  "arsenal",    # create tables: tableby()
+  "expss",      # create contingency tables: calc_cro_cpct()  
+  "gtsummary",  # create amazing tables: tbl_summary()
 
   #For loading data
-  "readr",      #read in csv data: read_csv()
-  "haven",      #read in sas data: read_sas()
-  "here",       #setting the directory in the project: here()
+  "readr",      # read in csv data: read_csv()
+  "haven",      # read in sas data: read_sas()
+  "here",       # setting the directory in the project: here()
 
   #For manipulating data
-  "rlang",      #for Non-standard evaluation: eval(), expr(), ensym(), caller_env(), exec(), !!
-  "magrittr",   #for the pipe operator: %>% and %<>%
-  "broom",      #for tidying up the results of a regression: tidy()
-  "lubridate",  #for manipulating dates: intervals(), durations()
-  "labelled",   #labelleling the data: set_variable_labels(), set_value_labels()
+  "rlang",      # for Non-standard evaluation: eval(), expr(), ensym(), caller_env(), exec(), !!
+  "magrittr",   # for the pipe operator: %>% and %<>%
+  "broom",      # for tidying up the results of a regression: tidy()
+  "lubridate",  # for manipulating dates: intervals(), durations()
+  "labelled",   # labelleling the data: set_variable_labels(), set_value_labels()
 
   # Enhancing plots
   "scales",      #makes easy to format percent, dollars, comas: percent()
@@ -37,19 +56,21 @@ pacman::p_load(
   "Amelia",      #check missing pattern: missmap()
 
   # Other great packages
-  "glue",        #replaces paste: glue()
-  "Hmisc",       #explore the data: describe()
-  "mise",        #clear environment space: mise()
-  "gmodels",     #create contigency table: CrossTable()
-  "lodown",      #downloads and imports all available survey data lodown()
-  "srvyr",       #deal with survey data: as_survey_design(), survey_mean()
-  "survey",      #work with survey data: svydesign(), svycoxph()
-  "survival",    #used for survival analysis
-  "codebook",    #set variable labels with codebook: dict_to_list()
-  "nhanesA",     #get information of NHANES: nhanesTables(), nhanesTableVars()
+  "glue",        # replaces paste: glue()
+  "Hmisc",       # explore the data: describe()
+  "mice",        # impute missing data: mice()
+  "gmodels",     # create contigency table: CrossTable()
+  "RNHANES",     # download NHANES data: nhanes_load_data()
+  "srvyr",       # deal with survey data: as_survey_design(), survey_mean()
+  "survey",      # work with survey data: svydesign(), svycoxph()
+  "survival",    # used for survival analysis
+  "codebook",    # set variable labels with codebook: dict_to_list()
+  "nhanesA",     # get information of NHANES: nhanesTables(), nhanesTableVars()
+  "rvest",       # scrape data from the web: read_html(), html_nodes(), html_attr()
+  "furrr",       # parallel processing: future_map(), plan()
 
   #For data manipulation
-  "tidyverse"   #data manipulation and visualization:select(), mutate()
+  "tidyverse"   # data manipulation and visualization:select(), mutate()
 )
 
 #---------------------------------Create functions------------------------------
@@ -166,6 +187,89 @@ table1 <- function(table) {
   return(list(hux=hux, flex=flex))
   
 }
+
+get_nhanes_links <- function() {
+  # Read the web page HTML content
+  webpage <- read_html("https://wwwn.cdc.gov/nchs/nhanes/search/datapage.aspx")
+  
+  # Use rvest to extract all hyperlinks (anchor tags with href attributes)
+  links <- webpage %>%
+    html_nodes("a") %>%
+    html_attr("href")
+  
+  # Filter only links that end with .XPT (NHANES data files)
+  xpt_links <- links[grepl("\\.XPT$", links, ignore.case = TRUE)]
+  
+  # Convert relative URLs to absolute URLs if necessary
+  xpt_links <- ifelse(grepl("^https", xpt_links), xpt_links, 
+                      paste0("https://wwwn.cdc.gov", xpt_links)) %>% 
+    str_replace(., "xpt", "XPT")
+  
+  # extract cycle years from the links
+  cycle_years <- gsub(".*/(\\d{4}-\\d{4}).*", "\\1", xpt_links)
+  
+  # extract filenames from the links
+  file_names <- gsub(".*\\/([^\\/]+\\.XPT)$", "\\1", xpt_links)
+  
+  file_name_noxpt <- str_remove(file_names, ".XPT")
+  
+  doc_links <- links[grepl("\\.htm$", links, ignore.case = TRUE)] %>%
+    keep(~str_detect(., paste(file_name_noxpt, collapse = "|")))
+
+  doc_links <- ifelse(grepl("^https", doc_links), doc_links,
+                      paste0("https://wwwn.cdc.gov", doc_links))
+  
+  # Set up parallel processing with furrr
+  plan(multisession)  # Use multiple cores (for Windows). Use `multicore` for Unix systems.
+  
+  # Function to extract the h3 text from a single link
+  get_h3_text <- function(link) {
+    tryCatch({
+      text <- link %>%
+        read_html() %>%
+        html_nodes("h3") %>%
+        html_text(trim = TRUE)
+      
+      text[2]  # Return the second h3 text
+    }, error = function(e) {
+      return(NA)  # Handle errors by returning NA
+    })
+  }
+  
+  # Parallelize the extraction across all doc_links
+  system.time({
+    dataname <- future_map(doc_links, get_h3_text)
+  })
+  
+
+  data <- data.frame(
+    url = unique(xpt_links),
+    doc_url = unique(doc_links),
+    year = cycle_years,
+    data_name = unlist(dataname),
+    file_name = file_names
+  )
+  
+
+
+  
+  # Extract component descriptions by scraping the text from the <a> tags near the DOC links
+  # component_descriptions <- doc_links %>%
+  #   map(function(link){
+  #     link %>% 
+  #       read_html() %>% 
+  #       html_nodes(xpath = '//*[contains(text(), "Component Description")]/following-sibling::p[1]') %>%
+  #       html_text(trim = TRUE)
+  #   })
+  
+  return(data)  # Return unique links
+}
+
+test <- get_nhanes_links()
+  
+
+
+
 
 # creat codebook
 # my_viewer <- function(tab){
