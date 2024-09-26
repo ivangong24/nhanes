@@ -24,7 +24,9 @@ nhanes_iii_mort <- read_nhanes(here("data","raw","NHANES_III_MORT_2015_PUBLIC.da
   clean_nhanes() #read in NHANES III data
 
 
-#--------------------------------NHANES with lodown-----------------------------
+
+# Grab data of interest and download --------------------------------------
+
 {
   nhanes_files <- get_nhanes_links()
 
@@ -40,14 +42,15 @@ nhanes_iii_mort <- read_nhanes(here("data","raw","NHANES_III_MORT_2015_PUBLIC.da
                str_detect(data_name, paste(var_data_name, collapse = "|(?i)")) |
                  str_detect(file_name, paste(var_file_name, collapse = "|(?i)"))
              )
-           )
+           ) %>% 
+    mutate(output_filename = str_c(here("data", "raw"), "/", year, "/", file_name))
   
   nhanes_link <- nhanes99to14 %>% 
-    select(full_url,output_filename) %>% 
-    mutate_all(~str_replace(.x,"rds","XPT"))
+    select(url, output_filename)
   
-  # Map(function(u, d) download.file(u, d, mode="wb"), nhanes_link$full_url, nhanes_link$output_filename)
-  # nhanes99to14 <- lodown( "nhanes" , nhanes99to14) ##this line doesn't work...
+
+  Map(function(u, d) download.file(u, d, mode="wb"), 
+      nhanes_link$full_url, nhanes_link$output_filename)
 
   } # download the data to your local computer
 

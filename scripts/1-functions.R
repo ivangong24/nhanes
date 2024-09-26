@@ -265,7 +265,6 @@ get_nhanes_links <- function() {
   return(data)  # Return unique links
 }
 
-test <- get_nhanes_links()
   
 
 
