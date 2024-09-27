@@ -237,9 +237,8 @@ get_nhanes_links <- function() {
   }
   
   # Parallelize the extraction across all doc_links
-  system.time({
     dataname <- future_map(doc_links, get_h3_text)
-  })
+
   
 
   data <- data.frame(
